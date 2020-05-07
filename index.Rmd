@@ -1,0 +1,14 @@
+---
+title: "Westman Naturalists"
+---
+
+<img src = "images/banner.jpg" width = "100%">
+
+## Welcome!
+
+We are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and history of south-western Manitoba, Canada. From wildlife to wildflowers and everything in between. Come experience what Westman has to offer!
+
+## {.notice}
+Westman Naturalists is, of course, unable to continue our planned activities at this time. However, we will offer some online content here, on Facebook and via email. We are also working on setting up some live online presentations (which will be listed under [Events](events.html) as soon as we have any details).
+
+Check out Articles for links to resources good for [Naturalists at Home](articles.html#naturalists-at-home).

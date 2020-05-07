@@ -1,0 +1,18 @@
+name: "Westman Naturalists"
+navbar:
+  title: "Westman Naturalists"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Events"
+      href: events.html
+    - text: "Membership"
+      href: membership.html
+    - text: "Articles"
+      href: articles.html
+    - text: "Resources"
+      href: resources.html
+output:
+  html_document:
+    theme: simplex
+    css: styles.css

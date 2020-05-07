@@ -1,0 +1,84 @@
+---
+title: "Events"
+---
+
+```{r, out.extra= "class='img-right'", echo = FALSE} 
+knitr::include_graphics("images/DSC_5760 (2).JPG")
+```
+
+
+There is so much to see and do in this corner of Manitoba!
+
+Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts.
+
+```{r, message = FALSE, echo = FALSE}
+library(tidyverse)
+library(lubridate)
+library(glue)
+library(googlesheets4)
+
+events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY") %>%
+  read_sheet() %>%
+  mutate(month = month(Start),
+         Start = replace(Start, Tentative == "yes", as_datetime(NA)),
+         Date = format(Start, "%A, %b %d %Y"),
+         Date = replace_na(Date, "TBA"),
+         Time = format(Start, "%I:%M %p"),
+         Time = replace_na(Time, "TBA"),
+         Extra = if_else(Extra != "", glue("<div class = 'notice'>\n\n{Extra}\n\n</div>"), ""),
+         Status = if_else(tolower(Status) == "cancelled",
+                          "**<span class='notice'>Cancelled</span>** ", ""),
+         Footer = if_else(Hosted == "Westman Naturalists", 
+                          "[Contact Westman Naturalists for more information](mailto:westman.naturalists@gmail.com)",
+                          "Note that this event is not hosted by Westman Naturalists"),
+         Hosted = glue("Hosted by {Hosted}"),
+         event = glue("{Extra}\n\n",
+                      "{Status}<span class = 'date'>{Date}</span>\n\n",
+                      "**{Title}**; {Hosted}\n\n",
+                      "{Description}\n\n", 
+                      "**Time**: {Time}<br>",
+                      "**Location**: {Location}\n\n",
+                      "{Footer}", .na = ""),
+         past = Start < Sys.time(),
+         past = replace_na(past, FALSE))
+```
+
+## Upcoming Events
+
+Everyone is welcome to join in on any and every event!
+
+Please remember to dress for the weather, bring water and bug spray, and food for outings.
+To aid in planning, please let us know if you are attending any of our out of town trips, by [sending the Westman Naturalists an email](mailto:westman.naturalists@gmail.com).
+
+```{r, echo = FALSE, results = "asis"}
+upcoming <- filter(events, !past) %>%
+  nest(data = c(-month))
+
+for(m in upcoming$month) {
+  print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
+  
+  filter(upcoming, month == m) %>%
+    unnest(cols = data) %>%
+    pull(event) %>%
+    glue_collapse(sep = "\n\n-----\n\n") %>%
+    print()
+}
+```
+
+
+## Previous Events
+```{r, echo = FALSE, results = "asis"}
+past <- filter(events, past) %>%
+  nest(data = c(-month))
+
+for(m in past$month) {
+  print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
+  
+  filter(past, month == m) %>%
+    unnest(cols = data) %>%
+    pull(event) %>%
+    glue_collapse(sep = "\n\n-----\n\n") %>%
+    print()
+}
+```
+

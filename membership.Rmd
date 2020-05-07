@@ -1,0 +1,39 @@
+---
+title: "Membership"
+---
+```{r setup, echo = FALSE, message = FALSE}
+source("import.R")
+```
+
+
+```{r, out.extra= "class='img-right'", echo = FALSE} 
+knitr::include_graphics("images/img-20190525-110127073_1.jpg")
+```
+
+Membership is free and everybody is welcome to join.  
+
+Interested in finding out more? Want to organize an outing/activity?
+
+- Please send us a message at: [email](westman.naturalists@gmail.com)  
+- Sign up for our mailing list: [list](http://eepurl.com/gu7Xyf)  
+- Join us on Facebook: [facebook](https://www.facebook.com/Westman-Naturalists-106366634049382/)
+	
+## Other Nature-related organizations
+
+- Friends of the Bluebirds   http://www.mbbluebirds.org/  
+- Nature Manitoba  http://www.naturemanitoba.ca/  
+- Manitoba’s Important Bird Area Program   https://importantbirdareasmb.ca/  
+- Manitoba Chimney Swift Initiative    http://www.mbchimneyswift.com/  
+- Manitoba Breeding Bird Atlas     https://www.birdatlas.mb.ca  
+
+
+```{r, eval = FALSE, echo=FALSE, results = "asis"}
+l <- list.files("images", "DSC", full.names = TRUE)
+for(i in l) thumbnail("Name", i)
+
+lapply(l, function(x) thumbnail("Name", x))
+```
+
+
+
+

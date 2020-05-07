@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Articles</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Westman Naturalists</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="events.html">Events</a>
+</li>
+<li>
+  <a href="membership.html">Membership</a>
+</li>
+<li>
+  <a href="articles.html">Articles</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Articles</h1>
+
+</div>
+
+
+<div id="table-of-contents" class="section level4">
+<h4>Table of Contents</h4>
+<ol style="list-style-type: decimal">
+<li><a href="#the-dragons-are-coming">The Dragons Are Coming!</a> <em>May 1st, 2020</em></li>
+<li><a href="#naturalists-at-home">Naturalists at Home</a> <em>April 9th, 2020</em></li>
+</ol>
+<hr />
+</div>
+<div id="the-dragons-are-coming" class="section level2">
+<h2>The Dragons Are Coming!</h2>
+<p><strong>Bill Gallaway, Westman Naturalist</strong><br />
+<em>May 1st, 2020</em></p>
+<p>Spring is here, sort of! The bird migration has started - the Snowy Owls are leaving, the ducks and geese are arriving, the raptor migration is in full swing, the arctic and boreal sparrows and finches are here for a while, soon we will be seeing the insectivorous songbirds, shorebirds and the dragonflies. Yup, dragonflies! Of the 70+ species of dragonflies found in Manitoba two are migratory, the Common Green Darner and the Variegated Meadowhawk. Individuals of both of these species can be found in Manitoba from mid-April onwards, the early individuals have flown here from southern climes.</p>
+<p><img src="images/20200421_142924837_iOS.jpeg" width="160" style='float:left;width:300px;max-width:100%;padding:15px;' /> The Common Green Darner (left) can’t be missed, it is big and it is lime green. From the picture it is obvious that they are very visible and unless you are in a lime orchard a Common Green Darner is hard to miss.</p>
+<p>The Variegated Meadowhawk (right) is smaller and has a two white stripes on each side of its thorax with a yellow dot at the bottom of each stripe. Remember the yellow dots, because these can be used to differentiate these meadowhawks from Red-veined Meadowhawks, which can be found later in the season.</p>
+<p><img src="images/20200421_142730465_iOS.jpeg" width="120" style='float:right;width:300px;max-width:100%;padding:15px;' /></p>
+<p>The spring movements of these dragonflies are not as well documented as their fall movements. The fall southward migration of eastern North American populations of Common Green Darners is well studied. Common Green Darners move extraordinary distances with a southward movement of up to 100km in a day. Throughout their range there are also local populations of these dragonflies that overwinter as larvae in the ponds that they develop in. The mass movement of migrant individuals and the mixing of these dragonflies with local populations has an interesting result. Genetically they are all the same population with no separate “races or subspecies” and other than the destruction of larval habitats local extinctions are not likely to occur. So when out birding this spring don’t only look for birds, also keep an eye-out for dragonflies. And, perhaps, you too will find yourself looking for Ebony Bog Haunters, Dragon Hunters, Rusty Snaketails and the many other dragonflies found in Manitoba.</p>
+<p>For those looking for more information:</p>
+<ul>
+<li><a href="http://naturenorth.com">Naturenorth.com</a> has Families, Photos and a cleverly hidden Checklist of Manitoba dragonflies</li>
+<li><a href="https://www.youtube.com/watch?v=knlXTU1R_rE">“Sky Hunters, The World of the Dragonfly - The Secrets of Nature”</a> is an hour-long YouTube documentary</li>
+<li>For those into citizen science there is an app, “Dragonfly ID”, with pictures, descriptions and distribution maps. The associated web-site <a href="https://www.odonatacentral.org/#/" class="uri">https://www.odonatacentral.org/#/</a></li>
+</ul>
+<hr />
+</div>
+<div id="naturalists-at-home" class="section level2">
+<h2>Naturalists at Home</h2>
+<p><strong>Gillian Richards</strong><br />
+<em>April 9th 2020</em></p>
+<p>Nature Manitoba’s site has some interesting content. They recently publicized:</p>
+<p>100 birds 100 years Contest with a checklist, as part of their 100th birthday celebration.</p>
+<p>Parts 1 &amp; 2 of a series of articles “A Snapshot of Butterflies”. A Naturalist’s Colouring Book from local ecologist and artist, Heather Hinam.</p>
+<p>BBC (British Broadcasting Corporation) – some spectacular photos</p>
+<p>Birds Canada has many resources on their site including a page where you can click your location and find out what birds are likely to be around at the moment. Safe Birding</p>
+<p>Birds Canada has information on birding safely in these times; for example citizen science (owl survey) is suspended for now, except close to home.</p>
+<p>Cornell also has a good post on birding mindfully</p>
+<p>Here in Manitoba, as you know the message, is to “Stay home”, and if you do go out please physically distance. Also, if you do consider driving on a back-lane or dirt road be aware that they are muddier than usual at this time of year!</p>
+<p>The Cornell Lab of Ornithology is a great resource with tons links and activities including a lot of educational resources for kids of all ages.</p>
+<p>The Cornell Lab Bird Academy has lots of free content plus various courses. Other tabs on this page lead to a selection of 175 short videos, learning games for kids of all ages and open lectures – videos of past Cornel Lab Seminars.</p>
+<p>eBird is a great way to track your sightings while participating in a world-wide citizen science project used for bird research, distribution maps and more. If you have difficulty getting set-up eBird Essentials is a free guide; or email us for “local” help.</p>
+<p>eBird also has online resources to enjoy birds from your home</p>
+<p>All About Birds lives up to its name with ID resources, live cams, courses and more</p>
+<p>Audubon also has a good selection of nature related activities for all.</p>
+<p>What’s App… If you’d like to share your sightings with other Westman Naturalists, or find out what others are seeing – please join our email list for instructions on how to join our What’s App group</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
