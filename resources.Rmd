@@ -2,4 +2,16 @@
 title: "Resources"
 ---
 
-Coming soon!
+## Christmas Bird Count
+
+- [Car Sign](resources/CBCVehicleSign_EN.pdf)  
+  A sign to print out and keep in/on your car to let others know what we're up to.
+  
+- [Participants Guide](resources/Participants_Guide_to_CBC_Cheat_Sheet.01.pdf)  
+  Details about the CBC
+
+- [Top 3 ways to support Christmas Bird Count](resources/Top3WaysToSupportCBC_EN.pdf)  
+  How to support the CBC
+
+- [Christmas Bird Count Safety](resources/Xmas Count Safety.pdf)  
+  How to be safe during the CBC
