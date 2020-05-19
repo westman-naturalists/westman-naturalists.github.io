@@ -10,6 +10,12 @@
   padding:15px;
 }
 
+.img-center {
+  display: block;
+  margin-right:auto;
+  margin-left:auto;
+  padding:15px;
+}
 
 h3 {
   padding-top: 10px;

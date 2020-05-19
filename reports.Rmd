@@ -1,0 +1,23 @@
+---
+title: Reports
+---
+
+Disclaimer: Not a population biologists!
+
+
+## Christmas Bird Counts
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(glue)
+library(googlesheets4)
+
+cbc <- gs4_get("https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g") %>%
+  read_sheet()
+
+counts <- gs4_get("https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g") %>%
+  read_sheet(skip = 4)
+
+```
+

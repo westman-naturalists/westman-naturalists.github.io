@@ -4,11 +4,30 @@ title: "Articles"
 
 #### Table of Contents
 
+1. [Westman Naturalists' Big Day 2020](#westman-naturalists-big-day-2020) *May 19th, 2020*
 1. [The Dragons Are Coming!](#the-dragons-are-coming) *May 1st, 2020*
 2. [Naturalists at Home](#naturalists-at-home) *April 9th, 2020*
 
 -------
 
+## Westman Naturalists' Big Day 2020
+
+Here are the results from the Westman Naturalists' Big Day (May 9th 2020)
+
+Thanks to the 9 groups (11 people) who contributed to our unofficial Westman Global Big Day. 
+Between us we recorded 40 species from our yards. 
+6 more species were gained by adding 4 more contributors from eBird (see below). Not too bad for staying home. 
+
+Just for comparison, a few people ventured a mile or so away from their yards on May 9 - giving a total of 28 lists on eBird and 82 species for the Brandon area on eBird. 
+That's just less than the record 84 recorded on May 14 2016. 
+
+
+```{r, out.extra= "class = 'img-center' style='width: 60%;max-width:100%;'", echo = FALSE} 
+knitr::include_graphics("images/Westman Big Day 2020 Results.png")
+```
+
+
+-------
 ## The Dragons Are Coming!
 
 **Bill Gallaway, Westman Naturalist**  
@@ -64,7 +83,7 @@ For those looking for more information:
 
 The **Cornell Lab of Ornithology** is a [great resource](https://www.birds.cornell.edu/home) with tons links and activities including a lot of educational resources for kids of all ages.
 
-- The [Cornell Lab Bird Academy](https://academy.allaboutbirds.org/course-list/) has lots of free content plus various courses. Other tabs on this page lead to a selection of 175 short videos, learning games for kids of all ages and open lectures – videos of past Cornel Lab Seminars.
+- The [Cornell Lab Bird Academy](https://academy.allaboutbirds.org/course-list/) has lots of free content plus various courses. Other tabs on this page lead to a selection of 175 short videos, learning games for kids of all ages and open lectures – videos of past Cornell Lab Seminars.
 - [eBird](https://ebird.org/about) is a great way to track your sightings while participating in a world-wide citizen science project used for bird research, distribution maps and more. If you have difficulty getting set-up [eBird Essentials](https://academy.allaboutbirds.org/product/ebird-essentials/) is a free guide; or email us for “local” help.
 - eBird also has [online resources](https://ebird.org/news/online-resources-to-enjoy-birds-from-your-home) to enjoy birds from your home
 - [All About Birds](https://www.allaboutbirds.org/news/) lives up to its name with ID resources, live cams, courses and more
