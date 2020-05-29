@@ -20,7 +20,7 @@ jobs:
           key: r-${{ hashFiles('events.Rmd') }}
 
       - name: Install system dependencies
-        run: sudu apt install libcurl4-openssl-dev
+        run: sudo apt install libcurl4-openssl-dev
 
       - name: Install dependencies
         run: |
