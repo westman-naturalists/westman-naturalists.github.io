@@ -17,7 +17,7 @@ jobs:
         uses: actions/cache@v1
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: r-${{ hashFiles('DESCRIPTION') }}
+          key: r-${{ hashFiles('events.Rmd') }}
 
       - name: Install system dependencies
         if: runner.os == 'Linux'
