@@ -19,6 +19,7 @@ While Westman Naturalists are unable to host in-person events at this, we do hav
 
 ```{r, message = FALSE, echo = FALSE}
 library(dplyr)
+library(stringr)
 library(tidyr)
 library(lubridate)
 library(glue)
