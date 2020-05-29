@@ -1,5 +1,7 @@
 on:
-  push:
+  push
+  schedule:
+    - cron: '0 0 * * *'
 
 name: render_site
 
@@ -9,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@master
+      - uses: r-lib/actions/setup-pandoc@master
 
       - name: Install dependencies
         run: |
