@@ -18,12 +18,15 @@ While Westman Naturalists are unable to host in-person events at this, we do hav
 
 
 ```{r, message = FALSE, echo = FALSE}
-library(tidyverse)
+library(dplyr)
+library(tidyr)
 library(lubridate)
 library(glue)
 library(googlesheets4)
 
-events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY") %>%
+gs4_deauth()
+
+events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY/") %>%
   read_sheet() %>%
   mutate(month = month(Start),
          Start = replace(Start, Tentative == "yes", as_datetime(NA)),

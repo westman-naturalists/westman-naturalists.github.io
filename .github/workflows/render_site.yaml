@@ -15,7 +15,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages(c("remotes", "rmarkdown", "dplyr", "lubridate"))
+          install.packages(c("rmarkdown", "dplyr", "tidyr", "lubridate"))
+          install.packages(c("googlesheets4", "glue"))
         shell: Rscript {0}
 
       - name: Render site
