@@ -28,6 +28,7 @@ knitr::include_graphics("images/Westman Big Day 2020 Results.png")
 
 
 -------
+
 ## The Dragons Are Coming!
 
 **Bill Gallaway, Westman Naturalist**  
@@ -35,14 +36,15 @@ knitr::include_graphics("images/Westman Big Day 2020 Results.png")
 
 Spring is here, sort of! The bird migration has started - the Snowy Owls are leaving, the ducks and geese are arriving, the raptor migration is in full swing, the arctic and boreal sparrows and finches are here for a while, soon we will be seeing the insectivorous songbirds, shorebirds and the dragonflies. Yup, dragonflies! Of the 70+ species of dragonflies found in Manitoba two are migratory, the Common Green Darner and the Variegated Meadowhawk. Individuals of both of these species can be found in Manitoba from mid-April onwards, the early individuals have flown here from southern climes.
 
-```{r, out.extra= "style='float:left;width:300px;max-width:100%;padding:15px;'", echo = FALSE} 
+
+```{r, out.extra= "class = 'img-left' style='width:300px;max-width:100%'", echo = FALSE} 
 knitr::include_graphics("images/20200421_142924837_iOS.jpeg")
 ```
 The Common Green Darner (left) can’t be missed, it is big and it is lime green. From the picture it is obvious that they are very visible and unless you are in a lime orchard a Common Green Darner is hard to miss.
 
 The Variegated Meadowhawk (right) is smaller and has a two white stripes on each side of its thorax with a yellow dot at the bottom of each stripe. Remember the yellow dots, because these can be used to differentiate these meadowhawks from Red-veined Meadowhawks, which can be found later in the season.
 
-```{r, out.extra= "style='float:right;width:300px;max-width:100%;padding:15px;'", echo = FALSE} 
+```{r, out.extra= "class = 'img-right' style='width:300px;max-width:100%'", echo = FALSE} 
 knitr::include_graphics("images/20200421_142730465_iOS.jpeg")
 ```
 
