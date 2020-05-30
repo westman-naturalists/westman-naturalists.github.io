@@ -8,7 +8,8 @@ Disclaimer: Not a population biologists!
 ## Christmas Bird Counts
 
 ```{r}
-library(tidyverse)
+library(dplyr)
+library(tidyr)
 library(lubridate)
 library(glue)
 library(googlesheets4)
