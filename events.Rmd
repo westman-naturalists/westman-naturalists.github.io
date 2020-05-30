@@ -72,19 +72,25 @@ To aid in planning, please let us know if you are attending any of our out of to
 upcoming <- filter(events, !past) %>%
   arrange(Start) %>%
   nest(data = c(-month))
-  
 
-for(m in upcoming$month) {
-  print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
-  
-  filter(upcoming, month == m) %>%
-    unnest(cols = data) %>%
-    pull(event) %>%
-    glue_collapse(sep = "\n\n-----\n\n") %>%
-    print()
+if(nrow(upcoming) == 0){
+  cat("> **Nothing planned at the moment, but check back!**")
+
+} else {
+  for(m in upcoming$month) {
+    print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
+    
+    filter(upcoming, month == m) %>%
+      unnest(cols = data) %>%
+      pull(event) %>%
+      glue_collapse(sep = "\n\n-----\n\n") %>%
+      print()
+  }
 }
 ```
 
+
+--------
 
 ## Previous Events
 ```{r, echo = FALSE, results = "asis"}
