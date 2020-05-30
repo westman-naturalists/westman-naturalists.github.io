@@ -8,9 +8,11 @@ name: render_site
 jobs:
   render_site:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
-      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-r@master
       - uses: r-lib/actions/setup-pandoc@master
 
       - name: Cache R packages
@@ -35,4 +37,4 @@ jobs:
       - name: Push
         run: |
           git commit -a -m 'Build site' || echo "No changes to commit"
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
