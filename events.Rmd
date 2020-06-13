@@ -14,7 +14,9 @@ Events range from casual walks through city parks, to bird watching along rivers
 Enjoy!
 
 ### Current situation {.notice}
-While Westman Naturalists are unable to host in-person events at this, we do have some online events, so keep checking back!
+**Westman Naturalists are venturing outside!**
+
+We will follow current public health guidelines for all our outings, please assess the risks based on your own situation. For more details please see [our protocols](resources.html). We are limiting groups to a maximum of 15, so sign-up is required for each outing.  We have listed a few outings below, and will add more. We are also looking into additional webinar presentations.
 
 
 ```{r, message = FALSE, echo = FALSE}
@@ -33,7 +35,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
          Start = replace(Start, Tentative == "yes", as_datetime(NA)),
          Date = format(Start, "%A, %b %d %Y"),
          Date = replace_na(Date, "TBA"),
-         Time = format(Start, "%I:%M %p"),
+         Time = replace(Time, is.na(Time), format(Start[is.na(Time)], "%I:%M %p")),
          Time = replace_na(Time, "TBA"),
          Time = str_replace(Time, "12:00 AM", "All day"),
          Time = str_remove(Time, "^0"),
