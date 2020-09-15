@@ -23,6 +23,7 @@ We will follow current public health guidelines for all our outings, please asse
 library(dplyr)
 library(stringr)
 library(tidyr)
+library(purrr)
 library(lubridate)
 library(glue)
 library(googlesheets4)
@@ -32,11 +33,14 @@ gs4_deauth()
 events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY/") %>%
   read_sheet() %>%
   mutate(month = month(Start),
-         Start = replace(Start, Tentative == "yes", as_datetime(NA)),
+         Start = as_date(Start),
+         Start = replace(Start, Tentative == "yes", as_date(NA)),
          Date = format(Start, "%A, %b %d %Y"),
          Date = replace_na(Date, "TBA"),
-         Time = replace(Time, is.na(Time), format(Start[is.na(Time)], "%I:%M %p")),
-         Time = replace_na(Time, "TBA"),
+         Time = map(Time, ~str_remove(as.character(.), "[0-9]{4}-[0-9]{2}-[0-9]{2} ")),
+         Time = map2(Time, Start, ~replace(.x, length(.x) == 0, format(.y, "%I:%M %p")))) %>%
+  unnest(cols = "Time") %>%
+  mutate(Time = replace_na(Time, "TBA"),
          Time = str_replace(Time, "12:00 AM", "All day"),
          Time = str_remove(Time, "^0"),
          Description = str_replace_all(Description, 
@@ -45,6 +49,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
          Extra = if_else(Extra != "", glue("<div class = 'notice'>\n\n{Extra}\n\n</div>"), ""),
          Status = if_else(tolower(Status) == "cancelled",
                           "**<span class='notice'>Cancelled</span>** ", ""),
+         Hosted = replace_na(Hosted, "Westman Naturalists"),
          Footer = if_else(str_detect(Hosted, "Westman Naturalists"), 
                           "[Contact Westman Naturalists for more information](mailto:westman.naturalists@gmail.com)",
                           "Note that this event is not hosted by Westman Naturalists"),
@@ -66,7 +71,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
 Everyone is welcome to join in on any and every event!
 
 Please remember to dress for the weather, bring water and bug spray, and food for outings.
-To aid in planning, please let us know if you are attending any of our out of town trips, by [sending the Westman Naturalists an email](mailto:westman.naturalists@gmail.com).
+<!-- To aid in planning, please let us know if you are attending any of our out of town trips, by [sending the Westman Naturalists an email](mailto:westman.naturalists@gmail.com). -->
 
 
 
