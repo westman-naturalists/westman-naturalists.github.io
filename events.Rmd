@@ -37,12 +37,11 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
          Start = replace(Start, Tentative == "yes", as_date(NA)),
          Date = format(Start, "%A, %b %d %Y"),
          Date = replace_na(Date, "TBA"),
-         Time = map(Time, ~str_remove(as.character(.), "[0-9]{4}-[0-9]{2}-[0-9]{2} ")),
-         Time = map2(Time, Start, ~replace(.x, length(.x) == 0, format(.y, "%I:%M %p")))) %>%
+         Time = map(Time, as.character)) %>%
+  mutate(Time = map(Time, ~replace(.x, length(.x) == 0, "All day"))) %>%
   unnest(cols = "Time") %>%
-  mutate(Time = replace_na(Time, "TBA"),
-         Time = str_replace(Time, "12:00 AM", "All day"),
-         Time = str_remove(Time, "^0"),
+  mutate(Time = if_else(str_detect(Time, "[0-9]{4}-[0-9]{2}"), format(as_datetime(Time), "%I:%M %p"), Time)) %>%
+  mutate(Time = str_remove(Time, "^0"),
          Description = str_replace_all(Description, 
                                        "westman.naturalists@gmail.com", 
                                        "[westman.naturalists@gmail.com](mailto:westman.naturalists@gmail.com)"),
