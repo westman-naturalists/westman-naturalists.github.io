@@ -19,7 +19,7 @@ Enjoy!
 We will follow current public health guidelines for all our outings, please assess the risks based on your own situation. For more details please see [our protocols](resources.html). We are limiting groups to a maximum of 15, so sign-up is required for each outing.  We have listed a few outings below, and will add more. We are also looking into additional webinar presentations.
 
 
-```{r, message = FALSE, echo = FALSE}
+```{r, message = FALSE, warning = FALSE, echo = FALSE}
 library(dplyr)
 library(stringr)
 library(tidyr)
