@@ -36,6 +36,7 @@ gs4_deauth()
 events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY/") %>%
   read_sheet() %>%
   mutate(month = month(Start),
+         year = year(Start),
          Start = as_date(Start),
          Start = replace(Start, Tentative == "yes", as_date(NA)),
          Date = format(Start, "%A, %b %d %Y"),
@@ -105,12 +106,15 @@ if(nrow(upcoming) == 0){
 ```{r, echo = FALSE, results = "asis"}
 past <- filter(events, past) %>%
   arrange(desc(Start)) %>%
-  nest(data = c(-month))
+  nest(data = c(-year, -month))
 
-for(m in past$month) {
-  print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
+for(i in seq_len(nrow(past))) {
+  m <- past$month[i]
+  y <- past$year[i]
   
-  filter(past, month == m) %>%
+  print(glue("\n\n## {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"))
+  
+  past[i, ] %>%
     unnest(cols = data) %>%
     pull(event) %>%
     glue_collapse(sep = "\n\n-----\n\n") %>%
