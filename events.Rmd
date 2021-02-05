@@ -64,7 +64,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
                       "**Time**: {Time}<br>",
                       "**Location**: {Location}\n\n",
                       "{Footer}", .na = ""),
-         past = Start < Sys.time(),
+         past = Start < Sys.Date(),
          past = replace_na(past, FALSE))
 ```
 
