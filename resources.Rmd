@@ -2,6 +2,15 @@
 title: "Resources"
 ---
 
+## Check-lists
+
+- [Westman Naturalists Bird Checklist for Riverbank Centre](resources/Brandon Riverbank Bird Checklist.pdf)  
+  Westman Naturalists have produced a bird checklist for Brandon and Area, 
+  using eBird data and expertise from a number of Westman Naturalists. 
+  The version for Brandon Riverbank Inc highlights birds that are likely to be 
+  seen around the Discovery Centre. The checklist can be downloaded here and 
+  printed copies will be available soon at the Discovery Centre. 
+
 ## COVID-19
 - [Protocols](resources/WN COVID Protocols.pdf)
 

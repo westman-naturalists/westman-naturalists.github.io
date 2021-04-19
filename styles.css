@@ -52,8 +52,15 @@ h4 {
   margin-top: 25px !important;
   padding-top: 5px !important;
   font-weight: bold;
-  color: #f8c91c;
+  /*color: #f8c91c;*/
+  color: #c49a00;
   font-weight: bold;
+  letter-spacing: 0.025em;
+  /*text-shadow:
+    -1px -1px 0 #1e2330,
+    1px -1px 0 #1e2330,
+    -1px 1px 0 #1e2330,
+    1px 1px 0 #1e2330;*/
 }
 
 .right {
