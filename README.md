@@ -6,8 +6,7 @@ This is the repository for the [Westman Naturalists website](https://westman-nat
 ## Update Events
 
 - Go to the Westman Naturalists Events Google Sheet and add the event specifics as a new row
-  - The `Description` should be formatted with Markdown
-  - For example, 
+  - The `Description` should be formatted with Markdown, for example:
     - `**Hello**` would be bold **Hello**
     - `*Hello*` would be italics *Hello*
     - `[Sign up](https://link)` would be linked text like [Sign up](https://link)
