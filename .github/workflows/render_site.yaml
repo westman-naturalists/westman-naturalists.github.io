@@ -17,15 +17,16 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v2
 
       - uses: r-lib/actions/setup-r-dependencies@v2
-        with: |<
-          any::rmarkdown
-          any::dplyr
-          any::tidyr
-          any::purrr
-          any::stringr
-          any::lubridate
-          any::googlesheets4
-          any::glue
+        with:
+          extra-packages: |<
+            any::rmarkdown
+            any::dplyr
+            any::tidyr
+            any::purrr
+            any::stringr
+            any::lubridate
+            any::googlesheets4
+            any::glue
 
       - name: Render site
         run: rmarkdown::render_site(encoding = 'UTF-8')
