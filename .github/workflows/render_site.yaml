@@ -13,23 +13,19 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
-      - uses: r-lib/actions/setup-r@master
-      - uses: r-lib/actions/setup-pandoc@master
+      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-pandoc@v2
 
-      - name: Cache R packages
-        uses: actions/cache@v1
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: r-${{ hashFiles('events.Rmd') }}
-          restore-keys: r-
-
-      - name: Install system dependencies
-        run: sudo apt install libcurl4-openssl-dev
-
-      - name: Install dependencies
-        run: |
-          install.packages(c("rmarkdown", "dplyr", "tidyr", "purrr", "stringr", "lubridate", "googlesheets4", "glue"))
-        shell: Rscript {0}
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with: |<
+          any::rmarkdown
+          any::dplyr
+          any::tidyr
+          any::purrr
+          any::stringr
+          any::lubridate
+          any::googlesheets4
+          any::glue
 
       - name: Render site
         run: rmarkdown::render_site(encoding = 'UTF-8')
