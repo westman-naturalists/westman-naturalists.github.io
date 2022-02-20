@@ -13,6 +13,8 @@ navbar:
       href: articles.html
     - text: "Resources"
       href: resources.html
+    - text: "Videos"
+      href: videos.html
 output:
   html_document:
     theme: simplex
