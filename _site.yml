@@ -1,5 +1,4 @@
 name: "Westman Naturalists"
-output_dir: "docs"
 navbar:
   title: "Westman Naturalists"
   left:
