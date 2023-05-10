@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Westman Naturalists"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Events"
+        href: events.qmd
+      - text: "Membership"
+        href: membership.qmd
+      - text: "Helping out"
+        href: helping_out.qmd
+      - text: "Articles"
+        href: articles.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Videos"
+        href: videos.qmd
+
+format:
+  html:
+    theme:
+     - simplex
+     - styles.scss
+
+
+

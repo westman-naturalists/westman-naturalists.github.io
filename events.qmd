@@ -2,35 +2,52 @@
 title: "Events"
 ---
 
-```{r, out.extra= "class='img-right'", echo = FALSE} 
-knitr::include_graphics("images/DSC_5760 (2).JPG")
-```
+::::{.columns}
 
 
+:::{.column width=50%}
 There is so much to see and do in this corner of Manitoba!
 
 Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts.
 
 Enjoy!
 
-> Please fill out our [membership survey](https://forms.gle/QdE7WuqUE3Mj7Nu66) to help us make sure we cover things you'd like to see!
+### Spring 2023 Update {.notice}
+We're done talks for the season, stay-tuned for summer walks and other outings.
 
-### Current situation {.notice}
-(Winter 2022/2023 Update)
 
-Last winter we focused on online presentation, but throughout the summer enjoyed
-in-person outings. 
+:::
+:::{.column width=50%}
+![](images/DSC_5760 (2).JPG){fig-align="right" fig-alt="Pink cactus blooming"}
+:::
+::::
 
-Now as we turn to more indoor presentations, we're experimenting with hybrid
-talks, with options for both in-person and online. Check them out!
+
 
 <!-- 
 **Westman Naturalists are venturing outside!**
 
 We will follow current public health guidelines for all our outings, please assess the risks based on your own situation. For more details please see [our protocols](resources.html). We are limiting groups to a maximum of 15, so sign-up is required for each outing.  We have listed a few outings below, and will add more. We are also looking into additional webinar presentations. -->
 
+### Upcoming Events
 
-```{r, message = FALSE, warning = FALSE, echo = FALSE}
+::::{.columns}
+:::{.column}
+Everyone is welcome to join in on any and every event!
+
+Please remember to dress for the weather, bring water and bug spray, and food for outings.
+:::
+
+:::{.column}
+<div style="float: right; clear: right">
+<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23c49a00&ctz=America%2FWinnipeg&showTitle=0&showDate=1&showPrint=0&showCalendars=0&showTabs=1&src=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="350" height="250" frameborder="0" scrolling="no"></iframe></div>
+:::
+::::
+
+```{r}
+#| message = FALSE,
+#| warning = FALSE,
+#| echo = FALSE
 library(dplyr)
 library(stringr)
 library(tidyr)
@@ -81,16 +98,9 @@ if(any(is.na(events$Time))) stop("Problems with Time", call. = FALSE)
 ```
 
 
-## Upcoming Events
-
-Everyone is welcome to join in on any and every event!
-
-Please remember to dress for the weather, bring water and bug spray, and food for outings.
-<!-- To aid in planning, please let us know if you are attending any of our out of town trips, by [sending the Westman Naturalists an email](mailto:westman.naturalists@gmail.com). -->
-
-
-
-```{r, echo = FALSE, results = "asis"}
+```{r}
+#| echo = FALSE,
+#| results = "asis"
 upcoming <- filter(events, !past) %>%
   arrange(Start) %>%
   nest(data = c(-month))
@@ -114,8 +124,10 @@ if(nrow(upcoming) == 0){
 
 --------
 
-## Previous Events
-```{r, echo = FALSE, results = "asis"}
+### Previous Events
+```{r}
+#| echo = FALSE,
+#| results = "asis"
 past <- filter(events, past) %>%
   arrange(desc(Start)) %>%
   nest(data = c(-year, -month))

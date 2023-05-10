@@ -1,3 +1,17 @@
+/*-- scss:defaults --*/
+$navbar-bg: #1e2330;
+$navbar-fg: white;
+$navbar-hl: #f8c91c;
+$link-color: #4A92F0;
+$h3-font-size: 2.5em;
+
+/*-- scss:rules --*/
+
+.large {
+  font-size: 150%;
+  font-weight: bold;
+}
+
 .img-right {
   float:right;
   max-width:40%;
@@ -17,10 +31,14 @@
   padding:15px;
 }
 
+h2 {
+  font-weight: bold;
+  color: #c49a00;
+}
+
 h3 {
   padding-top: 10px;
-  font-size: 18pt;
-  color: grey;
+  font-weight: bold;
 }
 
 h4 {
@@ -43,7 +61,7 @@ h4 {
   font-size: 125%;
 }
 
-.notice a{
+.notice a {
   color: #e05c5c !important;
   font-weight: bold;
 }
@@ -85,45 +103,20 @@ body {
   line-height: 1.5;
 }
 
-
-
-a, a:active {
-  color: #4A92F0 !important;
-  /*color: #505C7D !important;*/
-}
-
 a:hover {
   text-decoration: underline;
 }
 
 a:visited {
-  color: ;#4A92F0 !important;
-  /*color: #505C7D !important;*/
   text-decoration: underline;
 }
 
 /* Navbar */
-
 .navbar {
-  background-color: #1e2330;
   font-weight: bold;
+}
+
+.navbar-title {
   color: #f8c91c;
-
 }
 
-.navbar-nav a {
-  color: white !important;
-}
-
-.navbar-nav .active a, .navbar-nav a:hover {
-  color: #f8c91c !important;
-  font-weight: bold;
-}
-
-.navbar-header a {
-  color: #f8c91c !important;
-}
-
-.navbar-header a:hover {
-  color: #f8c91c !important;
-}

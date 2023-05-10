@@ -1,0 +1,31 @@
+---
+title: "Membership"
+---
+```{r}
+#| label = "setup",
+#| echo = FALSE,
+#| message = FALSE
+source("import.R")
+```
+
+
+::::{.columns}
+:::{.column width=60%}
+
+Membership is free and everybody is welcome to join.  
+
+Interested in finding out more? Want to organize an outing/activity?
+
+- Please send us a message at: [email](mailto:westman.naturalists@gmail.com)  
+- Sign up for our mailing list: [list](http://eepurl.com/gu7Xyf)  
+- Join us on Facebook: [facebook](https://www.facebook.com/Westman.Naturalists/)
+
+See our [Helping Out](helping_out.html) page for more ways to get involved in
+Nature.
+
+:::
+:::{.column width=40%}
+![](images/img-20190525-110127073_1.jpg){fig-alt="Two people with backpacks walking down a grassy path among trees just leafing out"}
+:::
+::::
+
