@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/index.html</loc>
-    <lastmod>2023-05-10T17:00:29.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/membership.html</loc>
-    <lastmod>2023-05-10T17:00:30.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/events.html</loc>
-    <lastmod>2023-05-10T17:00:34.401Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/reports.html</loc>
-    <lastmod>2023-05-10T17:01:10.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/videos.html</loc>
-    <lastmod>2023-05-10T17:01:10.337Z</lastmod>
+    <lastmod>2023-05-10T19:10:37.782Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/resources.html</loc>
-    <lastmod>2023-05-10T17:01:10.525Z</lastmod>
+    <lastmod>2023-05-10T19:10:38.658Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/LICENSE.html</loc>
-    <lastmod>2023-05-10T17:01:10.985Z</lastmod>
+    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/membership.html</loc>
+    <lastmod>2023-05-10T19:10:40.294Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/articles.html</loc>
-    <lastmod>2023-05-10T17:01:11.221Z</lastmod>
+    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/videos.html</loc>
+    <lastmod>2023-05-10T19:10:40.690Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/helping_out.html</loc>
-    <lastmod>2023-05-10T17:01:11.433Z</lastmod>
+    <lastmod>2023-05-10T19:10:41.246Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/about.html</loc>
-    <lastmod>2023-05-10T17:01:11.625Z</lastmod>
+    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/index.html</loc>
+    <lastmod>2023-05-10T19:10:41.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/articles.html</loc>
+    <lastmod>2023-05-10T19:10:42.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/events.html</loc>
+    <lastmod>2023-05-10T19:10:52.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/westman-naturalists/westman-naturalists.github.io/LICENSE.html</loc>
+    <lastmod>2023-05-10T19:10:54.690Z</lastmod>
   </url>
 </urlset>
