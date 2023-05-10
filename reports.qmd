@@ -1,5 +1,7 @@
 ---
 title: Reports
+execute: 
+  freeze: true
 ---
 
 Disclaimer: Not a population biologists!

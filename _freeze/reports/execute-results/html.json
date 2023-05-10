@@ -1,0 +1,14 @@
+{
+  "hash": "7fd727aeb6da800d5c8903707dab4397",
+  "result": {
+    "markdown": "---\ntitle: Reports\nexecute: \n  freeze: true\n---\n\n\nDisclaimer: Not a population biologists!\n\n\n## Christmas Bird Counts\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(dplyr)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n\nAttaching package: 'dplyr'\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n```\n:::\n\n```{.r .cell-code}\nlibrary(tidyr)\nlibrary(lubridate)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n\nAttaching package: 'lubridate'\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n```\n:::\n\n```{.r .cell-code}\nlibrary(glue)\nlibrary(googlesheets4)\n\ncbc <- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %>%\n  read_sheet()\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n! Using an auto-discovered, cached token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  See gargle's \"Non-interactive auth\" vignette for more details:\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  <https://gargle.r-lib.org/articles/non-interactive-auth.html>\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nℹ The googlesheets4 package is using a cached token for\n  'steffi.lazerte@gmail.com'.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nAuto-refreshing stale OAuth token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n✔ Reading from \"Brandon CBC \".\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n✔ Range 'All Years'.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nNew names:\n• `` -> `...1`\n```\n:::\n\n```{.r .cell-code}\ncounts <- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %>%\n  read_sheet(skip = 4)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n✔ Reading from \"Brandon CBC \".\n✔ Range '5:10000000'.\nNew names:\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
