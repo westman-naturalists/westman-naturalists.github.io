@@ -1,0 +1,146 @@
+---
+title: "About Us"
+---
+
+
+The Westman Naturalists are organized by a team of volunteers.
+
+Interesting in getting involved? Send us an [email](mailto:westman.naturalists@gmail.com)!
+
+::::{.columns}
+:::{.column width=70%}
+### Alex Koiter
+
+[**President**]{.large}<br>
+**Committees**: Speakers
+
+Alex is an Associate Professor in Geography and Environment at Brandon University.
+Alex enjoys leading trips to explore local Westman landscapes and glacial history.
+
+:::
+:::{.column width=30%}
+![](images/alex.jpg)
+:::
+::::
+
+
+
+::::{.columns}
+:::{.column width=60%}
+### Jen Wasko 
+[**Vice-President**]{.large}<br>
+**Committees**: Financial and Planning
+
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+
+
+::::{.columns}
+:::{.column width=60%}
+### Kathryn Hyndman
+[**Secretary Treasurer**]{.large}<br>
+**Committees**: Financial and Planning
+
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+
+::::{.columns}
+:::{.column width=60%}
+### Bill Gallaway
+**Committees**: Field Trips
+
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+::::{.columns}
+:::{.column width=60%}
+### Carson Kearns
+**Committees**: Communications (Social media), Field Trips
+
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+::::{.columns}
+:::{.column width=60%}
+### Erica Alex
+**Committees**: Communications (Social media), Speakers
+
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+::::{.columns}
+:::{.column width=60%}
+### Gillian Richards
+**Committees**: Communications (Newsletter, Email), Financial and Planning<br>
+**Other**: Christmas Bird Count
+
+
+
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+::::{.columns}
+:::{.column width=60%}
+### Glennis Lewis
+**Committees**: Organization, Field Trips
+:::
+
+:::{.column width=40%}
+![](images/)
+:::
+::::
+
+::::{.columns}
+:::{.column width=70%}
+### Steffi LaZerte
+**Committees:** Speakers, Communications (webmaster, events advertising)
+
+Steffi is an independent biologist and R consultant and advid gardener.
+Steffi enjoys getting away from her computer to explore Westman Nature, taking her
+cats if she can!
+:::
+
+:::{.column width=30%}
+![](images/steffi_and_nami.jpg)
+:::
+::::
+
+
+
+
+
+
+
+
+## Alumni
+[**Many thanks!**]{.large}
+
+- Carson Rogers
+- Megan Hamill
+- Colin Blyth
