@@ -7,9 +7,12 @@ The Westman Naturalists are organized by a team of volunteers.
 
 Interesting in getting involved? Send us an [email](mailto:westman.naturalists@gmail.com)!
 
-::::{.columns}
-:::{.column width=70%}
+
 ### Alex Koiter
+
+::: {.column-margin}
+![](images/alex.jpg)
+:::
 
 [**President**]{.large}<br>
 **Committees**: Speakers
@@ -17,121 +20,92 @@ Interesting in getting involved? Send us an [email](mailto:westman.naturalists@g
 Alex is an Associate Professor in Geography and Environment at Brandon University.
 Alex enjoys leading trips to explore local Westman landscapes and glacial history.
 
-:::
-:::{.column width=30%}
-![](images/alex.jpg)
-:::
-::::
 
 
-
-::::{.columns}
-:::{.column width=70%}
 ### Jen Wasko 
+::: {.column-margin}
+![](images/)
+:::
+
 [**Vice-President**]{.large}<br>
 **Committees**: Financial and Planning
 
-:::
-
-:::{.column width=30%}
-![](images/)
-:::
-::::
 
 
-
-::::{.columns}
-:::{.column width=70%}
 ### Kathryn Hyndman
+
+::: {.column-margin}
+![](images/kathryn_sm.jpg)
+:::
+
 [**Secretary Treasurer**]{.large}<br>
 **Committees**: Financial and Planning
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at Brandon University. Her passions include scuba diving and travelling. Many of her trips involve watching and photographing birds and animals as well as marine fish.
 
-:::
-
-:::{.column width=30%}
-![](images/kathryn_sm.jpg)
-:::
-::::
 
 
-::::{.columns}
-:::{.column width=70%}
+
 ### Bill Gallaway
+::: {.column-margin}
+![](images/)
+:::
+
 **Committees**: Field Trips
 
-:::
 
-:::{.column width=30%}
+
+### Carson Kearns
+::: {.column-margin}
 ![](images/)
 :::
-::::
 
-::::{.columns}
-:::{.column width=70%}
-### Carson Kearns
 **Committees**: Communications (Social media), Field Trips
 
-:::
 
-:::{.column width=30%}
+
+### Erica Alex
+::: {.column-margin}
 ![](images/)
 :::
-::::
 
-::::{.columns}
-:::{.column width=70%}
-### Erica Alex
 **Committees**: Communications (Social media), Speakers
 
-:::
 
-:::{.column width=30%}
+
+### Gillian Richards
+::: {.column-margin}
 ![](images/)
 :::
-::::
 
-::::{.columns}
-:::{.column width=70%}
-### Gillian Richards
 **Committees**: Communications (Newsletter, Email), Financial and Planning<br>
 **Other**: Christmas Bird Count
 
 
-
-:::
-
-:::{.column width=30%}
-![](images/)
-:::
-::::
-
-::::{.columns}
-:::{.column width=70%}
 ### Glennis Lewis
-**Committees**: Financial and Planning, Field Trips
-:::
 
-:::{.column width=30%}
+::: {.column-margin}
 ![](images/)
 :::
-::::
 
-::::{.columns}
-:::{.column width=70%}
+**Committees**: Financial and Planning, Field Trips
+
+
+
+
 ### Steffi LaZerte
+
+::: {.column-margin}
+![](images/steffi_and_nami.jpg)
+:::
+
 **Committees:** Speakers, Communications (webmaster, events advertising)
 
 Steffi is an independent biologist and R consultant and avid gardener.
-Steffi enjoys getting away from her computer to explore Westman Nature, taking her
-cats if she can!
-:::
+Steffi enjoys getting away from her computer to explore Westman Nature, taking her cats if she can!
 
-:::{.column width=30%}
-![](images/steffi_and_nami.jpg)
-:::
-::::
+
+
 
 
 
