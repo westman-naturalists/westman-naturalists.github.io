@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "membership.html",
+    "href": "membership.html",
+    "title": "Membership",
     "section": "",
-    "text": "Waiver used for outings"
-  },
-  {
-    "objectID": "resources.html#waiver",
-    "href": "resources.html#waiver",
-    "title": "Resources",
-    "section": "",
-    "text": "Waiver used for outings"
-  },
-  {
-    "objectID": "resources.html#check-lists",
-    "href": "resources.html#check-lists",
-    "title": "Resources",
-    "section": "Check-lists",
-    "text": "Check-lists\n\nWestman Naturalists Bird Checklist for Riverbank Centre\nWestman Naturalists have produced a bird checklist for Brandon and Area, using eBird data and expertise from a number of Westman Naturalists. The version for Brandon Riverbank Inc highlights birds that are likely to be seen around the Discovery Centre. The checklist can be downloaded here and printed copies will be available soon at the Discovery Centre."
-  },
-  {
-    "objectID": "resources.html#christmas-bird-count",
-    "href": "resources.html#christmas-bird-count",
-    "title": "Resources",
-    "section": "Christmas Bird Count",
-    "text": "Christmas Bird Count\n\nCar Sign\nA sign to print out and keep in/on your car to let others know what we’re up to.\nParticipants Guide\nDetails about the CBC\nTop 3 ways to support Christmas Bird Count\nHow to support the CBC\nChristmas Bird Count Safety\nHow to be safe during the CBC"
-  },
-  {
-    "objectID": "helping_out.html",
-    "href": "helping_out.html",
-    "title": "Helping out",
-    "section": "",
-    "text": "Are you interested in Helping Out or supporting Nature? Here we have listed a number of links to projects that are looking for help in protecting or researching nature, from birds to bats and habitats.\nSee what appeals to you!"
-  },
-  {
-    "objectID": "helping_out.html#westman-naturalists-presentations",
-    "href": "helping_out.html#westman-naturalists-presentations",
-    "title": "Helping out",
-    "section": "Westman Naturalists Presentations",
-    "text": "Westman Naturalists Presentations\nThese projects are ones which have given talks to us or taken us out on excursions, and which are all looking for volunteers to help out in various ways.\nSome are local, requiring you to go outside, count birds, set up boxes, etc. Others are online, in which you can participate from the comfort of your own home.\n\nManitoba’s Important Bird Area Program [Local]\n\nWe’ve had several presentations and events with the IBA over the years and they are always looking for volunteers to help out from participating in a “Blitz” to those who care for specific IBAs.\n\nZooniverse Woodpecker Cavity Cam [Online]\n\nIn October 2021, Dr. Elena West shared a presentation on her work with red-headed woodpeckers and the citizen science project they’ve set up through the Zooniverse to help identify what’s going on in their trail camera pictures.\n\nCanada-wide Batbox project [Local]\n\nIn March 2021, Karen Vanderwolf talked to us about the Batbox project and white-nose syndrome. Check out the project if you’re interested in joining this study.\n\nManitoba Burrowing Owl Recovery Programs [Local]\n\nIn September 2020, Alexandra Froese talked to us about the Manitoba Burrowing Owl Recovery Programs.\nTo help out, you can report Burrowing Owl sightings or volunteer your time to help dig burrows, put up release pens or to help with surveys.\n\nAssiniboine Food Forest [Local]\n\nIn August 2019 Dave Barnes took us for a walk around the Assiniboine Food Forest.\nYou can volunteer to help out with various tasks."
-  },
-  {
-    "objectID": "helping_out.html#annual-events",
-    "href": "helping_out.html#annual-events",
-    "title": "Helping out",
-    "section": "Annual events",
-    "text": "Annual events\nThese annual citizen science events are always worth supporting with your time and energy! Currently the list is for birding events, but we hope to add other, non-bird related events too!\n\nChristmas Bird Count [Local; Dec-Jan]\nProject Feeder Watch [Local; Nov-Apr]\nGreat Backyard Bird Count [Local; Feb]\nGlobal Big Day [Local; May]"
-  },
-  {
-    "objectID": "helping_out.html#other-nature-related-organizations",
-    "href": "helping_out.html#other-nature-related-organizations",
-    "title": "Helping out",
-    "section": "Other Nature-related organizations",
-    "text": "Other Nature-related organizations\n\nBee City Brandon\nFriends of the Bluebirds\nManitoba’s Important Bird Area Program\nNature Manitoba\nManitoba Chimney Swift Initiative\nManitoba Breeding Bird Atlas"
+    "text": "Membership is free and everybody is welcome to join.\nInterested in finding out more? Want to organize an outing/activity?\n\nPlease send us a message at: email\n\nSign up for our mailing list: list\n\nJoin us on Facebook: facebook\n\nSee our Helping Out page for more ways to get involved in Nature."
   },
   {
     "objectID": "about.html",
@@ -96,13 +47,6 @@
     "title": "GNU General Public License",
     "section": "",
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n&lt;one line to give the program's name and a brief idea of what it does.&gt;\nCopyright (C) &lt;year&gt;  &lt;name of author&gt;\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:\n&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;\nThis program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.\nThis is free software, and you are welcome to redistribute it\nunder certain conditions; type 'show c' for details.\nThe hypothetical commands show w and show c should show the appropriate parts of the General Public License. Of course, your program’s commands might be different; for a GUI interface, you would use an “about box”.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see &lt;http://www.gnu.org/licenses/&gt;.\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;."
-  },
-  {
-    "objectID": "membership.html",
-    "href": "membership.html",
-    "title": "Membership",
-    "section": "",
-    "text": "Membership is free and everybody is welcome to join.\nInterested in finding out more? Want to organize an outing/activity?\n\nPlease send us a message at: email\n\nSign up for our mailing list: list\n\nJoin us on Facebook: facebook\n\nSee our Helping Out page for more ways to get involved in Nature."
   },
   {
     "objectID": "index.html#welcome",
@@ -411,6 +355,62 @@
     "title": "Events",
     "section": "July 2019",
     "text": "July 2019\nWednesday, Jul 17 2019\nGlacial History of Brandon Hills; Hosted by Westman Naturalists\nCome and learn about the formation of the Brandon Hills and surrounding areas. This walk will involve a steep climb on uneven terrain to the top of the bald hills on the south-eastern portion of the Brandon Hills. Sturdy footwear, water and bug repellent is strongly recommended. Meet at 6pm in the south-east corner of the Landmark Cinemas parking lot for carpooling to the Brandon Hills.\nTime: 6:00 PMLocation: Brandon Hills\nContact Westman Naturalists for more information\n\nSunday, Jul 07 2019\nRockin’ and Walking’ Around Souris; Hosted by Nature Manitoba\nSee website for additional details http://www.naturemanitoba.ca/outdoor-activities/2008\nTime: All dayLocation: Souris\nNote that this event is not hosted by Westman Naturalists\n\nSaturday, Jul 06 2019\nThe Beautiful Butterfly Search; Hosted by Nature Conservancy of Canada\nSee website for additional details http://events.natureconservancy.ca/al-event/the-beautiful-butterfly-search/\nTime: 1:00 PMLocation: Manitoba\nNote that this event is not hosted by Westman Naturalists\n\nFriday, Jul 05 2019\nEarly morning bird survey; Hosted by Ducks Unlimited Canada\nLooking for some Volunteer Birders to help out with a early morning bird survey on Friday (July 5th) near rapid city, transportation will be provided from Minnedosa at 5:30 AM and we would likely be back by 10:00 am. It requires about 1.5 miles of walking. If you are interested please contact Heidi Hislop Habitat Specialis, Ducks Unlimited Canada, Brandon Field Office, 204 729-3518\nTime: 5:30 AMLocation: Rapid City\nNote that this event is not hosted by Westman Naturalists"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Waiver used for outings"
+  },
+  {
+    "objectID": "resources.html#waiver",
+    "href": "resources.html#waiver",
+    "title": "Resources",
+    "section": "",
+    "text": "Waiver used for outings"
+  },
+  {
+    "objectID": "resources.html#check-lists",
+    "href": "resources.html#check-lists",
+    "title": "Resources",
+    "section": "Check-lists",
+    "text": "Check-lists\n\nWestman Naturalists Bird Checklist for Riverbank Centre\nWestman Naturalists have produced a bird checklist for Brandon and Area, using eBird data and expertise from a number of Westman Naturalists. The version for Brandon Riverbank Inc highlights birds that are likely to be seen around the Discovery Centre. The checklist can be downloaded here and printed copies will be available soon at the Discovery Centre."
+  },
+  {
+    "objectID": "resources.html#christmas-bird-count",
+    "href": "resources.html#christmas-bird-count",
+    "title": "Resources",
+    "section": "Christmas Bird Count",
+    "text": "Christmas Bird Count\n\nCar Sign\nA sign to print out and keep in/on your car to let others know what we’re up to.\nParticipants Guide\nDetails about the CBC\nTop 3 ways to support Christmas Bird Count\nHow to support the CBC\nChristmas Bird Count Safety\nHow to be safe during the CBC"
+  },
+  {
+    "objectID": "helping_out.html",
+    "href": "helping_out.html",
+    "title": "Helping out",
+    "section": "",
+    "text": "Are you interested in Helping Out or supporting Nature? Here we have listed a number of links to projects that are looking for help in protecting or researching nature, from birds to bats and habitats.\nSee what appeals to you!"
+  },
+  {
+    "objectID": "helping_out.html#westman-naturalists-presentations",
+    "href": "helping_out.html#westman-naturalists-presentations",
+    "title": "Helping out",
+    "section": "Westman Naturalists Presentations",
+    "text": "Westman Naturalists Presentations\nThese projects are ones which have given talks to us or taken us out on excursions, and which are all looking for volunteers to help out in various ways.\nSome are local, requiring you to go outside, count birds, set up boxes, etc. Others are online, in which you can participate from the comfort of your own home.\n\nManitoba’s Important Bird Area Program [Local]\n\nWe’ve had several presentations and events with the IBA over the years and they are always looking for volunteers to help out from participating in a “Blitz” to those who care for specific IBAs.\n\nZooniverse Woodpecker Cavity Cam [Online]\n\nIn October 2021, Dr. Elena West shared a presentation on her work with red-headed woodpeckers and the citizen science project they’ve set up through the Zooniverse to help identify what’s going on in their trail camera pictures.\n\nCanada-wide Batbox project [Local]\n\nIn March 2021, Karen Vanderwolf talked to us about the Batbox project and white-nose syndrome. Check out the project if you’re interested in joining this study.\n\nManitoba Burrowing Owl Recovery Programs [Local]\n\nIn September 2020, Alexandra Froese talked to us about the Manitoba Burrowing Owl Recovery Programs.\nTo help out, you can report Burrowing Owl sightings or volunteer your time to help dig burrows, put up release pens or to help with surveys.\n\nAssiniboine Food Forest [Local]\n\nIn August 2019 Dave Barnes took us for a walk around the Assiniboine Food Forest.\nYou can volunteer to help out with various tasks."
+  },
+  {
+    "objectID": "helping_out.html#annual-events",
+    "href": "helping_out.html#annual-events",
+    "title": "Helping out",
+    "section": "Annual events",
+    "text": "Annual events\nThese annual citizen science events are always worth supporting with your time and energy! Currently the list is for birding events, but we hope to add other, non-bird related events too!\n\nChristmas Bird Count [Local; Dec-Jan]\nProject Feeder Watch [Local; Nov-Apr]\nGreat Backyard Bird Count [Local; Feb]\nGlobal Big Day [Local; May]"
+  },
+  {
+    "objectID": "helping_out.html#other-nature-related-organizations",
+    "href": "helping_out.html#other-nature-related-organizations",
+    "title": "Helping out",
+    "section": "Other Nature-related organizations",
+    "text": "Other Nature-related organizations\n\nBee City Brandon\nFriends of the Bluebirds\nManitoba’s Important Bird Area Program\nNature Manitoba\nManitoba Chimney Swift Initiative\nManitoba Breeding Bird Atlas"
   },
   {
     "objectID": "reports.html",
