@@ -1,52 +1,24 @@
 [
   {
-    "objectID": "membership.html",
-    "href": "membership.html",
-    "title": "Membership",
+    "objectID": "reports.html",
+    "href": "reports.html",
+    "title": "Reports",
     "section": "",
-    "text": "Membership is free and everybody is welcome to join.\nInterested in finding out more? Want to organize an outing/activity?\n\nPlease send us a message at: email\n\nSign up for our mailing list: list\n\nJoin us on Facebook: facebook\n\nSee our Helping Out page for more ways to get involved in Nature."
+    "text": "Disclaimer: Not a population biologists!"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "reports.html#christmas-bird-counts",
+    "href": "reports.html#christmas-bird-counts",
+    "title": "Reports",
+    "section": "Christmas Bird Counts",
+    "text": "Christmas Bird Counts\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(tidyr)\nlibrary(lubridate)\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\nlibrary(glue)\nlibrary(googlesheets4)\n\ncbc &lt;- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %&gt;%\n  read_sheet()\n\n! Using an auto-discovered, cached token.\n\n\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n\n\n  See gargle's \"Non-interactive auth\" vignette for more details:\n\n\n  &lt;https://gargle.r-lib.org/articles/non-interactive-auth.html&gt;\n\n\nℹ The googlesheets4 package is using a cached token for\n  'steffi.lazerte@gmail.com'.\n\n\nAuto-refreshing stale OAuth token.\n\n\n✔ Reading from \"Brandon CBC \".\n\n\n✔ Range 'All Years'.\n\n\nNew names:\n• `` -&gt; `...1`\n\ncounts &lt;- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %&gt;%\n  read_sheet(skip = 4)\n\n✔ Reading from \"Brandon CBC \".\n✔ Range '5:10000000'.\nNew names:"
+  },
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
     "section": "",
-    "text": "Waiver used for outings"
-  },
-  {
-    "objectID": "resources.html#waiver",
-    "href": "resources.html#waiver",
-    "title": "Resources",
-    "section": "",
-    "text": "Waiver used for outings"
-  },
-  {
-    "objectID": "resources.html#check-lists",
-    "href": "resources.html#check-lists",
-    "title": "Resources",
-    "section": "Check-lists",
-    "text": "Check-lists\n\nWestman Naturalists Bird Checklist for Riverbank Centre\nWestman Naturalists have produced a bird checklist for Brandon and Area, using eBird data and expertise from a number of Westman Naturalists. The version for Brandon Riverbank Inc highlights birds that are likely to be seen around the Discovery Centre. The checklist can be downloaded here and printed copies will be available soon at the Discovery Centre."
-  },
-  {
-    "objectID": "resources.html#christmas-bird-count",
-    "href": "resources.html#christmas-bird-count",
-    "title": "Resources",
-    "section": "Christmas Bird Count",
-    "text": "Christmas Bird Count\n\nCar Sign\nA sign to print out and keep in/on your car to let others know what we’re up to.\nParticipants Guide\nDetails about the CBC\nTop 3 ways to support Christmas Bird Count\nHow to support the CBC\nChristmas Bird Count Safety\nHow to be safe during the CBC"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
-    "section": "",
-    "text": "The Westman Naturalists are organized by a team of volunteers.\nInteresting in getting involved? Send us an email!"
-  },
-  {
-    "objectID": "about.html#alumni",
-    "href": "about.html#alumni",
-    "title": "About Us",
-    "section": "Alumni",
-    "text": "Alumni\nMany thanks!\n\nCarson Rogers\nMegan Hamill\nColin Blyth"
+    "text": "Brandon iNaturalist City Nature Challenge\nApril 1st 2022\n\n\n\n\n\n\n\nEcology of Invasive Wild Pigs on the Canadian Prairies\nFebruary 18th 2022"
   },
   {
     "objectID": "helping_out.html",
@@ -103,6 +75,13 @@
     "title": "Articles",
     "section": "Naturalists at Home",
     "text": "Naturalists at Home\nGillian Richards\nApril 9th 2020\n\nSafe birding\n\nBirds Canada has information on birding safely in these times; for example citizen science (owl survey) is suspended for now, except close to home.\nCornell also has a good post on birding mindfully\nHere in Manitoba, as you know the message, is to “Stay home”, and if you do go out please physically distance. Also, if you do consider driving on a back-lane or dirt road be aware that they are muddier than usual at this time of year!\n\n\n\nFun things to do\nNature Manitoba’s site has some interesting content. They recently publicized:\n\n100 birds 100 years Contest with a checklist, as part of their 100th birthday celebration.\nParts 1 & 2 of a series of articles “A Snapshot of Butterflies”\nA Naturalist’s Colouring Book from local ecologist and artist, Heather Hinam.\n\nBBC (British Broadcasting Corporation) – some spectacular photos\nBirds Canada has many resources on their site including a page where you can click your location and find out what birds are likely to be around at the moment.\nThe Cornell Lab of Ornithology is a great resource with tons links and activities including a lot of educational resources for kids of all ages.\n\nThe Cornell Lab Bird Academy has lots of free content plus various courses. Other tabs on this page lead to a selection of 175 short videos, learning games for kids of all ages and open lectures – videos of past Cornell Lab Seminars.\neBird is a great way to track your sightings while participating in a world-wide citizen science project used for bird research, distribution maps and more. If you have difficulty getting set-up eBird Essentials is a free guide; or email us for “local” help.\neBird also has online resources to enjoy birds from your home\nAll About Birds lives up to its name with ID resources, live cams, courses and more\n\nAudubon also has a good selection of nature related activities for all."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Westman Naturalists",
+    "section": "Welcome!",
+    "text": "Welcome!\nWe are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and history of south-western Manitoba, Canada. From wildlife to wildflowers and everything in between. Come experience what Westman has to offer!"
   },
   {
     "objectID": "LICENSE.html",
@@ -483,31 +462,52 @@
     "text": "July 2019\nWednesday, Jul 17 2019\nGlacial History of Brandon Hills; Hosted by Westman Naturalists\nCome and learn about the formation of the Brandon Hills and surrounding areas. This walk will involve a steep climb on uneven terrain to the top of the bald hills on the south-eastern portion of the Brandon Hills. Sturdy footwear, water and bug repellent is strongly recommended. Meet at 6pm in the south-east corner of the Landmark Cinemas parking lot for carpooling to the Brandon Hills.\nTime: 6:00 PMLocation: Brandon Hills\nContact Westman Naturalists for more information\n\nSunday, Jul 07 2019\nRockin’ and Walking’ Around Souris; Hosted by Nature Manitoba\nSee website for additional details http://www.naturemanitoba.ca/outdoor-activities/2008\nTime: All dayLocation: Souris\nNote that this event is not hosted by Westman Naturalists\n\nSaturday, Jul 06 2019\nThe Beautiful Butterfly Search; Hosted by Nature Conservancy of Canada\nSee website for additional details http://events.natureconservancy.ca/al-event/the-beautiful-butterfly-search/\nTime: 1:00 PMLocation: Manitoba\nNote that this event is not hosted by Westman Naturalists\n\nFriday, Jul 05 2019\nEarly morning bird survey; Hosted by Ducks Unlimited Canada\nLooking for some Volunteer Birders to help out with a early morning bird survey on Friday (July 5th) near rapid city, transportation will be provided from Minnedosa at 5:30 AM and we would likely be back by 10:00 am. It requires about 1.5 miles of walking. If you are interested please contact Heidi Hislop Habitat Specialis, Ducks Unlimited Canada, Brandon Field Office, 204 729-3518\nTime: 5:30 AMLocation: Rapid City\nNote that this event is not hosted by Westman Naturalists"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Westman Naturalists",
-    "section": "Welcome!",
-    "text": "Welcome!\nWe are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and history of south-western Manitoba, Canada. From wildlife to wildflowers and everything in between. Come experience what Westman has to offer!"
-  },
-  {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Videos",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Brandon iNaturalist City Nature Challenge\nApril 1st 2022\n\n\n\n\n\n\n\nEcology of Invasive Wild Pigs on the Canadian Prairies\nFebruary 18th 2022"
+    "text": "Waiver used for outings"
   },
   {
-    "objectID": "reports.html",
-    "href": "reports.html",
-    "title": "Reports",
+    "objectID": "resources.html#waiver",
+    "href": "resources.html#waiver",
+    "title": "Resources",
     "section": "",
-    "text": "Disclaimer: Not a population biologists!"
+    "text": "Waiver used for outings"
   },
   {
-    "objectID": "reports.html#christmas-bird-counts",
-    "href": "reports.html#christmas-bird-counts",
-    "title": "Reports",
-    "section": "Christmas Bird Counts",
-    "text": "Christmas Bird Counts\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(tidyr)\nlibrary(lubridate)\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\nlibrary(glue)\nlibrary(googlesheets4)\n\ncbc &lt;- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %&gt;%\n  read_sheet()\n\n! Using an auto-discovered, cached token.\n\n\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n\n\n  See gargle's \"Non-interactive auth\" vignette for more details:\n\n\n  &lt;https://gargle.r-lib.org/articles/non-interactive-auth.html&gt;\n\n\nℹ The googlesheets4 package is using a cached token for\n  'steffi.lazerte@gmail.com'.\n\n\nAuto-refreshing stale OAuth token.\n\n\n✔ Reading from \"Brandon CBC \".\n\n\n✔ Range 'All Years'.\n\n\nNew names:\n• `` -&gt; `...1`\n\ncounts &lt;- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %&gt;%\n  read_sheet(skip = 4)\n\n✔ Reading from \"Brandon CBC \".\n✔ Range '5:10000000'.\nNew names:"
+    "objectID": "resources.html#check-lists",
+    "href": "resources.html#check-lists",
+    "title": "Resources",
+    "section": "Check-lists",
+    "text": "Check-lists\n\nWestman Naturalists Bird Checklist for Riverbank Centre\nWestman Naturalists have produced a bird checklist for Brandon and Area, using eBird data and expertise from a number of Westman Naturalists. The version for Brandon Riverbank Inc highlights birds that are likely to be seen around the Discovery Centre. The checklist can be downloaded here and printed copies will be available soon at the Discovery Centre."
+  },
+  {
+    "objectID": "resources.html#christmas-bird-count",
+    "href": "resources.html#christmas-bird-count",
+    "title": "Resources",
+    "section": "Christmas Bird Count",
+    "text": "Christmas Bird Count\n\nCar Sign\nA sign to print out and keep in/on your car to let others know what we’re up to.\nParticipants Guide\nDetails about the CBC\nTop 3 ways to support Christmas Bird Count\nHow to support the CBC\nChristmas Bird Count Safety\nHow to be safe during the CBC"
+  },
+  {
+    "objectID": "membership.html",
+    "href": "membership.html",
+    "title": "Membership",
+    "section": "",
+    "text": "Membership is free and everybody is welcome to join.\nInterested in finding out more? Want to organize an outing/activity?\n\nPlease send us a message at: email\n\nSign up for our mailing list: list\n\nJoin us on Facebook: facebook\n\nSee our Helping Out page for more ways to get involved in Nature."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "The Westman Naturalists are organized by a team of volunteers.\nInteresting in getting involved? Send us an email!"
+  },
+  {
+    "objectID": "about.html#alumni",
+    "href": "about.html#alumni",
+    "title": "About Us",
+    "section": "Alumni",
+    "text": "Alumni\nMany thanks!\n\nCarson Rogers\nMegan Hamill\nColin Blyth"
   }
 ]
