@@ -11,7 +11,7 @@ Interesting in getting involved? Send us an [email](mailto:westman.naturalists@g
 ### Alex Koiter
 
 ::: {.column-margin}
-![](images/alex.jpg)
+![](images/alex.jpg){fig-alt="Alex Koiter" title="Alex Koiter"}
 :::
 
 [**President**]{.large}<br>
@@ -24,21 +24,19 @@ Alex enjoys leading trips to explore local Westman landscapes and glacial histor
 
 ### Jen Wasko 
 ::: {.column-margin}
-![](images/)
+![](images/jen.jpg){fig-alt="Jen Wasko" title="Jen Wasko"}
 :::
 
 [**Vice-President**]{.large}<br>
 **Committees**: Financial and Planning
 
-Jen is an instructor of Horticulture in the School of Agriculture & Environment 
-at Assiniboine Community College. When not showing students how to divide rhubarb,
-Jen enjoys getting out in nature with her family. 
+Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agriculture and Environment at Assiniboine Community College. When not experimenting with gardening techniques, and spending time with her family, she loves exploring all aspects of nature and sharing this love of the diverse Manitoba Ecosystems with others. 
 
 
 ### Kathryn Hyndman
 
 ::: {.column-margin}
-![](images/kathryn_sm.jpg)
+![](images/kathryn_sm.jpg){fig-alt="Kathryn Hyndman" title="Kathryn Hyndman"}
 :::
 
 [**Secretary Treasurer**]{.large}<br>
@@ -51,7 +49,7 @@ Hello! Kathryn is a retired registered nurse and former nursing professor at Bra
 
 ### Bill Gallaway
 ::: {.column-margin}
-![](images/)
+<!--![](images/)-->
 :::
 
 **Committees**: Field Trips
@@ -60,7 +58,7 @@ Bill is a retired entomologist from Brandon University. Bill enjoys photography,
 
 ### Carson Kearns
 ::: {.column-margin}
-![](images/carson.jpg)
+![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
 :::
 
 **Committees**: Communications (Social media), Field Trips
@@ -70,7 +68,7 @@ Carson works in IT, but prefers to spend his time photographing birds, butterfli
 
 ### Erica Alex
 ::: {.column-margin}
-![](images/erica.JPG)
+![](images/erica.JPG){fig-alt="Erica Alex" title="Erica Alex"}
 :::
 
 **Committees**: Communications (Social media), Speakers
@@ -80,7 +78,7 @@ Erica studies environmental biology as an undergraduate student at the Universit
 
 ### Gillian Richards
 ::: {.column-margin}
-![](images/)
+<!--![](images/)-->
 :::
 
 **Committees**: Communications (Newsletter, Email), Financial and Planning<br>
@@ -95,20 +93,17 @@ Her passion is leading trips and sharing her knowledge of Westman nature.
 ### Glennis Lewis
 
 ::: {.column-margin}
-![](images/)
+![](images/Glennis.jpg){fig-alt="Glennis Lewis" title="Glennis Lewis"}
 :::
 
 **Committees**: Financial and Planning, Field Trips
 
-Glennis is a retired botanist and lawyer. While a botanist by training, Glennis
-also enjoys looking for birds and other wildlife when out on Westman nature 
-excursions.
-
+Glennis Lewis is a retired botanist and lawyer who teaches environmental impact assessment at Brandon University. She leads numerous field trips for the Westman Naturalists.
 
 ### Steffi LaZerte
 
 ::: {.column-margin}
-![](images/steffi_and_nami.jpg)
+![](images/steffi_and_nami.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
 :::
 
 **Committees:** Speakers, Communications (webmaster, events advertising)
