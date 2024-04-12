@@ -21,6 +21,11 @@ website:
         href: videos.qmd
       - text: "About"
         href: about.qmd
+    right:
+      - icon: facebook
+        href: https://www.facebook.com/westman.naturalists/
+      - icon: instagram
+        href: https://www.instagram.com/westmannaturalists/
 
 format:
   html:
