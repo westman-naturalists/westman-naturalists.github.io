@@ -49,7 +49,7 @@ Hello! Kathryn is a retired registered nurse and former nursing professor at Bra
 
 ### Bill Gallaway
 ::: {.column-margin}
-<!--![](images/)-->
+![](images/bill.jpg){fig-alt="Bill Gallaway" title="Bill Gallaway"}
 :::
 
 **Committees**: Field Trips
@@ -64,17 +64,6 @@ Bill is a retired entomologist from Brandon University. Bill enjoys photography,
 **Committees**: Communications (Social media), Field Trips
 
 Carson works in IT, but prefers to spend his time photographing birds, butterflies, and hopefully someday bears. If one of our photos are misidentified on social media, please let him know! 
-
-
-### Erica Alex
-::: {.column-margin}
-![](images/erica.JPG){fig-alt="Erica Alex" title="Erica Alex"}
-:::
-
-**Committees**: Communications (Social media), Speakers
-
-Erica studies environmental biology as an undergraduate student at the University of Saskatchewan. She spends her summers as a technician surveying birds, her primary passion, but is always excited to see new and interesting plants and butterflies!
-
 
 ### Gillian Richards
 ::: {.column-margin}
@@ -103,7 +92,7 @@ Glennis Lewis is a retired botanist and lawyer who teaches environmental impact 
 ### Steffi LaZerte
 
 ::: {.column-margin}
-![](images/steffi_and_nami.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
+![](images/steffi.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
 :::
 
 **Committees:** Speakers, Communications (webmaster, events advertising)
@@ -122,6 +111,21 @@ Steffi enjoys getting away from her computer to explore Westman Nature, taking h
 ## Alumni
 [**Many thanks!**]{.large}
 
+- Erica Alex
 - Carson Rogers
 - Megan Hamill
 - Colin Blyth
+
+<!--
+### Erica Alex
+::: {.column-margin}
+![](images/erica.JPG){fig-alt="Erica Alex" title="Erica Alex"}
+:::
+
+**Committees**: Communications (Social media), Speakers
+
+Erica studies environmental biology as an undergraduate student at the University of Saskatchewan. She spends her summers as a technician surveying birds, her primary passion, but is always excited to see new and interesting plants and butterflies!
+
+-->
+
+
