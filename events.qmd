@@ -12,8 +12,8 @@ Events range from casual walks through city parks, to bird watching along rivers
 
 Enjoy!
 
-### Spring 2024 Update {.notice}
-Talks are on hold for the summer and we're resuming outings!
+<!-- ### Spring 2024 Update {.notice} -->
+<!-- Talks are on hold for the summer and we're resuming outings! -->
 
 :::
 :::{.column width=50%}
