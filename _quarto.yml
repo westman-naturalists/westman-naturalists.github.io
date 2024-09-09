@@ -6,8 +6,6 @@ website:
   title: "Westman Naturalists"
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "Events"
         href: events.qmd
       - text: "Membership"
