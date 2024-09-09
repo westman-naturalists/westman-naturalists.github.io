@@ -7,3 +7,37 @@ title: "Westman Naturalists"
 ## Welcome!
 
 We are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and history of south-western Manitoba, Canada. From wildlife to wildflowers and everything in between. Come experience what Westman has to offer!
+
+::::{style="text-align:center"}
+
+:::{style="color: #c49a00; font-weight:bold; font-size:150%;"}
+Come checkout our next event!
+:::
+
+
+```{r}
+#| results: asis
+library(dplyr)
+library(glue)
+library(lubridate)
+
+next_event <- readRDS("events.rds") |>
+  arrange(date) |>
+  #filter(stringr::str_detect(title, "Duck")) |>
+  filter(date >= Sys.Date()) |>
+  slice(1) |>
+  #mutate(print = if_else(image != "", glue(event, "\n\n", "![Image of event poster from facebook]({image}){{.big-figure}}"), event))
+  mutate(
+    event_link = glue("events.html#{tolower(month(.data$month, label = TRUE, abbr = FALSE))}"),
+    print = if_else(image != "" & !is.na(image),
+                    glue("[![]({image}){{.med-figure fig-alt=\"Image of event poster from facebook\"}}]({event_link})"),
+                    ""), 
+    print = glue("{print}\n\n**[{title}]({event_link})**<br>{date_pretty}<br>{location}")
+  )
+
+print(next_event$print)
+```
+
+
+See more upcoming and past [events](events.html).
+::::

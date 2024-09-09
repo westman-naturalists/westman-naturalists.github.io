@@ -123,3 +123,27 @@ a:visited {
 figcaption {
   text-align:center;
 }
+
+
+.big-figure {
+  width: 50%;
+}
+
+
+@media (max-width: 600px) {
+  .big-figure {
+    width: 100%;
+  }
+}
+
+
+.med-figure {
+  width: 30%;
+}
+
+
+@media (max-width: 400px) {
+  .med-figure {
+    width: 100%;
+  }
+}
