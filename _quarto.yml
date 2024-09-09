@@ -32,6 +32,10 @@ format:
     theme:
      - simplex
      - styles.scss
+    page-layout: full
+    grid:
+      body-width: 700px
+      margin-width: 250px
 
 
 
