@@ -9,6 +9,8 @@ name: render_site
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    env:
+      RENV_CONFIG_SANDBOX_ENABLED: false
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
