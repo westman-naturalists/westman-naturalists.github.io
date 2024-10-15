@@ -45,7 +45,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
     talk = "This is a hybrid event!",
     talk = if_else(remote_speaker,
                    glue("{talk} {speaker} will be joining us via Zoom, but we'll still be meeting in person!"),
-                   "{talk}"),
+                   glue("{talk}")),
     talk = glue("{talk} Feel free to come in person to"),
     talk = if_else(remote_speaker,
                    glue("{talk} socialize with your fellow Westman Naturalists"),
