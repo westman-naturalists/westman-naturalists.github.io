@@ -50,7 +50,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
     talk = if_else(remote_speaker,
                    glue("{talk} socialize with your fellow Westman Naturalists"),
                    glue("{talk} meet {speaker}")),
-    talk = glue("{talk} and see the talk, or join us via Zoom.<br>",
+    talk = glue("{talk} and see the talk, or join us via Zoom. ",
                 "To join us via Zoom, please complete and submit this [short form]({form}) to sign-up. ",
                 "We will email out the Zoom link the evening of the talk."),
     outing = glue("Please complete this [short form]({form}) to sign-up for this event. ",
