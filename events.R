@@ -69,7 +69,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
                      "Note that this event is not hosted by Westman Naturalists"),
     footer = if_else(past, "", footer),
     hosted = glue("Hosted by {hosted}"),
-    location = if_else(is.na(location) & type == "talk", "Brodie Building Rm 3-47, Brandon University & Online", location),
+    location = if_else(is.na(location) & type == "talk", "Brodie Building Rm 4-34, Brandon University & Online", location),
     form = glue("**Participation**: {form}"),
     form = if_else(past, "", form),
     event = glue("{extra}\n\n",
