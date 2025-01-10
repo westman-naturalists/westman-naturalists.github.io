@@ -12,20 +12,20 @@ source("import.R")
 ::::{.columns}
 :::{.column width=60%}
 
-Membership is free and everybody is welcome to join.  
+People of all ages are welcome to join us! We host events across the Westman region and are always open to new ideas from our members.  
 
-Interested in finding out more? Want to organize an outing/activity?
+Interested in finding out more? Want to organize an outing/activity? Get in touch with us below.
 
-- Please send us a message at: [email](mailto:westman.naturalists@gmail.com)  
-- Sign up for our mailing list: [list](https://dashboard.mailerlite.com/forms/437902/92098769306256781/share)  
-- Join us on Facebook: [facebook](https://www.facebook.com/Westman.Naturalists/)
+- Send us a email at [westman.naturalists@gmail.com](mailto:westman.naturalists@gmail.com).
+- Sign up for our [mailing list](https://dashboard.mailerlite.com/forms/437902/92098769306256781/share). Newsletters are generally sent out twice a month with links to outing sign ups and info on events from other organizations.
+- Follow us on [Facebook](https://www.facebook.com/westman.naturalists) and [Instagram](https://www.instagram.com/westmannaturalists/) to see photos from our outings submitted by members!
+- Subscribe to our new [YouTube channel](https://www.youtube.com/@westmannaturalists) to see videos from our outings.
+- Check out our [eBird](https://ebird.org/profile/MzE4NDA1Mw/CA-MB) and [iNaturalist](https://inaturalist.ca/projects/westman-naturalists-outings) pages to see what we've found out and about!
 
-See our [Helping Out](helping_out.html) page for more ways to get involved in
-Nature.
+See our [Helping Out](helping_out.html) page for more ways to get involved.
 
 :::
 :::{.column width=40%}
 ![](images/img-20190525-110127073_1.jpg){fig-alt="Two people with backpacks walking down a grassy path among trees just leafing out"}
 :::
 ::::
-

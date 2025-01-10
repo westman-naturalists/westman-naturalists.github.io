@@ -1,0 +1,69 @@
+---
+title: "Christmas Bird Counts"
+---
+
+## 2024 Brandon Christmas Bird Count
+
+The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the 15 mile diameter count circle.
+
+| Species | Count |
+|---------|------:|
+| Common Merganser | 1 |
+| Grey Partridge | 316 |
+| Ruffed Grouse | 1 |
+| Sharp-tailed Grouse | 141 |
+| Wild Turkey | 35 |
+| Bald Eagle | 3 |
+| Sharp-shinned Hawk | 3 |
+| Cooper's Hawk | 1 |
+| Rock Pigeon | 1863 |
+| Eurasian Collared Dove | 12 |
+| Mourning Dove | 1 |
+| Great Horned Owl | 1 |
+| Snowy Owl | 2 |
+| Downy Woodpecker | 48 |
+| Hairy Woodpecker | 32 |
+| Northern Flicker | 3 |
+| Pileated Woodpecker | 2 |
+| Merlin | 4 |
+| Northern Shrike | 2 |
+| Blue Jay | 78 |
+| Black-billed Magpie | 63 |
+| American Crow | 67 |
+| Common Raven | 76 |
+| Black-capped Chickadee | 378 |
+| Red-breasted Nuthatch | 28 |
+| White-breasted Nuthatch | 105 |
+| Brown Creeper | 3 |
+| American Robin | 35 |
+| European Starling | 45 |
+| Cedar Waxwing | 30 |
+| Snow Bunting | 148 |
+| Dark-eyed Junco | 35 |
+| Red-winged Blackbird | 1 |
+| Purple Finch | 1 |
+| House Finch | 140 |
+| Red Crossbill | 4 |
+| White-winged Crossbill | 40 |
+| Pine Siskin | 9 |
+| House Sparrow | 1111 |
+
+## 2024 Rivers Christmas Bird Count
+
+The 2024 Rivers Christmas Bird Count took place on Sunday, December 29th. We had a record number of 31 field counters spread out over eight sectors of the count circle, and 9 feeder watchers around the Rivers area.
+
+<!--
+## Christmas Bird Count
+
+- [Car Sign](resources/CBCVehicleSign_EN.pdf)  
+  A sign to print out and keep in/on your car to let others know what we're up to.
+  
+- [Participants Guide](resources/Participants_Guide_to_CBC_Cheat_Sheet.01.pdf)  
+  Details about the CBC
+
+- [Top 3 ways to support Christmas Bird Count](resources/Top3WaysToSupportCBC_EN.pdf)  
+  How to support the CBC
+
+- [Christmas Bird Count Safety](resources/Xmas Count Safety.pdf)  
+  How to be safe during the CBC
+-->

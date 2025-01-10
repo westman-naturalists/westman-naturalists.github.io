@@ -2,11 +2,9 @@
 title: "About Us"
 ---
 
-
 The Westman Naturalists are organized by a team of volunteers.
 
 Interesting in getting involved? Send us an [email](mailto:westman.naturalists@gmail.com)!
-
 
 ### Alex Koiter
 
@@ -20,8 +18,6 @@ Interesting in getting involved? Send us an [email](mailto:westman.naturalists@g
 Alex is an Associate Professor in Geography and Environment at Brandon University.
 Alex enjoys leading trips to explore local Westman landscapes and glacial history.
 
-
-
 ### Jen Wasko 
 ::: {.column-margin}
 ![](images/jen.jpg){fig-alt="Jen Wasko" title="Jen Wasko"}
@@ -31,7 +27,6 @@ Alex enjoys leading trips to explore local Westman landscapes and glacial histor
 **Committees**: Financial and Planning
 
 Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agriculture and Environment at Assiniboine Community College. When not experimenting with gardening techniques, and spending time with her family, she loves exploring all aspects of nature and sharing this love of the diverse Manitoba Ecosystems with others. 
-
 
 ### Kathryn Hyndman
 
@@ -43,9 +38,6 @@ Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agricultu
 **Committees**: Financial and Planning
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at Brandon University. Her passions include scuba diving and travelling. Many of her trips involve watching and photographing birds and animals as well as marine fish.
-
-
-
 
 ### Bill Gallaway
 ::: {.column-margin}
@@ -61,9 +53,9 @@ Bill is a retired entomologist from Brandon University. Bill enjoys photography,
 ![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
 :::
 
-**Committees**: Communications (Social media), Field Trips
+**Committees**: Communications (Social Media, Newsletter), Field Trips
 
-Carson works in IT, but prefers to spend his time photographing birds, butterflies, and hopefully someday bears. If one of our photos are misidentified on social media, please let him know! 
+Carson works as a mobile production assistant in Brandon. He spends most of his time taking photos of birds and then sorting through those photos. If any of our social media posts are labelled with the wrong species, let him know!
 
 ### Gillian Richards
 ::: {.column-margin}
@@ -73,11 +65,7 @@ Carson works in IT, but prefers to spend his time photographing birds, butterfli
 **Committees**: Communications (Newsletter, Email), Financial and Planning<br>
 **Other**: Christmas Bird Count
 
-Gillian is an avid birder and an eBird enthusiast.
-Although birds catch her eye, Gillian also spends time
-brushing up on butterflies and native plants.
-Her passion is leading trips and sharing her knowledge of Westman nature.
-
+Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye, Gillian also spends time brushing up on butterflies and native plants. Her passion is leading trips and sharing her knowledge of Westman nature.
 
 ### Glennis Lewis
 
@@ -95,18 +83,9 @@ Glennis Lewis is a retired botanist and lawyer who teaches environmental impact 
 ![](images/steffi.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
 :::
 
-**Committees:** Speakers, Communications (webmaster, events advertising)
+**Committees:** Speakers, Communications (Webmaster, Events Advertising)
 
-Steffi is an independent biologist and R consultant and avid gardener.
-Steffi enjoys getting away from her computer to explore Westman Nature, taking her cats if she can!
-
-
-
-
-
-
-
-
+Steffi is an independent biologist and R consultant and avid gardener. Steffi enjoys getting away from her computer to explore Westman Nature, taking her cats if she can!
 
 ## Alumni
 [**Many thanks!**]{.large}
@@ -125,7 +104,4 @@ Steffi enjoys getting away from her computer to explore Westman Nature, taking h
 **Committees**: Communications (Social media), Speakers
 
 Erica studies environmental biology as an undergraduate student at the University of Saskatchewan. She spends her summers as a technician surveying birds, her primary passion, but is always excited to see new and interesting plants and butterflies!
-
 -->
-
-
