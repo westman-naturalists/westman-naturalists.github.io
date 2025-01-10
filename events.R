@@ -12,7 +12,7 @@ gs4_deauth()
 events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY/") |>
   read_sheet() |>
   clean_names() |>
-  select(-advertised, -calendar) |>
+  select(-contains("advert"), -contains("calendar")) |>
   mutate(across(c("tentative", "remote_speaker"), \(x) {
     x <- tolower(x) == "yes"
     replace_na(x, FALSE)
