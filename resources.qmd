@@ -3,10 +3,8 @@ title: "Resources"
 ---
 
 ## Waiver
-- View a digital copy of our standard [outings waiver](resources/WNwaiver202405.pdf).
-A physical copy will be present at most of our outings for participants to sign.
+- View a digital copy of our standard [outings waiver](resources/WNwaiver202405.pdf). A physical copy will be present at most of our outings for participants to sign.
 
 ## Checklists
 
-- [Westman Naturalists Bird Checklist for Riverbank Centre](resources/Brandon Riverbank Bird Checklist.pdf)
-Westman Naturalists have produced a bird checklist for Brandon and area, using eBird data and expertise from a number of Westman Naturalists members. This version for Brandon Riverbank Inc highlights birds that are likely to be seen around the Discovery Centre. The checklist can be downloaded here.
+- [Westman Naturalists Bird Checklist for Riverbank Centre](resources/Brandon Riverbank Bird Checklist.pdf). Westman Naturalists have produced a bird checklist for Brandon and area, using eBird data and expertise from a number of Westman Naturalists members. This version for Brandon Riverbank Inc highlights birds that are likely to be seen around the Discovery Centre. The checklist can be downloaded here.
