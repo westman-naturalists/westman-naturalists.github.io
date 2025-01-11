@@ -6,9 +6,18 @@ The Christmas Bird Count is a citizen science project that started in the year 1
 
 Westman Naturalists has been organizing the Brandon Christmas Bird Count since 2019. There are two ways you can participate in the count, either as a field counter or as a feeder watcher. Field counters are placed in groups and are assigned an area around the city, such as the north hill or downtown, and then walk or drive around counting any birds they spot. Feeder watchers keep an eye out for birds visiting their feeders or backyard, marking down any unique birds or flocks. There is also always a chance of encountering something besides birds, such as two families of North American River Otters that were found along the river in 2023.
 
-## 2024 Brandon Christmas Bird Count
+## 2024 Brandon Christmas Bird Count {#brandon}
 
-The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the 15 mile diameter count circle. 39 different species were counted for a grand total of 4869 birds.
+::::{.columns}
+:::{.column width=60%}
+The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the 1 count circle. 39 different species were counted for a grand total of 4869 birds.
+
+We hosted a potluck supper for participants after everyone was done counting for the day. 16 members shared stories of what they saw during the count, such as a flock of Cedar Waxwings eating berries, a lone Common Merganser on the river, and White-winged Crossbills showing up right as they were being discussed.
+
+:::
+:::{.column width=40%}
+{{< video https://www.youtube.com/embed/yFgX_L4y518 >}}
+::::
 
 | Species | Count |
 |---------|------:|
@@ -52,9 +61,18 @@ The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This 
 | Pine Siskin | 9 |
 | House Sparrow | 1111 |
 
-## 2024 Rivers Christmas Bird Count
+## 2024 Rivers Christmas Bird Count {#rivers}
 
+::::{.columns}
+:::{.column width=60%}
 The 2024 Rivers Christmas Bird Count took place on Sunday, December 29th. We had a record number of 31 field counters spread out over eight sectors of the count circle, and 9 feeder watchers around the Rivers area. 32 different species were counted for a grand total of 1251 birds.
+
+A lot of owls were spotted this year, with 8 individuals representing 4 species! It seems to be an irruption year for Great Greys. There were many large black birds, American Crows and Common Ravens, and even a few small blackbirds, a Common Grackle and two Rusty Blackbirds.
+
+:::
+:::{.column width=40%}
+{{< video https://www.youtube.com/embed/ZD8ZGBVdao4 >}}
+::::
 
 | Species | Count |
 |---------|------:|
@@ -91,7 +109,7 @@ The 2024 Rivers Christmas Bird Count took place on Sunday, December 29th. We had
 | House Finch | 6 |
 | House Sparrow | 110 |
 
-## Other Counts Around Westman
+## Other Counts Around Westman {#othercounts}
 
 The Glenboro/Spruce Woods count took place on December 14th. Results were posted in the January 9th copy of The Gazette.
 
