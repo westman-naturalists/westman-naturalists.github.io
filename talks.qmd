@@ -1,0 +1,19 @@
+---
+title: "Find your way to our talks"
+---
+
+Our talks are hosted at Brandon University on the 4th floor of the Brodie Building.
+
+#### Parking
+There is free evening parking on the south side of the Brodie Building in Lot 10 
+and on Louise St.
+
+
+#### Find your way to the Brodie Building
+
+
+![](resources/campus_map_mod.png){fig-align="center" width=60%}
+
+
+#### Find your way to the room
+![](resources/brodie_fourth_floor_mod.png){fig-align="center" width=80%}
