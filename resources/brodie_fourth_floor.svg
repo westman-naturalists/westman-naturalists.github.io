@@ -9,6 +9,9 @@
    viewBox="0 0 1756 1634"
    sodipodi:docname="brodie_fourth_floor.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="brodie_fourth_floor_mod.png"
+   inkscape:export-xdpi="250"
+   inkscape:export-ydpi="250"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -4279,51 +4282,51 @@ IVmRAAECBAgQIECAAAECBAgQIECAAAECBAgQIEAgX4H/B+beTv6U8G1LAAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        id="text345"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect347)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect347);display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-33.616975,-41.255218)"><tspan
          x="586.8457"
          y="1471.4536"
-         id="tspan2269"><tspan
+         id="tspan2688"><tspan
    style="line-height:1.25"
-   id="tspan2267">Stairs and Elevators</tspan>
+   id="tspan2686">Stairs and Elevators</tspan>
 </tspan><tspan
          x="586.8457"
          y="1496.4536"
-         id="tspan2271">
+         id="tspan2690">
 </tspan><tspan
          x="586.8457"
          y="1496.4536"
-         id="tspan2273">
+         id="tspan2692">
 </tspan><tspan
          x="586.8457"
          y="1496.4536"
-         id="tspan2275">
+         id="tspan2694">
 </tspan><tspan
          x="586.8457"
          y="1496.4536"
-         id="tspan2277">
+         id="tspan2696">
 </tspan><tspan
          x="586.8457"
          y="1506.6026"
-         id="tspan2281"><tspan
+         id="tspan2700"><tspan
            style="font-size:21.3333px;line-height:1.45"
-           id="tspan2279">(Main entrance is on the first floor, turn </tspan></tspan><tspan
+           id="tspan2698">(Main entrance is on the first floor, turn </tspan></tspan><tspan
          x="586.8457"
          y="1537.5358"
-         id="tspan2285"><tspan
+         id="tspan2704"><tspan
            style="font-size:21.3333px;line-height:1.45"
-           id="tspan2283">right for the elevators)</tspan></tspan></text>
+           id="tspan2702">right for the elevators)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text401"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect403);fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect403);display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-6.4387476,18.756892)"><tspan
          x="1258.9434"
          y="556.3618"
-         id="tspan2287">Westman </tspan><tspan
+         id="tspan2706">Westman </tspan><tspan
          x="1258.9434"
          y="606.3618"
-         id="tspan2289">Naturalists Talk</tspan></text>
+         id="tspan2708">Naturalists Talk</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:4.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleStart)"
        d="m 1441.1794,657.19352 29.9004,116.65568"
