@@ -12,8 +12,8 @@ and on Louise St.
 #### Find your way to the Brodie Building
 
 
-![](resources/campus_map_mod.png){fig-align="center" width=60%}
+![](resources/campus_map_mod.jpg){fig-align="center" width=60%}
 
 
 #### Find your way to the room
-![](resources/brodie_fourth_floor_mod.png){fig-align="center" width=80%}
+![](resources/brodie_fourth_floor_mod.jpg){fig-align="center" width=80%}
