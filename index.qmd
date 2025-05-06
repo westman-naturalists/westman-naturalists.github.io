@@ -1,5 +1,5 @@
 ---
-title: "Westman Naturalists"
+title: "Westman Naturalists Inc."
 ---
 
 <img src = "images/banner.jpg" width = "100%">
