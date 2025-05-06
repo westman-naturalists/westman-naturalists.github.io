@@ -9,9 +9,9 @@ organized by a team of volunteers.
 - Check out our [bylaws](bylaws.html)
 - Interesting in getting involved in another way? Send us an [email](mailto:westman.naturalists@gmail.com)!
 
-## Directors
+### Directors
 
-### Alex Koiter
+## Alex Koiter
 
 ::: {.column-margin}
 ![](images/alex.jpg){fig-alt="Alex Koiter" title="Alex Koiter"}
@@ -23,7 +23,7 @@ organized by a team of volunteers.
 Alex is an Associate Professor in Geography and Environment at Brandon University.
 Alex enjoys leading trips to explore local Westman landscapes and glacial history.
 
-### Jen Wasko 
+## Jen Wasko 
 ::: {.column-margin}
 ![](images/jen.jpg){fig-alt="Jen Wasko" title="Jen Wasko"}
 :::
@@ -33,7 +33,7 @@ Alex enjoys leading trips to explore local Westman landscapes and glacial histor
 
 Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agriculture and Environment at Assiniboine Community College. When not experimenting with gardening techniques, and spending time with her family, she loves exploring all aspects of nature and sharing this love of the diverse Manitoba Ecosystems with others. 
 
-### Kathryn Hyndman
+## Kathryn Hyndman
 
 ::: {.column-margin}
 ![](images/kathryn_sm.jpg){fig-alt="Kathryn Hyndman" title="Kathryn Hyndman"}
@@ -44,16 +44,7 @@ Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agricultu
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at Brandon University. Her passions include scuba diving and travelling. Many of her trips involve watching and photographing birds and animals as well as marine fish.
 
-### Bill Gallaway
-::: {.column-margin}
-![](images/bill.jpg){fig-alt="Bill Gallaway" title="Bill Gallaway"}
-:::
-
-**Committees**: Field Trips
-
-Bill is a retired entomologist from Brandon University. Bill enjoys photography, particularly of lichens, birding, and especially eagles.
-
-### Carson Kearns
+## Carson Kearns
 ::: {.column-margin}
 ![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
 :::
@@ -62,7 +53,7 @@ Bill is a retired entomologist from Brandon University. Bill enjoys photography,
 
 Carson works as a mobile production assistant in Brandon. He spends most of his time taking photos of birds and then sorting through those photos. If any of our social media posts are labelled with the wrong species, let him know!
 
-### Gillian Richards
+## Gillian Richards
 ::: {.column-margin}
 <!--![](images/)-->
 :::
@@ -72,7 +63,7 @@ Carson works as a mobile production assistant in Brandon. He spends most of his 
 
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye, Gillian also spends time brushing up on butterflies and native plants. Her passion is leading trips and sharing her knowledge of Westman nature.
 
-### Glennis Lewis
+## Glennis Lewis
 
 ::: {.column-margin}
 ![](images/Glennis.jpg){fig-alt="Glennis Lewis" title="Glennis Lewis"}
@@ -82,7 +73,7 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 
 Glennis Lewis is a retired botanist and lawyer who teaches environmental impact assessment at Brandon University. She leads numerous field trips for the Westman Naturalists.
 
-### Steffi LaZerte
+## Steffi LaZerte
 
 ::: {.column-margin}
 ![](images/steffi.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
@@ -92,13 +83,14 @@ Glennis Lewis is a retired botanist and lawyer who teaches environmental impact 
 
 Steffi is an independent biologist and R consultant and avid gardener. Steffi enjoys getting away from her computer to explore Westman Nature, taking her cats if she can!
 
-## Alumni
+#### Alumni
 [**Many thanks!**]{.large}
 
 - Erica Alex
 - Carson Rogers
 - Megan Hamill
 - Colin Blyth
+- Bill Gallaway
 
 <!--
 ### Erica Alex
