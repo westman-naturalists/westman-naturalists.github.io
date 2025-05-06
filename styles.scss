@@ -18,6 +18,13 @@ $h3-font-size: 2.5em;
   padding:15px;
 }
 
+@media (max-width: 400px) {
+  .img-right {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
 .img-left {
   float:left;
   max-width:40%;
