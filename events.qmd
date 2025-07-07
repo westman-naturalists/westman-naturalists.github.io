@@ -50,9 +50,9 @@ library(lubridate)
 
 events <- readRDS("events.rds")
 
-upcoming <- filter(events, !past) |>
-  arrange(date) |>
-  nest(data = c(-month))
+upcoming <- filter(events, !.data$past) |>
+  arrange(.data$date) |>
+  nest(data = c(-"month"))
 
 if(nrow(upcoming) == 0){
   cat("> **Nothing planned at the moment, but check back!**")
@@ -61,10 +61,10 @@ if(nrow(upcoming) == 0){
   for(m in upcoming$month) {
     print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
     
-    filter(upcoming, month == m) |>
-      unnest(cols = data) |>
-      mutate(event = glue("{event}\n\n{post_link}")) |>
-      pull(event) |>
+    filter(upcoming, .data$month == .env$m) |>
+      unnest(cols = "data") |>
+      mutate(event = glue("{.data$event}\n\n{.data$post_link}")) |>
+      pull(.data$event) |>
       glue_collapse(sep = "\n\n-----\n\n") |>
       print()
   }
@@ -78,9 +78,9 @@ if(nrow(upcoming) == 0){
 ```{r}
 #| echo = FALSE,
 #| results = "asis"
-past <- filter(events, past) |>
-  arrange(desc(date)) |>
-  nest(data = c(-year, -month))
+past <- filter(events, .data$past) |>
+  arrange(desc(.data$date)) |>
+  nest(data = c(-"year", -"month"))
 
 cat(":::{.panel-tabset}\n\n")
 
@@ -88,17 +88,19 @@ for(y in unique(past$year)) {
   cat(glue("\n\n#### {y}\n\n"))
   
   p <- filter(past, year == y)
-  for(i in seq_len(nrow(p))) {
-    m <- p$month[i]
-    
-    print(glue("\n\n## {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"))
-    
-    p[i, ] |>
-      unnest(cols = data) |>
-      mutate(event = glue("{event}\n\n{post_link}")) |>
-      pull(event) |>
-      glue_collapse(sep = "\n\n-----\n\n") |>
-      print()
+  if(nrow(p) > 0) {
+    for(i in seq_len(nrow(p))) {
+      m <- p$month[i]
+      
+      print(glue("\n\n## {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"))
+      
+      p[i, ] |>
+        unnest(cols = "data") |>
+        mutate(event = glue("{.data$event}\n\n{.data$post_link}")) |>
+        pull(.data$event) |>
+        glue_collapse(sep = "\n\n-----\n\n") |>
+        print()
+    }
   }
 }
 cat("\n\n:::\n\n")
