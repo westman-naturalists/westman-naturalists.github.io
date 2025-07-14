@@ -9,7 +9,7 @@ Take a tour with us along the edge of Spruce Woods Provincial Forest as we learn
 
 The dirt road is a bit rough and uneven, depending on the clearance of your vehicle we may need to switch around and carpool. We’ll be walking 2-3km on a sandy track, so be sure to bring proper footwear.
 
-Participation: Please complete this short form (https://forms.gle/msWVvnmaoZ2Wvtft8) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+**Participation**: Please complete this short form (https://forms.gle/msWVvnmaoZ2Wvtft8) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
 
 -----------
@@ -21,9 +21,9 @@ Lake Clementi
 
 Westman Naturalists - Nature Walk at Lake Clementi
 
-We'll be walking around Lake Clementi, a small lake south of Brandon home to many birds and insects. There will also be an opportunity to learn about the history of the Brandon Hills area. We will park at the (east end of Lake Clementi Rd)[https://lmdzvb.clicks.mlsend.com/tj/cl/eyJ2Ijoie1wiYVwiOjQzNzkwMixcImxcIjoxNTg5NTQ1MDUwNTQ5Nzk0NjcsXCJyXCI6MTU4OTU0NTE4NTI5MTgxNDkxfSIsInMiOiI5ODViYzIzZGE5MTBmZjkxIn0].
+We'll be walking around Lake Clementi, a small lake south of Brandon home to many birds and insects. There will also be an opportunity to learn about the history of the Brandon Hills area. We will park at the [east end of Lake Clementi Rd](https://lmdzvb.clicks.mlsend.com/tj/cl/eyJ2Ijoie1wiYVwiOjQzNzkwMixcImxcIjoxNTg5NTQ1MDUwNTQ5Nzk0NjcsXCJyXCI6MTU4OTU0NTE4NTI5MTgxNDkxfSIsInMiOiI5ODViYzIzZGE5MTBmZjkxIn0).
 
 The walk will be along a gravel road with occasional traffic, approximately 2.5km long. Dress for the weather and bring bug spray!
 
-Participation: No sign up is required for this event, though there will be a waiver to sign.
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
