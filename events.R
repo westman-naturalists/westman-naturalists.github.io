@@ -12,7 +12,7 @@ gs4_deauth()
 events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31XxmcmmafXbC-zfM81W2mDXAY/") |>
   read_sheet() |>
   clean_names() |>
-  select(-contains("advert"), -contains("calendar")) |>
+  select(-contains("calendar")) |>
   mutate(across(c("tentative", "remote_speaker"), \(x) {
     x <- tolower(x) == "yes"
     replace_na(x, FALSE)
@@ -39,6 +39,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
     description = str_replace(description, regex("(Trip difficulty)", ignore_case = TRUE), "**\\1**"),
     extra = if_else(extra != "", glue("<div class = 'notice'>\n\n{extra}\n\n</div>"), ""),
     cancelled = str_detect(tolower(description), regex("cancelled", ignore_case = TRUE)),
+    cancelled = replace_na(cancelled, FALSE),
 
     status = if_else(cancelled, "**<span class='notice'>Cancelled</span>** ", ""),
     hosted = replace_na(hosted, "Westman Naturalists"),
@@ -90,3 +91,43 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
 if(any(is.na(events$time))) stop("Problems with Time", call. = FALSE)
 
 saveRDS(events, "events.rds")
+
+# Create event advertising templates
+e <- events |>
+  filter(!cancelled, !advertised %in% "yes", date >= Sys.Date(), !tentative,
+         description != "TBA") |>
+  mutate(
+    title = if_else(title == "Nature Walk", paste(title, "at", location), title),
+    event_discover = glue("{extra}\n\n",
+                          "{status}{date_pretty} - {time}\n",
+                          "{location}\n\n",
+                          "Westman Naturalists - {title}\n\n",
+                          "{description}\n\n",
+                          "{form}\n\n", .na = ""),
+    form = str_replace(form, "\\[(short form)\\]", "\\1 "),
+    event_ebrandon = glue("{extra}\n\n",
+                          "{status}{date_pretty}- {time}\n",
+                          "{location}\n\n",
+                          "Westman Naturalists - {title}\n\n",
+                          "{description}\n\n",
+                          "{form}\n\n", .na = ""),
+    form = str_remove_all(form, "\\*"),
+    event_facebook = glue("{extra}\n\n",
+                          "{status}{date_pretty} - {time}\n\n",
+                          "{title}\n\n",
+                          "{description}\n\n",
+                          "{form}\n\n", .na = "")
+  )
+
+writeLines(pull(e, event_facebook) |>
+             paste(collapse = "\n\n-----------\n\n"),
+           glue("event_advertising/facebook.txt"))
+
+writeLines(pull(e, event_ebrandon) |>
+             paste(collapse = "\n\n-----------\n\n"),
+           glue("event_advertising/ebrandon.md"))
+
+writeLines(pull(e, event_discover) |>
+             paste(collapse = "\n\n-----------\n\n"),
+           glue("event_advertising/discover.txt"))
+
