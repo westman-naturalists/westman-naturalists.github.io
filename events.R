@@ -23,7 +23,7 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
          date_pretty = if_else(tentative, "%b %Y", "%A, %b %d %Y"),
          date_pretty = format(date, date_pretty),
          time = map(time, as.character),
-         speaker = if_else(is.na(speaker) | speaker == "", "The Speaker", speaker)) |>
+         speaker = if_else(is.na(speaker) | speaker == "", "the speaker", speaker)) |>
   mutate(time = map(time, ~replace(.x, length(.x) == 0, "All day"))) |>
   unnest(cols = "time") |>
   mutate(time = if_else(str_detect(time, "[0-9]{4}-[0-9]{2}"),
@@ -51,9 +51,13 @@ events <- gs4_get("https://docs.google.com/spreadsheets/d/132krSjS7w574gavkX31Xx
     talk = if_else(remote_speaker,
                    glue("{talk} socialize with your fellow Westman Naturalists"),
                    glue("{talk} meet {speaker}")),
-    talk = glue("{talk} and see the talk, or join us via Zoom. ",
-                "To join us via Zoom, please complete and submit this [short form]({form}) to sign-up. ",
-                "We will email out the Zoom link the evening of the talk."),
+    talk = if_else(
+      !is.na(form),
+      glue("{talk} and see the talk, or join us via Zoom. ",
+           "To join us via Zoom, please complete and submit this [short form]({form}) to sign-up. ",
+           "We will email out the Zoom link the evening of the talk."),
+      glue("{talk} and see the talk, or join us via Zoom. ",
+           "**Zoom signup form coming soon!**")),
     outing = glue("Please complete this [short form]({form}) to sign-up for this event. ",
                   "We will email you with specific details a day or so before the event. ",
                   "Car pooling might be available."),
