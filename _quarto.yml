@@ -1,6 +1,5 @@
 project:
   type: website
-  pre-render: events.R
 
 website:
   title: "Westman Naturalists"
