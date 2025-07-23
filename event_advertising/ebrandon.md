@@ -1,29 +1,73 @@
 
 
-Sunday, Aug 17 2025- 9:00 AM
-Sprucewoods Area
+Thursday, Oct 09 2025- 7:00 PM
+Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 
-Westman Naturalists - Spruce Woods History
+Westman Naturalists - Slithery and Scaly: Manitoba's Spooky (and not so spooky) Reptiles
 
-Take a tour with us along the edge of Spruce Woods Provincial Forest as we learn some history on the area from a local, Heather Dalgleish. Along the dirt road to the forest there are many bird boxes and a variety of wildflower species. After visiting the forest, we’ll drive up to the interpretive site south of the Douglas Marsh to hear more history and information on watershed management.
+with Megan Hamill; Details TBA
 
-The dirt road is a bit rough and uneven, depending on the clearance of your vehicle we may need to switch around and carpool. We’ll be walking 2-3km on a sandy track, so be sure to bring proper footwear.
-
-**Participation**: Please complete this short form (https://forms.gle/msWVvnmaoZ2Wvtft8) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+**Participation**: This is a hybrid event! Feel free to come in person to meet Megan and see the talk, or join us via Zoom. **Zoom signup form coming soon!**
 
 
 -----------
 
 
 
-Wednesday, Jul 16 2025- 7:00 PM
-Lake Clementi
+Thursday, Sep 11 2025- 7:00 PM
+Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 
-Westman Naturalists - Nature Walk at Lake Clementi
+Westman Naturalists - A Buffet for Birds and Butterflies
 
-We'll be walking around Lake Clementi, a small lake south of Brandon home to many birds and insects. There will also be an opportunity to learn about the history of the Brandon Hills area. We will park at the [east end of Lake Clementi Rd](https://lmdzvb.clicks.mlsend.com/tj/cl/eyJ2Ijoie1wiYVwiOjQzNzkwMixcImxcIjoxNTg5NTQ1MDUwNTQ5Nzk0NjcsXCJyXCI6MTU4OTU0NTE4NTI5MTgxNDkxfSIsInMiOiI5ODViYzIzZGE5MTBmZjkxIn0).
+With Simone Hébert Allard; Details TBA
 
-The walk will be along a gravel road with occasional traffic, approximately 2.5km long. Dress for the weather and bring bug spray!
+**Participation**: This is a hybrid event! Feel free to come in person to meet Simone and see the talk, or join us via Zoom. **Zoom signup form coming soon!**
+
+
+-----------
+
+
+
+Saturday, Aug 23 2025- 9:00 AM
+Oak Lake Area
+
+Westman Naturalists - Sandhill Exploration
+
+Come join us and explore a wild property to the south of Oak Lake. We will go through the property on mowed trails going through and past sandhills, meadows, woodlands, and marshes. We'll see various native flowers including gentians and cacti, bees and butterflies, and birds, hopefully including Lark Sparrow and Veery.
+
+This outing involves walking along trails that will have Poison Ivy and roots or branches to trip on. Please be prepared, you will need to bring a good pair of walking shoes, sunscreen, bug protection, water, snacks and lunch. The walk is planned to be between 2.5-3.5km.
+
+**Participation**: Please complete this short form (https://forms.gle/4FaExDQUy2bSvN6G6) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+
+-----------
+
+
+
+Wednesday, Jul 30 2025- 7:00 PM
+Dead End Swamp
+
+Westman Naturalists - Nature Walk at Dead End Swamp
+
+Take a walk with us along the Assiniboine River and a golf course at the [north end of 50th St](https://maps.app.goo.gl/KwzgyVTP9Y7ziPLm7) in Brandon. The marshy water on the east side of the trail was part of the river until it changed course. Parking space past the tracks is a bit limited, so be mindful when coming down the hill.
+
+The loop around the water is about 2km and the trail may be a bit rough, so be sure to bring proper footwear.
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+
+-----------
+
+
+
+Saturday, Jul 26 2025- 9:00 AM
+TBD
+
+Westman Naturalists - Midsummer Dragonflies
+
+Join Westman Naturalists and Bill Gallaway for an outing all about dragonflies! The different groups of dragonflies (such as darners, whitefaces, and meadowhawks) will be discussed, with some reference papers printed out. We'll go through a list of what species you can expect to find in southwestern Manitoba and with luck we'll come across some of them!
+
+The exact location is yet to be determined, but we're aiming for somewhere within an hour of Brandon.
+
+**Participation**: Please complete this short form (https://forms.gle/Gsx8eE4tZNRuXY7KA) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
