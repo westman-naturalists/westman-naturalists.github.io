@@ -95,6 +95,8 @@ Westman Naturalists - Ridge Lines and Brine
 
 Join Dr. Alex Koiter for our fifth annual landscapes of western Manitoba nature walk. Our adventure begins in the Arrow Hills Esker, located north of Oak Lake, where we’ll explore the glacial history of southwestern Manitoba and discover how eskers form and shape unique ecosystems. We will then travel north to the Salt Lake recreational area to learn why some prairie lakes are salty and how this saline environment supports a diverse range of salt-tolerant plants and animals.
 
+Dr. Alex Koiter is a professor in the Department of Geography & Environment at Brandon University. His teaching and research focus on how land and water management practices influence soil and water quality. His research group studies a range of agricultural issues, including soil erosion, sedimentation, nutrient runoff, greenhouse gas emissions, and the impacts of droughts and floods. He also has a strong interest in the glacial history of southwestern Manitoba and enjoys exploring the region’s hills, valleys, and other landforms.
+
 We will meet in Brandon at 9am for those who wish to carpool, otherwise at the Arrow Hills Esker at 10am on Saturday, August 9th. The Arrow Hills are approximately a 45 minute drive west of Brandon. After exploring the Arrow Hills Esker, we will head further north (15 minutes) to the Salt Lake recreation area.
 
 This outing involves walking along some uneven ground. Please be prepared, you will need to bring a good pair of walking shoes, sunscreen, bug protection, water, snacks and lunch.
