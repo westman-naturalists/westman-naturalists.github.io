@@ -33,7 +33,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 
 Westman Naturalists - A Buffet for Birds and Butterflies
 
-With Simone Hébert Allard; Details TBA
+We often hear about the interconnectedness of things in nature. Simone Hébert Allard's presentation is based on "Nature's Best Hope", a book written by Douglas Tallamy, about keystone species that pull more than their weight in maintaining the balance in the natural world. It is a concept that had escaped Simone despite many years of reading, observing and enjoying nature. With these ideas, everything just clicked. Join us as Simone introduces us to simple concepts that will enrich the biodiversity in your backyard, your city, your acreage. The butterflies and birds will thank you.
 
 **Participation**: This is a hybrid event! Feel free to come in person to meet Simone and see the talk, or join us via Zoom. **Zoom signup form coming soon!**
 
