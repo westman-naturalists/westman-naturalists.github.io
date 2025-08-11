@@ -105,27 +105,31 @@ e <- events |>
          description != "TBA") |>
   mutate(
     title = if_else(title == "Nature Walk", paste(title, "at", location), title),
-    event_discover = glue("{extra}\n\n",
-                          "{status}{date_pretty} - {time}\n",
-                          "{location}\n\n",
-                          "Westman Naturalists - {title}\n\n",
-                          "{description}\n\n",
-                          "{form}\n\n", .na = ""),
+    event_discover = glue(
+      "{extra}\n\n",
+      "{status}{date_pretty} - {time}\n",
+      "{str_replace(location, 'talks\\\\.html', 'https://westman-naturalists.github.io/talks.html')}\n\n",
+      "Westman Naturalists - {title}\n\n",
+      "{description}\n\n",
+      "{form}\n\n", .na = ""),
     form = str_replace(form, "\\[(short form)\\]", "\\1 "),
-    event_ebrandon = glue("{extra}\n\n",
-                          "{status}{date_pretty}- {time}\n",
-                          "{location}\n\n",
-                          "Westman Naturalists - {title}\n\n",
-                          "{description}\n\n",
-                          "{form}\n\n", .na = ""),
+    event_ebrandon = glue(
+      "{extra}\n\n",
+      "{status}{date_pretty}- {time}\n",
+      "{str_replace(location, 'talks\\\\.html', 'https://westman-naturalists.github.io/talks.html')}\n\n",
+      "Westman Naturalists - {title}\n\n",
+      "{description}\n\n",
+      "{form}\n\n", .na = ""),
     form = str_remove_all(form, "\\*"),
-    event_facebook = glue("{extra}\n\n",
-                          "{status}{date_pretty} - {time}\n\n",
-                          "{location}\n\n",
-                          "{title}\n\n",
-                          "{description}\n\n",
-                          "{form}\n\n", .na = "")
-  )
+    event_facebook = glue(
+      "{extra}\n\n",
+      "{status}{date_pretty} - {time}\n\n",
+      "{str_remove(location, '\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)')}\n\n",
+      "{title}\n\n",
+      "{description}\n\n",
+      "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://westman-naturalists.github.io/talks.html)'), '')}\n\n",
+      "{form}\n\n", .na = "")
+    )
 
 writeLines(pull(e, event_facebook) |>
              paste(collapse = "\n\n-----------\n\n"),
