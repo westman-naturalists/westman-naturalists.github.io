@@ -121,6 +121,7 @@ e <- events |>
     form = str_remove_all(form, "\\*"),
     event_facebook = glue("{extra}\n\n",
                           "{status}{date_pretty} - {time}\n\n",
+                          "{location}\n\n",
                           "{title}\n\n",
                           "{description}\n\n",
                           "{form}\n\n", .na = "")
