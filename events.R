@@ -127,8 +127,9 @@ e <- events |>
       "{str_remove(location, '\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)')}\n\n",
       "{title}\n\n",
       "{description}\n\n",
+      "{form}\n\n",
       "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://westman-naturalists.github.io/talks.html)'), '')}\n\n",
-      "{form}\n\n", .na = "")
+      .na = "")
     )
 
 writeLines(pull(e, event_facebook) |>
