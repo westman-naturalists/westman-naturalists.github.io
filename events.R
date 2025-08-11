@@ -98,7 +98,10 @@ saveRDS(events, "events.rds")
 
 # Create event advertising templates
 e <- events |>
-  filter(!cancelled, !advertised %in% "yes", date >= Sys.Date(), !tentative,
+  filter(!cancelled, !advertised %in% "yes",
+         date >= Sys.Date(),
+         !tentative,
+         !(type == "talk" & stringr::str_detect(form, "coming soon")),
          description != "TBA") |>
   mutate(
     title = if_else(title == "Nature Walk", paste(title, "at", location), title),
