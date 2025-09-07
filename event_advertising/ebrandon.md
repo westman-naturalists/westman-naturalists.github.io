@@ -13,21 +13,3 @@ The hawk watch runs until about noon. If there is interest we may make a side-tr
 
 **Participation**: Please complete this short form (https://forms.gle/mytmbckS6CgWAses9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
-
------------
-
-
-
-Saturday, Sep 06 2025- 9:00 AM
-Delta Beach & Portage Plains
-
-Westman Naturalists - Birding & Exploring
-
-Cal Cuthbert will guide us to find all that this great area north of Portage offers. This should be an excellent outing as Cal is an expert birder and guide and knows the area very well. We can expect to see many migrating birds!
-
-We will be driving to various spots in the area with short walks, mostly on trails, but some on the beach.
-
-Please dress for all possible weather, and bring a lunch. Don't forget your binoculars, camera and telescope if you have them. Some car pooling from Brandon will be available, Delta Beach is about 1.5hrs away.
-
-**Participation**: Please complete this short form (https://forms.gle/4NvXuNXeTN4SCYxe6) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
