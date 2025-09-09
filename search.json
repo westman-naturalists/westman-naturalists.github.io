@@ -42,13 +42,6 @@
     "text": "Christmas Bird Counts\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(tidyr)\nlibrary(lubridate)\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\nlibrary(glue)\nlibrary(googlesheets4)\n\ncbc &lt;- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %&gt;%\n  read_sheet()\n\n! Using an auto-discovered, cached token.\n\n\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n\n\n  See gargle's \"Non-interactive auth\" vignette for more details:\n\n\n  &lt;https://gargle.r-lib.org/articles/non-interactive-auth.html&gt;\n\n\nℹ The googlesheets4 package is using a cached token for\n  'steffi.lazerte@gmail.com'.\n\n\nAuto-refreshing stale OAuth token.\n\n\n✔ Reading from \"Brandon CBC \".\n\n\n✔ Range 'All Years'.\n\n\nNew names:\n• `` -&gt; `...1`\n\ncounts &lt;- gs4_get(\"https://docs.google.com/spreadsheets/d/1nT__JhTIAmjr1jLuLF3ZIP3rDnMD-eGmEvEuD8_JX2g\") %&gt;%\n  read_sheet(skip = 4)\n\n✔ Reading from \"Brandon CBC \".\n✔ Range '5:10000000'.\nNew names:"
   },
   {
-    "objectID": "event_advertising/ebrandon.html",
-    "href": "event_advertising/ebrandon.html",
-    "title": "Westman Naturalists",
-    "section": "",
-    "text": "Saturday, Sep 13 2025- 9:00 AM North of Virden\nWestman Naturalists - Autumn Hawk Watch\nCome join us for our annual Autumn Hawk Watch at a beautiful spot on the Assiniboine River Valley north of Virden. We should see a variety of raptors flying south, with close views if the wind is in the right direction; plus ducks, geese, cranes and a surprising number of Blue Jays and American Robins.\nWe will have telescopes and binoculars available, but please bring yours if you have them, as well as a camera, lawn-chair, water and snacks or lunch.\nThe hawk watch runs until about noon. If there is interest we may make a side-trip to Oak Lake on our way back to Brandon.\nParticipation: Please complete this short form (https://forms.gle/mytmbckS6CgWAses9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available."
-  },
-  {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Westman Naturalists Inc.",
@@ -284,7 +277,7 @@
     "href": "events.html#november",
     "title": "Events",
     "section": "November",
-    "text": "November\nThursday, Nov 13 2025\nCarnivorous Plants in the North Hosted by Westman Naturalists\nwith Sean Bornkessel; Sean will discuss the specialized ecological nice and areas carnivorous plants are found and will briefly talk about carnivorous plant care when kept. More details TBA\nParticipation: This is a hybrid event! Feel free to come in person to meet Sean and see the talk, or join us via Zoom. Zoom signup form coming soon!\nTime: 7:00 PMLocation: Brodie Building Rm 4-34, Brandon University & Online (directions)\nContact Westman Naturalists for more information"
+    "text": "November\nThursday, Nov 13 2025\nCarnivorous Plants of the North Hosted by Westman Naturalists\nTonight Sean will guide us through carnivorous plants found in Canada and their ecological relationships with the unique habitats they come from. Sean Church-Bornkessel is a wealth of information about carnivorous plants in the wild and as houseplants. Sean has been interested in the natural world since starting to walk and has been learning everything possible about all living things and their interactions ever since.\nParticipation: This is a hybrid event! Feel free to come in person to meet Sean and see the talk, or join us via Zoom. Zoom signup form coming soon!\nTime: 7:00 PMLocation: Brodie Building Rm 4-34, Brandon University & Online (directions)\nContact Westman Naturalists for more information"
   },
   {
     "objectID": "events.html#december",
