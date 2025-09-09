@@ -1,15 +1,1 @@
 
-
-Saturday, Sep 13 2025- 9:00 AM
-North of Virden
-
-Westman Naturalists - Autumn Hawk Watch
-
-Come join us for our annual Autumn Hawk Watch at a beautiful spot on the Assiniboine River Valley north of Virden. We should see a variety of raptors flying south, with close views if the wind is in the right direction; plus ducks, geese, cranes and a surprising number of Blue Jays and American Robins.
-
-We will have telescopes and binoculars available, but please bring yours if you have them, as well as a camera, lawn-chair, water and snacks or lunch.
-
-The hawk watch runs until about noon. If there is interest we may make a side-trip to Oak Lake on our way back to Brandon.
-
-**Participation**: Please complete this short form (https://forms.gle/mytmbckS6CgWAses9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
