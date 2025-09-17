@@ -1,3 +1,4 @@
+# Setup -------------------------
 library(dplyr)
 library(stringr)
 library(tidyr)
@@ -7,6 +8,7 @@ library(glue)
 library(janitor)
 library(googlesheets4)
 
+# Get & format events -----------------------
 gs4_deauth()
 
 events <- gs4_get(
@@ -82,16 +84,20 @@ events <- gs4_get(
       glue("{talk} socialize with your fellow Westman Naturalists"),
       glue("{talk} meet {speaker}")
     ),
+    talk = glue(
+      "{talk} and see the talk, or join us via Zoom. ",
+      "You can join us via Zoom using these details:\n",
+      "Meeting link: https://numfocus-org.zoom.us/j/89983879081?pwd=TCvsVw2aepKTqfdMJBgvDVbVVMmbfb.1\n",
+      "Meeting ID: 899 8387 9081\n",
+      "Passcode: prairie"
+    ),
     talk = if_else(
       !is.na(form),
       glue(
-        "{talk} and see the talk, or join us via Zoom. ",
-        "To join us via Zoom, please complete and submit this [short form]({form}) to sign-up. ",
-        "We will email out the Zoom link the evening of the talk."
+        "{talk}\n\n**If you would like a reminder emailed the day before** please complete and submit this [short form]({form}) to sign-up."
       ),
       glue(
-        "{talk} and see the talk, or join us via Zoom. ",
-        "**Zoom signup form coming soon!**"
+        "{talk}\n\n**We will have the option of signing up for an email reminder soon. Please check back**"
       )
     ),
     outing = glue(
