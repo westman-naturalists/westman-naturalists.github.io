@@ -39,6 +39,7 @@ events <- gs4_get(
       time
     )
   ) |>
+  mutate(n = row_number(), .by = "date") |>
   mutate(
     past = date < Sys.Date(),
     past = replace_na(past, FALSE),
@@ -85,19 +86,19 @@ events <- gs4_get(
       glue("{talk} meet {speaker}")
     ),
     talk = glue(
-      "{talk} and see the talk, or join us via Zoom. ",
-      "You can join us via Zoom using these details:\n",
-      "Meeting link: https://numfocus-org.zoom.us/j/89983879081?pwd=TCvsVw2aepKTqfdMJBgvDVbVVMmbfb.1\n",
-      "Meeting ID: 899 8387 9081\n",
+      "{talk} and see the talk, or join us via Zoom.\n\n",
+      "You can join us via Zoom using these details:  \n",
+      "Meeting link: <https://numfocus-org.zoom.us/j/89983879081?pwd=TCvsVw2aepKTqfdMJBgvDVbVVMmbfb.1>  \n",
+      "Meeting ID: 899 8387 9081  \n",
       "Passcode: prairie"
     ),
     talk = if_else(
       !is.na(form),
       glue(
-        "{talk}\n\n**If you would like a reminder emailed the day before** please complete and submit this [short form]({form}) to sign-up."
+        "{talk}\n\n**If you would like a reminder emailed the day before (regardless of how you plan to attend)** please complete and submit this [short form]({form}) to sign-up."
       ),
       glue(
-        "{talk}\n\n**We will have the option of signing up for an email reminder soon. Please check back**"
+        "{talk}\n\n**We will have the option of signing up for an email reminder soon. Please check back.**"
       )
     ),
     outing = glue(
@@ -133,7 +134,7 @@ events <- gs4_get(
     form = if_else(past, "", form),
     event = glue(
       "{extra}\n\n",
-      "{status}<span class = 'date'>{date_pretty}</span>\n\n",
+      "##### {status} {date_pretty} {{#{date}-{n}}}\n\n",
       "<span class = 'event-title'>{title}</span> {hosted}\n\n",
       "{description}\n\n",
       "{form}\n\n",
@@ -178,33 +179,53 @@ e <- events |>
       paste(title, "at", location),
       title
     ),
+    form_discovery = if_else(
+      type == "talk",
+      glue(
+        "See [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) for how to join us on Zoom or to signup for a reminder."
+      ),
+      form
+    ),
+    form_ebrandon = if_else(
+      type == "talk",
+      glue(
+        "See [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) for how to join us on Zoom or to signup for a reminder."
+      ),
+      str_replace(form, "\\[(short form)\\]", "\\1 ")
+    ),
+    form_facebook = if_else(
+      type == "talk",
+      glue(
+        "See our website (https://westman-naturalists.github.io/events.html#{date}-{n}) for how to join us on Zoom or to signup for a reminder."
+      ),
+      str_replace(form, "\\[(short form)\\]", "\\1 ")
+    ),
     event_discover = glue(
       "{extra}\n\n",
       "{status}{date_pretty} - {time}\n",
       "{str_replace(location, 'talks\\\\.html', 'https://westman-naturalists.github.io/talks.html')}\n\n",
       "Westman Naturalists - {title}\n\n",
       "{description}\n\n",
-      "{form}\n\n",
+      "{form_discovery}\n\n",
       .na = ""
     ),
-    form = str_replace(form, "\\[(short form)\\]", "\\1 "),
     event_ebrandon = glue(
       "{extra}\n\n",
-      "{status}{date_pretty}- {time}\n",
+      "{status}{date_pretty} - {time}\n",
       "{str_replace(location, 'talks\\\\.html', 'https://westman-naturalists.github.io/talks.html')}\n\n",
       "Westman Naturalists - {title}\n\n",
       "{description}\n\n",
-      "{form}\n\n",
+      "{form_ebrandon}\n\n",
+      "{location}\n\n",
       .na = ""
     ),
     form = str_remove_all(form, "\\*"),
     event_facebook = glue(
       "{extra}\n\n",
       "{status}{date_pretty} - {time}\n\n",
-      "{str_remove(location, '\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)')}\n\n",
       "{title}\n\n",
       "{description}\n\n",
-      "{form}\n\n",
+      "{form_ebrandon}\n\n",
       "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://westman-naturalists.github.io/talks.html)'), '')}\n\n",
       .na = ""
     )

@@ -1,6 +1,38 @@
 
 
-Saturday, Oct 04 2025- 9:00 AM
+Thursday, Nov 13 2025 - 7:00 PM
+Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westman-naturalists.github.io/talks.html))
+
+Westman Naturalists - Carnivorous Plants of the North
+
+Tonight Sean will guide us through carnivorous plants found in Canada and their ecological relationships with the unique habitats they come from. Sean Church-Bornkessel is a wealth of information about carnivorous plants in the wild and as houseplants. Sean has been interested in the natural world since starting to walk and has been learning everything possible about all living things and their interactions ever since.
+
+See [our website](https://westman-naturalists.github.io/events.html#2025-11-13-1) for how to join us on Zoom or to signup for a reminder.
+
+Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
+
+
+-----------
+
+
+
+Thursday, Oct 09 2025 - 7:00 PM
+Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westman-naturalists.github.io/talks.html))
+
+Westman Naturalists - Spooky Creatures of the Prairies
+
+It's the season for spooky prairie creatures! Megan Hamill will introduce us to some of the prairies most unique, spooky, and therefore often misunderstood creatures. Join us for a thrill and a beautiful photographic journey into the secret lives of these unique creatures. Megan Hamill is an avid Naturalist, searching for and documenting rare and hard to find plants, insects, arthropods, reptiles and amphibians throughout the Manitoba and beyond. She's an active leader of Orchid society walks and a Westman Naturalist council alumnus.
+
+See [our website](https://westman-naturalists.github.io/events.html#2025-10-09-1) for how to join us on Zoom or to signup for a reminder.
+
+Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
+
+
+-----------
+
+
+
+Saturday, Oct 04 2025 - 9:00 AM
 Baldur Area
 
 Westman Naturalists - Birding & Exploring
@@ -13,12 +45,14 @@ Once we are in the target area, most of the roads are gravel. Most of the nature
 
 **Participation**: Please complete this short form (https://forms.gle/DAVCbPZ6fXmxRQ5q8) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
+Baldur Area
+
 
 -----------
 
 
 
-Saturday, Sep 27 2025- 9:00 AM
+Saturday, Sep 27 2025 - 9:00 AM
 Whitewater Lake
 
 Westman Naturalists - Birding Adventure
@@ -31,12 +65,14 @@ Please bring water, snacks and lunch. Don't forget your binoculars, camera and t
 
 **Participation**: Please complete this short form (https://forms.gle/BtxohVT6gGtvgfTs7) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
+Whitewater Lake
+
 
 -----------
 
 
 
-Sunday, Sep 21 2025- 9:30 AM
+Sunday, Sep 21 2025 - 9:30 AM
 North of Miniota
 
 Westman Naturalists - Cattle Ranch & Wooded Valley
@@ -48,4 +84,6 @@ The walk to the cabin is about 1km return on groomed trails with a few ups and d
 We will have telescopes and binoculars available, but please bring yours if you have them, as well as a camera and a lawn-chair. A side-by-side will be available to transport lawn chairs to the cabin.
 
 **Participation**: Please complete this short form (https://forms.gle/D4nAfFx9agx3HHRT6) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+North of Miniota
 
