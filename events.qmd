@@ -30,14 +30,6 @@ Please remember to dress for the weather, bring water and bug spray, and food fo
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FWinnipeg&bgcolor=%23ffffff&showTitle=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20&color=%230B8043" style="border:solid 1px #777" width="250" height="250" frameborder="0" scrolling="no"></iframe></div>
 :::
 
-<!-- ### Spring 2024 Update {.notice} -->
-<!-- Talks are on hold for the summer and we're resuming outings! -->
-
-
-<!-- 
-**Westman Naturalists are venturing outside!**
-
-We will follow current public health guidelines for all our outings, please assess the risks based on your own situation. For more details please see [our protocols](resources.html). We are limiting groups to a maximum of 15, so sign-up is required for each outing.  We have listed a few outings below, and will add more. We are also looking into additional webinar presentations. -->
 
 ```{r}
 #| echo = FALSE,
@@ -54,13 +46,16 @@ upcoming <- filter(events, !.data$past) |>
   arrange(.data$date) |>
   nest(data = c(-"month"))
 
-if(nrow(upcoming) == 0){
+if (nrow(upcoming) == 0) {
   cat("> **Nothing planned at the moment, but check back!**")
-
 } else {
-  for(m in upcoming$month) {
-    print(glue("\n\n## ", as.character(month(m, label = TRUE, abbr = FALSE)), "\n\n"))
-    
+  for (m in upcoming$month) {
+    print(glue(
+      "\n\n## ",
+      as.character(month(m, label = TRUE, abbr = FALSE)),
+      "\n\n"
+    ))
+
     filter(upcoming, .data$month == .env$m) |>
       unnest(cols = "data") |>
       mutate(event = glue("{.data$event}\n\n{.data$post_link}")) |>
@@ -84,16 +79,18 @@ past <- filter(events, .data$past) |>
 
 cat(":::{.panel-tabset}\n\n")
 
-for(y in unique(past$year)) {
+for (y in unique(past$year)) {
   cat(glue("\n\n#### {y}\n\n"))
-  
+
   p <- filter(past, year == y)
-  if(nrow(p) > 0) {
-    for(i in seq_len(nrow(p))) {
+  if (nrow(p) > 0) {
+    for (i in seq_len(nrow(p))) {
       m <- p$month[i]
-      
-      print(glue("\n\n## {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"))
-      
+
+      print(glue(
+        "\n\n## {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"
+      ))
+
       p[i, ] |>
         unnest(cols = "data") |>
         mutate(event = glue("{.data$event}\n\n{.data$post_link}")) |>
