@@ -71,22 +71,23 @@ events <- gs4_get(
       ""
     ),
     hosted = replace_na(hosted, "Westman Naturalists"),
-    talk = "This is a hybrid event!",
-    talk = if_else(
+    talk_pre = "This is a hybrid event!",
+    talk_pre = if_else(
       remote_speaker,
       glue(
-        "{talk} {speaker} will be joining us via Zoom, but we'll still be meeting in person!"
+        "{talk_pre} {speaker} will be joining us via Zoom, but we'll still be meeting in person!"
       ),
-      glue("{talk}")
+      glue("{talk_pre}")
     ),
-    talk = glue("{talk} Feel free to come in person to"),
-    talk = if_else(
+    talk_pre = glue("{talk_pre} Feel free to come in person to"),
+    talk_pre = if_else(
       remote_speaker,
-      glue("{talk} socialize with your fellow Westman Naturalists"),
-      glue("{talk} meet {speaker}")
+      glue("{talk_pre} socialize with your fellow Westman Naturalists"),
+      glue("{talk_pre} meet {speaker}")
     ),
+    talk_pre = glue("{talk_pre} and see the talk, or join us via Zoom."),
     talk = glue(
-      "{talk} and see the talk, or join us via Zoom.\n\n",
+      "{talk_pre}\n\n",
       "You can join us via Zoom using these details:  \n",
       "Meeting link: <https://numfocus-org.zoom.us/j/89983879081?pwd=TCvsVw2aepKTqfdMJBgvDVbVVMmbfb.1>  \n",
       "Meeting ID: 899 8387 9081  \n",
@@ -182,21 +183,21 @@ e <- events |>
     form_discovery = if_else(
       type == "talk",
       glue(
-        "See [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) for how to join us on Zoom or to signup for a reminder."
+        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to signup for a reminder or for the Zoom details."
       ),
       form
     ),
     form_ebrandon = if_else(
       type == "talk",
       glue(
-        "See [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) for how to join us on Zoom or to signup for a reminder."
+        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to signup for a reminder or for the Zoom details."
       ),
       str_replace(form, "\\[(short form)\\]", "\\1 ")
     ),
     form_facebook = if_else(
       type == "talk",
       glue(
-        "See our website (https://westman-naturalists.github.io/events.html#{date}-{n}) for how to join us on Zoom or to signup for a reminder."
+        "{talk_pre}\n\nSee our website (https://westman-naturalists.github.io/events.html#{date}-{n}) to signup for a reminder or for the Zoom details."
       ),
       str_replace(form, "\\[(short form)\\]", "\\1 ")
     ),
@@ -225,7 +226,7 @@ e <- events |>
       "{status}{date_pretty} - {time}\n\n",
       "{title}\n\n",
       "{description}\n\n",
-      "{form_ebrandon}\n\n",
+      "{form_facebook}\n\n",
       "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://westman-naturalists.github.io/talks.html)'), '')}\n\n",
       .na = ""
     )
