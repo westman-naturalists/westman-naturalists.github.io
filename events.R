@@ -208,6 +208,7 @@ e <- events |>
       "Westman Naturalists - {title}\n\n",
       "{description}\n\n",
       "{form_discovery}\n\n",
+      "{location}\n\n",
       .na = ""
     ),
     event_ebrandon = glue(
