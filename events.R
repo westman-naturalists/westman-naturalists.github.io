@@ -183,21 +183,21 @@ e <- events |>
     form_discovery = if_else(
       type == "talk",
       glue(
-        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to signup for a reminder or for the Zoom details."
+        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
       ),
       form
     ),
     form_ebrandon = if_else(
       type == "talk",
       glue(
-        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to signup for a reminder or for the Zoom details."
+        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
       ),
       str_replace(form, "\\[(short form)\\]", "\\1 ")
     ),
     form_facebook = if_else(
       type == "talk",
       glue(
-        "{talk_pre}\n\nSee our website (https://westman-naturalists.github.io/events.html#{date}-{n}) to signup for a reminder or for the Zoom details."
+        "{talk_pre}\n\nSee our website (https://westman-naturalists.github.io/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
       ),
       str_replace(form, "\\[(short form)\\]", "\\1 ")
     ),
