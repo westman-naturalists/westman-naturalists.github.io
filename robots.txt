@@ -1,1 +1,1 @@
-Sitemap: https://westman-naturalists.github.io/sitemap.xml
+Sitemap: https://westmannaturalists.ca/sitemap.xml
