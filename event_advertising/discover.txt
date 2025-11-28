@@ -69,7 +69,7 @@ Westman Naturalists - Sharing Stories and Photos
 
 Join Westman Naturalists for a night of sharing nature photos and stories! This will be our third time hosting this event and we invite you to share your photos and the story behind them. It's a great opportunity to hear about the interesting adventures and fascinating things people have done or seen.
 
-**If you are interested in sharing your photos, please sign up with [this form]https://forms.gle/A3hnhEEm6b1fnGis8).** Once you have signed up, we will contact to you get your photos/videos closer to the date. We will put everything together and handle the technology, all you have to do is show up (in person or online)!
+**If you are interested in sharing your photos, please sign up with [this form](https://forms.gle/A3hnhEEm6b1fnGis8).** Once you have signed up, we will contact to you get your photos/videos closer to the date. We will put everything together and handle the technology, all you have to do is show up (in person or online)!
 
 Everyone will be able to share up to four stories with photos within four minutes. The photos don't have to be taken in Manitoba! Our hope is to have a good mix of in-person and online members, so if you normally join via Zoom, don’t feel like you can’t participate!
 
