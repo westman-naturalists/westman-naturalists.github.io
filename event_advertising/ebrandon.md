@@ -1,15 +1,59 @@
 
 
-Sunday, Dec 14 2025 - All day
+Sunday, Dec 28 2025 - All Day
+In and around Rivers
+
+Westman Naturalists - Rivers Christmas Bird Count
+
+This is a chance to take part in a North America wide count of birds in winter. Either by watching your feeder or getting out to search for birds within a circle around Rivers.
+
+There are two ways to participate in a Christmas Bird Count. You can join a group as a field counter within an assigned area, or be a feeder watcher and count the birds that come to your yard and feeders. Everyone is welcome to join the count regardless of skill level, beginner birders will be partnered with more experienced birders, and identification help will be available. Participants can join for a full day of counting or the amount of time that best suits them.
+
+You will receive an email and/or phone call from one of our coordinators to confirm details about your participation, and give you full instructions.
+
+**Participation**: Please complete this short form (https://forms.gle/KMr3Z45hXZbB58RF9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+In and around Rivers
+
+
+-----------
+
+
+
+Sunday, Dec 14 2025 - 5:00 AM
+Riverbank Discovery Centre
+
+Westman Naturalists - Pot Luck
+
+We will be having a potluck supper following the Christmas Bird count at the Riverbank Discovery Centre from 5pm to about 8pm. Setup will begin at 4:30pm with the supper commencing at about 5:30pm. 
+
+**Everyone is welcome to attend!**
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+Riverbank Discovery Centre
+
+
+-----------
+
+
+
+Sunday, Dec 14 2025 - All Day
 In and around Brandon
 
 Westman Naturalists - Brandon Christmas Bird Count
 
-This is a chance to take part in a North America wide count of birds in winter. Either by watching your feeder or getting out to search for birds within a 7.5 mile circle around Brandon or Rivers. 
+This is a chance to take part in a North America wide count of birds in winter. Either by watching your feeder or getting out to search for birds within a circle around Brandon.
 
-More details to follow.
+There are two ways to participate in a Christmas Bird Count. You can join a group as a field counter within an assigned area, or be a feeder watcher and count the birds that come to your yard and feeders. Everyone is welcome to join the count regardless of skill level, beginner birders will be partnered with more experienced birders, and identification help will be available. Participants can join for a full day of counting or the amount of time that best suits them.
 
-**Participation**: TBA
+You will receive an email and/or phone call from one of our coordinators to confirm details about your participation, and give you full instructions.
+  
+We plan to have a potluck supper following the count at the Riverbank Discovery Centre from 5pm to about 8pm. Setup will begin at 4:30pm with the supper commencing at about 5:30pm. 
+
+**All bird count participants AND Westman Naturalists members are welcome to attend!**
+
+**Participation**: Please complete this short form (https://forms.gle/Dmm3mkqbXCH1CwY37) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
 In and around Brandon
 
@@ -25,7 +69,7 @@ Westman Naturalists - Sharing Stories and Photos
 
 Join Westman Naturalists for a night of sharing nature photos and stories! This will be our third time hosting this event and we invite you to share your photos and the story behind them. It's a great opportunity to hear about the interesting adventures and fascinating things people have done or seen.
 
-**If you are interested in sharing your photos, please sign up with [this form](https://docs.google.com/forms/d/e/1FAIpQLSdY5ropau5_XYUGGMnEWxkBq6Qy3UMkfpr4dS2Cl6XKmIDo5A/viewform?usp=publish-editor).** Once you have signed up, we will contact to you get your photos/videos closer to the date. We will put everything together and handle the technology, all you have to do is show up (in person or online)!
+**If you are interested in sharing your photos, please sign up with [this form](https://forms.gle/A3hnhEEm6b1fnGis8).** Once you have signed up, we will contact to you get your photos/videos closer to the date. We will put everything together and handle the technology, all you have to do is show up (in person or online)!
 
 Everyone will be able to share up to four stories with photos within four minutes. The photos don't have to be taken in Manitoba! Our hope is to have a good mix of in-person and online members, so if you normally join via Zoom, don’t feel like you can’t participate!
 
