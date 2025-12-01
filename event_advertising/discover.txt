@@ -57,27 +57,3 @@ We plan to have a potluck supper following the count at the Riverbank Discovery 
 
 In and around Brandon
 
-
------------
-
-
-
-Thursday, Dec 11 2025 - 7:00 PM
-Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westman-naturalists.github.io/talks.html))
-
-Westman Naturalists - Sharing Stories and Photos
-
-Join Westman Naturalists for a night of sharing nature photos and stories! This will be our third time hosting this event and we invite you to share your photos and the story behind them. It's a great opportunity to hear about the interesting adventures and fascinating things people have done or seen.
-
-**If you are interested in sharing your photos, please sign up with [this form](https://forms.gle/A3hnhEEm6b1fnGis8).** Once you have signed up, we will contact to you get your photos/videos closer to the date. We will put everything together and handle the technology, all you have to do is show up (in person or online)!
-
-Everyone will be able to share up to four stories with photos within four minutes. The photos don't have to be taken in Manitoba! Our hope is to have a good mix of in-person and online members, so if you normally join via Zoom, don’t feel like you can’t participate!
-
-If you would like to share photos but are uncomfortable presenting, we can present them for you!
-
-This is a hybrid event! Feel free to come in person to meet us all and see the talk, or join us via Zoom.
-
-See [our website](https://westman-naturalists.github.io/events.html#2025-12-11-1) to sign up for a reminder or for the Zoom details.
-
-Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
-
