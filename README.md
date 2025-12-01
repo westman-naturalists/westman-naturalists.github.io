@@ -1,6 +1,6 @@
 # README
 
-This is the repository for the [Westman Naturalists website](https://westman-naturalists.github.io)
+This is the repository for the [Westman Naturalists website](https://WestmanNaturalists.ca)
 
 
 ## Update Events
@@ -25,6 +25,6 @@ This is the repository for the [Westman Naturalists website](https://westman-nat
     - Green check = Successful
     - Red X = Unsuccessful
 
-- Check formating of your event on the [Events page](https://westman-naturalists.github.io/events.html)
+- Check formating of your event on the [Events page](https://WestmanNaturalists.ca/events.html)
     
 - If there are any problems contact Steffi

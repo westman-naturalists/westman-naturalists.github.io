@@ -46,8 +46,8 @@ events <- gs4_get(
     time = str_remove(time, "^0"),
     description = str_replace_all(
       description,
-      "westman.naturalists@gmail.com",
-      "[westman.naturalists@gmail.com](mailto:westman.naturalists@gmail.com)"
+      "contact@westmannaturalists.ca",
+      "[contact@westmannaturalists.ca](mailto:contact@westmannaturalists.ca)"
     ),
     description = str_replace(
       description,
@@ -121,7 +121,7 @@ events <- gs4_get(
     ),
     footer = if_else(
       str_detect(hosted, "Westman Naturalists"),
-      "[Contact Westman Naturalists for more information](mailto:westman.naturalists@gmail.com)",
+      "[Contact Westman Naturalists for more information](mailto:contact@westmannaturalists.ca)",
       "Note that this event is not hosted by Westman Naturalists"
     ),
     footer = if_else(past, "", footer),
@@ -183,28 +183,28 @@ e <- events |>
     form_discovery = if_else(
       type == "talk",
       glue(
-        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
+        "{talk_pre}\n\nSee [our website](https://WestmanNaturalists.ca/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
       ),
       form
     ),
     form_ebrandon = if_else(
       type == "talk",
       glue(
-        "{talk_pre}\n\nSee [our website](https://westman-naturalists.github.io/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
+        "{talk_pre}\n\nSee [our website](https://WestmanNaturalists.ca/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
       ),
       str_replace(form, "\\[(short form)\\]", "\\1 ")
     ),
     form_facebook = if_else(
       type == "talk",
       glue(
-        "{talk_pre}\n\nSee our website (https://westman-naturalists.github.io/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
+        "{talk_pre}\n\nSee our website (https://WestmanNaturalists.ca/events.html#{date}-{n}) to sign up for a reminder or for the Zoom details."
       ),
       str_replace(form, "\\[(short form)\\]", "\\1 ")
     ),
     event_discover = glue(
       "{extra}\n\n",
       "{status}{date_pretty} - {time}\n",
-      "{str_replace(location, 'talks\\\\.html', 'https://westman-naturalists.github.io/talks.html')}\n\n",
+      "{str_replace(location, 'talks\\\\.html', 'https://WestmanNaturalists.ca/talks.html')}\n\n",
       "Westman Naturalists - {title}\n\n",
       "{description}\n\n",
       "{form_discovery}\n\n",
@@ -214,7 +214,7 @@ e <- events |>
     event_ebrandon = glue(
       "{extra}\n\n",
       "{status}{date_pretty} - {time}\n",
-      "{str_replace(location, 'talks\\\\.html', 'https://westman-naturalists.github.io/talks.html')}\n\n",
+      "{str_replace(location, 'talks\\\\.html', 'https://WestmanNaturalists.ca/talks.html')}\n\n",
       "Westman Naturalists - {title}\n\n",
       "{description}\n\n",
       "{form_ebrandon}\n\n",
@@ -228,7 +228,7 @@ e <- events |>
       "{title}\n\n",
       "{description}\n\n",
       "{form_facebook}\n\n",
-      "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://westman-naturalists.github.io/talks.html)'), '')}\n\n",
+      "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://WestmanNaturalists.ca/talks.html)'), '')}\n\n",
       .na = ""
     )
   )
