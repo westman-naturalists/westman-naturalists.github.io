@@ -81,19 +81,3 @@ See [our website](https://westman-naturalists.github.io/events.html#2025-12-11-1
 
 Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 
-
------------
-
-
-
-Sunday, Nov 30 2025 - 9:00 AM
-Assiniboine Food Forest
-
-Westman Naturalists - Feeder Watch and Walk
-
-Join us at the end of November for a walk around the Assiniboine Food Forest trails, looking for birds that are looking for bird seed. We usually see a fair number of different finches there at this time of year!
-
-**Participation**: Please complete this short form (https://forms.gle/fYvxb7inQ5S5g9yd9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
-Assiniboine Food Forest
-
