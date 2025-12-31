@@ -2,9 +2,11 @@
 title: "Christmas Bird Counts"
 ---
 
-The Christmas Bird Count is a citizen science project that started in the year 1900. December 2024 marks the 125th Christmas Bird Count season, and Westman Naturalists once again hosted two counts. Results for the 2024 Brandon and Rivers counts can be found below.
+The Christmas Bird Count (CBC) is a citizen science project that started in the year 1900. December 2024 marked the 125th Christmas Bird Count season. Results for the our Brandon and Rivers counts can be found below.
 
 Westman Naturalists has been organizing the Brandon Christmas Bird Count since 2019. There are two ways you can participate in the count, either as a field counter or as a feeder watcher. Field counters are placed in groups and are assigned an area around the city, such as the north hill or downtown, and then walk or drive around counting any birds they spot. Feeder watchers keep an eye out for birds visiting their feeders or backyard, marking down any unique birds or flocks. There is also always a chance of encountering something besides birds, such as two families of North American River Otters that were found along the river in 2023.
+
+Interested in participating in 2026? Sign up for the next [Brandon CBC](https://forms.gle/tZV46k9FXnpy9RFq7) or [Rivers CBC](https://forms.gle/7FoK9X9K6V2cQBBcA)!
 
 ### 2025 Christmas Bird Counts
 
@@ -12,23 +14,31 @@ Westman Naturalists has been organizing the Brandon Christmas Bird Count since 2
 
 ::::{.columns}
 :::{.column width=60%}
-The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. Results will be added when their completed, please check back later!
+The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. Results will be added when they're completed, please check back later!
 
 :::
 :::{.column width=40%}
 {{< video https://www.youtube.com/embed/d5oRWSEt71Y >}}
 ::::
 
+| Species | Count |
+|---------|------:|
+| Bird | # |
+
 ## Rivers CBC Results {#rivers25}
 
 ::::{.columns}
 :::{.column width=60%}
-The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. Results will be added when their completed, please check back later!
+The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. Results will be added when they're completed, please check back later!
 
 :::
 :::{.column width=40%}
 {{< video https://www.youtube.com/embed/A4sZGq8ghtE >}}
 ::::
+
+| Species | Count |
+|---------|------:|
+| Bird | # |
 
 ### 2024 Christmas Bird Counts
 
@@ -36,7 +46,7 @@ The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. Result
 
 ::::{.columns}
 :::{.column width=60%}
-The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the 1 count circle. 39 different species were counted for a grand total of 4869 birds.
+The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the count circle. 39 different species were counted for a grand total of 4869 birds.
 
 We hosted a potluck supper for participants after everyone was done counting for the day. 16 members shared stories of what they saw during the count, such as a flock of Cedar Waxwings eating berries, a lone Common Merganser on the river, and White-winged Crossbills showing up right as they were being discussed.
 
@@ -137,11 +147,9 @@ A lot of owls were spotted this year, with 8 individuals representing 4 species!
 
 ## Other Counts Around Westman {#othercounts}
 
-The Glenboro/Spruce Woods count took place on December 14th. Results were posted in the January 9th copy of The Gazette.
+The Riding Mountain National Park CBC is organized by Friends of Riding Mountain National Park.
 
-The Riding Mountain National Park count took place on December 17th.
-
-The Minnedosa count took place on December 28th. Results were shared with the Minnedosa Tribune.
+The Minnedosa CBC is organized by Erica Alex.
 
 Results for counts across Canada will be available from [Birds Canada](https://www.birdscanada.org/bird-science/christmas-bird-count) when they are completed.
 
