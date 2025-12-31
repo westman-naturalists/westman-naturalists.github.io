@@ -2,6 +2,9 @@
 title: "Videos"
 ---
 
+### Westman Naturalists 2025 Outings Recap
+{{< video https://www.youtube.com/embed/aMfinbqciGk >}}
+
 ### Westman Naturalists 2024 Outings Recap
 {{< video https://www.youtube.com/embed/u8XDt5lw3Zk >}}
 
