@@ -6,7 +6,29 @@ The Christmas Bird Count is a citizen science project that started in the year 1
 
 Westman Naturalists has been organizing the Brandon Christmas Bird Count since 2019. There are two ways you can participate in the count, either as a field counter or as a feeder watcher. Field counters are placed in groups and are assigned an area around the city, such as the north hill or downtown, and then walk or drive around counting any birds they spot. Feeder watchers keep an eye out for birds visiting their feeders or backyard, marking down any unique birds or flocks. There is also always a chance of encountering something besides birds, such as two families of North American River Otters that were found along the river in 2023.
 
-## 2024 Brandon Christmas Bird Count {#brandon}
+## 2025 Brandon Christmas Bird Count {#brandon25}
+
+::::{.columns}
+:::{.column width=60%}
+The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th.
+
+:::
+:::{.column width=40%}
+{{< video https://www.youtube.com/embed/d5oRWSEt71Y >}}
+::::
+
+## 2025 Rivers Christmas Bird Count {#rivers25}
+
+::::{.columns}
+:::{.column width=60%}
+The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th.
+
+:::
+:::{.column width=40%}
+{{< video https://www.youtube.com/embed/A4sZGq8ghtE >}}
+::::
+
+## 2024 Brandon Christmas Bird Count {#brandon24}
 
 ::::{.columns}
 :::{.column width=60%}
@@ -61,7 +83,7 @@ We hosted a potluck supper for participants after everyone was done counting for
 | Pine Siskin | 9 |
 | House Sparrow | 1111 |
 
-## 2024 Rivers Christmas Bird Count {#rivers}
+## 2024 Rivers Christmas Bird Count {#rivers24}
 
 ::::{.columns}
 :::{.column width=60%}
