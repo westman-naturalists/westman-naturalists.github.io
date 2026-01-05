@@ -37,10 +37,10 @@ Persons may be named honorary life Members by the Board in recognition of outsta
 
 Interested in finding out more? Want to organize an outing/activity? Get in touch with us below.
 
-- Send us a email at [contact@westmannaturalists.ca](mailto:contact@westmannaturalists.ca).
-- Sign up for our [mailing list](https://dashboard.mailerlite.com/forms/437902/92098769306256781/share). Newsletters are generally sent out twice a month with links to outing sign ups and info on events from other organizations.
+- Send us a email at [contact@WestmanNaturalists.ca](mailto:contact@westmannaturalists.ca)
+- Sign up for our [mailing list](https://dashboard.mailerlite.com/forms/437902/92098769306256781/share). Newsletters are generally sent out twice a month with links to outing sign ups and info on events from other organizations
 - Follow us on [Facebook](https://www.facebook.com/westman.naturalists) and [Instagram](https://www.instagram.com/westmannaturalists/) to see photos from our outings submitted by members!
-- Subscribe to our new [YouTube channel](https://www.youtube.com/@westmannaturalists) to see videos from our outings.
+- Subscribe to our new [YouTube channel](https://www.youtube.com/@westmannaturalists) to see videos from our outings
 - Check out our [eBird](https://ebird.org/profile/MzE4NDA1Mw/CA-MB) and [iNaturalist](https://inaturalist.ca/projects/westman-naturalists-outings) pages to see what we've found out and about!
 
 See our [Helping Out](helping_out.html) page for more ways to get involved.
@@ -53,7 +53,7 @@ See our [Helping Out](helping_out.html) page for more ways to get involved.
 - Enter the amount for your e-transfer (membership is $10 per person)
 - Create a new payee
     - Name: Westman Naturalists Inc.
-    - Interac e-transfer recipient: westman.naturalists@gmail.com
+    - Interac e-transfer recipient: [contact@WestmanNaturalists.ca](mailto:contact@westmannaturalists.ca)
     - Add to payee list and hit continue
 - Westman Naturalist Inc. has set up Autodeposit, meaning that there is no question/answer required to send the e-transfer - the payment will be made automatically and cannot be reversed
 - Add details in the Memo/Message box (e.g. whom the membership is for, or whether this is a donation)
