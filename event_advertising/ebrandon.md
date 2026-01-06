@@ -32,7 +32,7 @@ We have a couple positions up for election (details TBA) and remember that while
 
 More details to follow on the specifics of what the AGM will entail!
 
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+**Participation**: TBA
 
 Riverbank Discovery Centre Meeting Room
 
