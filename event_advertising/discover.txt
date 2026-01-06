@@ -3,7 +3,7 @@
 Thursday, May 14 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - ID Talk (TBA)
+Westman Naturalists - [Talk] ID Talk (TBA)
 
 This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
 
@@ -23,7 +23,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Apr 09 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - MB Parks (TBA)
+Westman Naturalists - [Talk] MB Parks (TBA)
 
 This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
 
@@ -43,7 +43,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Mar 12 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - Birding 101 (TBA)
+Westman Naturalists - [Talk] Birding 101 (TBA)
 
 This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
 
@@ -63,7 +63,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Feb 12 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - Insects (TBA)
+Westman Naturalists - [Talk] Insects (TBA)
 
 This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
 
