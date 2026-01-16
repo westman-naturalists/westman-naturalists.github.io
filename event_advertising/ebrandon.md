@@ -84,7 +84,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Feb 12 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] Insects (TBA)
+Westman Naturalists - [Talk] Bugs do it Better!
 
 This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
 
