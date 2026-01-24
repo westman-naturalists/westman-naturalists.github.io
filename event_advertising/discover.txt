@@ -76,23 +76,3 @@ See [our website](https://WestmanNaturalists.ca/events.html#2026-03-12-1) to sig
 
 Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 
-
------------
-
-
-
-Thursday, Feb 12 2026 - 7:00 PM
-Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
-
-Westman Naturalists - [Talk] Bugs do it Better!
-
-Insects are an incredibly diverse and successful group of animals inhabiting many different environments. In this talk we'll take a look at some of the strategies insects have adapted to become so successful, such as how they deal with the cold, some of their navigation secrets, and how they take on the aquatic lifestyle!
-
-Denice Geverink is a graduate from the University of Manitoba with a degree in Environmental Science and Entomology. While studying she worked for the U of M Department of Entomology, and spent much of her time making sure her lab bugs were happy, healthy and multiplying. Denice holds a love for nature, but her true interest lies in the world of insects. She hopes people will look beyond the creepy crawly side of bugs, and come to appreciate the diverse and intricate lives of the most abundant group of animals on the planet.
-
-This is a hybrid event! Feel free to come in person to meet Denice and see the talk, or join us via Zoom.
-
-See [our website](https://WestmanNaturalists.ca/events.html#2026-02-12-1) to sign up for a reminder or for the Zoom details.
-
-Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
-
