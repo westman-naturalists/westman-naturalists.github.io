@@ -64,13 +64,11 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Mar 12 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] Birding 101 (TBA)
+Westman Naturalists - [Talk] Birding for Beginners and Beyond
 
-This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
+Have questions? We got answers! Please join us for a panel discussion and Question and Answer session that brings together seasoned birders and enthusiastic newcomers to explore the wonderful world of birding. This interactive presentation will cover practical how-tos, tips for identifying birds by sight and sound, and selecting binoculars and field guides. Learn tips and tricks for getting started, using tools like eBird and mobile apps to ID birds and more. Whether you're about to take your first steps into birding or looking to refine your skills, this conversation will have something for everyone!
 
-Details to follow!
-
-This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
+This is a hybrid event! Feel free to come in person to meet the panel and see the talk, or join us via Zoom.
 
 See [our website](https://WestmanNaturalists.ca/events.html#2026-03-12-1) to sign up for a reminder or for the Zoom details.
 
