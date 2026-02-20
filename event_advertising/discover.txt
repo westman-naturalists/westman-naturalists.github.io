@@ -44,9 +44,9 @@ Riverbank Discovery Centre Meeting Room
 Thursday, Apr 09 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] MB Parks (TBA)
+Westman Naturalists - [Talk] A Park for All Seasons: Understanding, Protecting, and Enjoying Manitoba’s Provincial Parks
 
-This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
+David Jones: Regional Park Specialist, Western Region/Parks and Trails Division
 
 Details to follow!
 
