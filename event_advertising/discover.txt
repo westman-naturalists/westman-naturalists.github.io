@@ -82,7 +82,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Saturday, Feb 28 2026 - 2:00 PM
 Riverbank Discovery Centre
 
-Westman Naturalists - 
+Westman Naturalists - In Loving Memory of Glennis Lewis
 
 It is with great sadness that we share the passing of Glennis Lewis. She passed away peacefully on February 1st 2026 with treasured friends at her side. She was well cared for in Palliative Care at the Brandon Regional Health Centre.
 
@@ -90,7 +90,7 @@ Westman Naturalists will be hosting an informal “come and go” gathering at t
 
 Pot-luck contributions of snacks or dainties will be appreciated, though not expected. Tea, coffee and soft drinks will be available. There will be a selection of Glennis’ books on flowers, birds, insects etc. available for purchase at very reasonable prices.
 
-
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
 Riverbank Discovery Centre
 
