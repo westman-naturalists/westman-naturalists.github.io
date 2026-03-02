@@ -61,6 +61,26 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 
 
 
+Saturday, Mar 21 2026 - 9:30 AM
+Brandon University
+
+Westman Naturalists - Brandon University Herbarium
+
+A morning at the Brandon University Herbarium with Dr. McGonigle. 
+
+We will get a chance to visit Dr. McGonigle's Herbarium at Brandon University 9:30-12. 
+
+Details coming soon.
+
+**Participation**: TBA
+
+Brandon University
+
+
+-----------
+
+
+
 Thursday, Mar 12 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
