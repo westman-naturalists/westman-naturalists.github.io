@@ -3,13 +3,13 @@
 Thursday, May 14 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] ID Talk (TBA)
+Westman Naturalists - [Talk] Plant ID Talk (TBA)
 
 This is a placeholder for our regarlarly scheduled talks on the second Thursday of the month. 
 
 Details to follow!
 
-This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
+This is a hybrid event! Feel free to come in person to meet Jen and see the talk, or join us via Zoom.
 
 See [our website](https://WestmanNaturalists.ca/events.html#2026-05-14-1) to sign up for a reminder or for the Zoom details.
 
@@ -50,7 +50,7 @@ David's presentation will offer a review of the provincial park system in Manito
 
 David Jones is a Park Specialist with Manitoba Environment and Climate Change, working out of Brandon, Manitoba. He holds a Bachelor of Science degree in Geography from Brandon University. In his role, David provides support for park planning and management, infrastructure development, and recreational initiatives throughout provincial parks and protected areas in western Manitoba. Having been born and raised on a family farm in southwestern Manitoba, David has a deep connection to the region. He enjoys spending quality time with his family and friends, pursuing his hobbies, and exploring the natural world.
 
-This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
+This is a hybrid event! Feel free to come in person to meet David and see the talk, or join us via Zoom.
 
 See [our website](https://WestmanNaturalists.ca/events.html#2026-04-09-1) to sign up for a reminder or for the Zoom details.
 
