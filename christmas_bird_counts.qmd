@@ -29,7 +29,9 @@ The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. Resul
 
 ::::{.columns}
 :::{.column width=60%}
-The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. Results will be added when they're completed, please check back later!
+The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. We had 16 field counters out and about in the blowing snow, and 8 feeder watchers keeping an eye out for birds in their yards!
+
+It was also a good day for mammals, with a group of North American River Otters spotted by the dam, Moose and White-tailed Deer out on the grid roads, and at least one American Red Squirrel!
 
 :::
 :::{.column width=40%}
@@ -38,7 +40,33 @@ The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. Result
 
 | Species | Count |
 |---------|------:|
-| Bird | # |
+| Grey Partridge | 91 |
+| Sharp-tailed Grouse | 171 |
+| Wild Turkey | 25 |
+| Rock Pigeon | 146 |
+| Eurasian Collared Dove | 5 |
+| Great Horned Owl | 1 |
+| Snowy Owl | 1 |
+| Downy Woodpecker | 16 |
+| Hairy Woodpecker | 20 |
+| Pileated Woodpecker | 4 |
+| Northern Shrike | 1 |
+| Blue Jay | 85 |
+| Black-billed Magpie | 37 |
+| American Crow | 14 |
+| Common Raven | 44 |
+| Horned Lark | 39 |
+| Black-capped Chickadee | 90 |
+| Boreal Chickadee | 1 |
+| Red-breasted Nuthatch | 1 |
+| White-breasted Nuthatch | 19 |
+| American Robin | 7 |
+| Bohemian Waxwing | 306 |
+| Snow Bunting | 303 |
+| Dark-eyed Junco | 6 |
+| Pine Grosbeak | 12 |
+| Common Redpoll | 110 |
+| House sparrow | 188 |
 
 ### 2024 Christmas Bird Counts
 
