@@ -36,3 +36,35 @@ More details to follow on the specifics of what the AGM will entail!
 
 Riverbank Discovery Centre Meeting Room
 
+
+-----------
+
+
+
+Sunday, Mar 29 2026 - 9:00 AM
+Riverbank Discovery Centre
+
+Westman Naturalists - Winter Walk at the Discovery Centre
+
+Take an approximately 1km walk with us around the Discovery Centre trails! We're bound to see Black-capped Chickadees, White-tailed Deer, a woodpecker or two, and maybe some early migrants on their flight back north?
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+Riverbank Discovery Centre
+
+
+-----------
+
+
+
+Sunday, Mar 15 2026 - 9:00 AM
+Brandon Hills
+
+Westman Naturalists - Winter Walk or Hike at Brandon Hills
+
+Maybe more of a hike, we'll head out from the parking lot and probably walk 3-6km, depending on the weather that day! The Brandon Hills trail system has many different routes and every turn is clearly marked, so it's a great place to spend a morning hiking in nature.
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+Brandon Hills
+
