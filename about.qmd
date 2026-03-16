@@ -63,16 +63,6 @@ Carson works as a mobile production assistant in Brandon. He spends most of his 
 
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye, Gillian also spends time brushing up on butterflies and native plants. Her passion is leading trips and sharing her knowledge of Westman nature.
 
-## Glennis Lewis
-
-::: {.column-margin}
-![](images/Glennis.jpg){fig-alt="Glennis Lewis" title="Glennis Lewis"}
-:::
-
-**Committees**: Financial and Planning, Field Trips
-
-Glennis Lewis is a retired botanist and lawyer who teaches environmental impact assessment at Brandon University. She leads numerous field trips for the Westman Naturalists.
-
 ## Steffi LaZerte
 
 ::: {.column-margin}
@@ -83,7 +73,20 @@ Glennis Lewis is a retired botanist and lawyer who teaches environmental impact 
 
 Steffi is an independent biologist and R consultant and avid gardener. Steffi enjoys getting away from her computer to explore Westman Nature, taking her cats if she can!
 
-#### Alumni
+## In Memoriam
+
+#### Glennis Lewis
+
+::: {.column-margin}
+![](images/Glennis.jpg){fig-alt="Glennis Lewis" title="Glennis Lewis"}
+:::
+
+Glennis Lewis was a retired botanist and lawyer who taught environmental impact assessment at Brandon University. She lead numerous field trips for the Westman Naturalists. 
+Glennis was a founding member of the Westman Naturalists and was pivotal in the creation and development of our group.
+
+
+## Alumni
+
 [**Many thanks!**]{.large}
 
 - Erica Alex
