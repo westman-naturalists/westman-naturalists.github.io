@@ -14,7 +14,9 @@ Interested in participating in 2026? Sign up for the next [Brandon CBC](https://
 
 ::::{.columns}
 :::{.column width=60%}
-The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. Results will be added when they're completed, please check back later!
+The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. This year there were 43 field counters (who put in 41km of walking and 713km of driving) and 38 feeder watchers in the count circle!
+
+Along with the 35 species listed below (a decent amount of raptors were spotted), there were also Pine Siskins and a Brown Creeper reported during the count week.
 
 :::
 :::{.column width=40%}
@@ -23,7 +25,42 @@ The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. Resul
 
 | Species | Count |
 |---------|------:|
-| Bird | # |
+| Canada Goose | 14 |
+| Common Merganser | 1 |
+| Grey Partridge | 32 |
+| Ring-necked Pheasant | 2 |
+| Sharp-tailed Grouse | 100 |
+| Wild Turkey | 5 |
+| Bald Eagle | 6 |
+| Rough-legged Hawk | 1 |
+| Rock Pigeon | 1001 |
+| Eurasian Collared Dove | 1 |
+| Great Horned Owl | 1 |
+| Snowy Owl | 4 |
+| Short-eared Owl | 1 |
+| Downy Woodpecker | 43 |
+| Hairy Woodpecker | 39 |
+| Northern Flicker | 1 |
+| Merlin | 1 |
+| Northern Shrike | 1 |
+| Blue Jay | 80 |
+| Black-billed Magpie | 72 |
+| American Crow | 78 |
+| Common Raven | 77 |
+| Horned Lark | 4 |
+| Black-capped Chickadee | 331 |
+| Red-breasted Nuthatch | 29 |
+| White-breasted Nuthatch | 83 |
+| American Robin | 2 |
+| European Starling | 23 |
+| Bohemian Waxwing | 25 |
+| Snow Bunting | 138 |
+| White-throated Sparrow | 1 |
+| Dark-eyed Junco | 25 |
+| Purple Finch | 1 |
+| House Finch | 96 |
+| Common Redpoll | 40 |
+| House Sparrow | 651 |
 
 ## Rivers CBC Results {#rivers25}
 
