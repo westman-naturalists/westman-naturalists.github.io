@@ -20,12 +20,12 @@ website:
       - text: "About"
         href: about.qmd
     right:
+      - icon: youtube
+        href: https://www.youtube.com/@westmannaturalists
       - icon: facebook
         href: https://www.facebook.com/westmannaturalists
       - icon: instagram
         href: https://www.instagram.com/westmannaturalists
-      - icon: youtube
-        href: https://www.youtube.com/@westmannaturalists
 
 format:
   html:
