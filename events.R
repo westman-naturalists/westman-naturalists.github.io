@@ -141,7 +141,7 @@ events <- gs4_get(
       "**Location**: {location}",
       .na = ""
     ),
-    deets = if_else(.data$tentative, "Tentatively scheduled event, check back for details", deets),
+    deets = if_else(.data$tentative & .data$description %in% c("", "TBD"), "Tentatively scheduled event, check back for details", deets),
     event = glue(
       "{extra}\n\n",
       "##### {status} {date_pretty} {{#{date}-{n}}}\n\n",
