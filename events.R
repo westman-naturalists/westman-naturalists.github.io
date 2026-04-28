@@ -134,14 +134,19 @@ events <- gs4_get(
     ),
     form = glue("**Participation**: {form}"),
     form = if_else(past, "", form),
+    deets = glue(
+      "{description}\n\n",
+      "{form}\n\n",
+      "**Time**: {time}<br>",
+      "**Location**: {location}",
+      .na = ""
+    ),
+    deets = if_else(.data$tentative, "Tentatively scheduled event, check back for details", deets),
     event = glue(
       "{extra}\n\n",
       "##### {status} {date_pretty} {{#{date}-{n}}}\n\n",
       "<span class = 'event-title'>{title}</span> {hosted}\n\n",
-      "{description}\n\n",
-      "{form}\n\n",
-      "**Time**: {time}<br>",
-      "**Location**: {location}\n\n",
+      "{deets}\n\n",
       "{footer}",
       .na = ""
     ),
