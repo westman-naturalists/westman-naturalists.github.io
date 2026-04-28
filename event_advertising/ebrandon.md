@@ -1,5 +1,193 @@
 
 
+Wednesday, Aug 12 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Aug 12 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Aug 12 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Jul 29 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Jul 15 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Jul 01 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Jun 17 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, Jun 03 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Wednesday, May 20 2026 - All day
+TBD
+
+Westman Naturalists - Nature Walk at TBD
+
+TBD
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+TBD
+
+
+-----------
+
+
+
+Saturday, May 09 2026 - 8:30 AM
+Griswold Marsh
+
+Westman Naturalists - Global Big Day & Bluebirds at Griswold Marsh
+
+With spring migration in full swing, you’re bound to see some interesting species. Global Big Day is an annual event dedicated to the birds you can find around you. We’re hosting an outing to the marsh south of Griswold, where we will count the birds in the area to see how many species and individuals we can identify.
+
+You can also submit your own lists and contribute to the global effort for the entire weekend! Check out [eBird's site](https://ebird.org/news/global-big-day-2026) for more information about Global Big Day.
+
+We will mostly be driving, and stopping along the road to look for birds. Be sure to dress for the weather! Please bring water, snacks and an optional lunch. Don’t forget your binoculars and camera if you have them. We will have telescopes available, for extra close views of the birds we find.
+
+We have an added bonus this year. Members of the [Friends of the Bluebirds](https://mbbluebirds.org/) will be joining us to briefly explain their program and why you see bluebird boxes along fence-lines all through SW Manitoba. You may even get a chance to peek into a box to see who is home. This is a family friendly outing, feel free to bring along the kids.
+
+**Participation**: Please complete this short form (https://forms.gle/ZcXTx3TZCErc9WVu6) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+Griswold Marsh
+
+
+-----------
+
+
+
+Saturday, May 16 2026 - 9:00 AM
+Around Brandon
+
+Westman Naturalists - Signs of Spring: Early Season Plant Identification Walk
+
+Ever wonder what tree that bird was in? What is that flower? What a neat leaf! Please join us for a walk in or near Brandon paired with a Plant ID talk held the previous Thursday. All experiences from novice to expert are welcome!  Can only make it to one of the events? No problem: while the two events work together well, it is not essential to do both. 
+
+Jennifer Wasko, a Botanist and Instructor of Horticulture at Assiniboine College, will deliver an interactive talk and even more interactive walk on Plant Identification in the Westman area in spring.
+
+This walk will be in a location either within Brandon or within a 30 minute drive and be selected for an easy walk where a wide variety of plants can be observed and will take approximately two hours, starting at 9:00 AM. The walk will be a gentle walk with lots of stops to examine plants. The exact location will depend largely on how the plants are developing so we can guarantee a good variety and we will update you once we have this selected.
+
+Please dress for the weather, wear appropriate footwear for a nature walk, and bring enough water and snacks for yourselves. Weather is highly variable this time of year, hats/sunscreen, and dressing in layers are all good options. Note that ticks are expected to be active at this time and there could be poison ivy or poison oak. A hand lens, macro lens, or even a camera phone with a decent zoom/macro are useful for seeing plant details up close. Bring your curious minds, and have fun!
+
+**Participation**: Please complete this short form (https://forms.gle/AwBtBQqE4yJp7mKS9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+Around Brandon
+
+
+-----------
+
+
+
 Thursday, May 14 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
