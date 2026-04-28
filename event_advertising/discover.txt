@@ -1,6 +1,6 @@
 
 
-Wednesday, Aug 12 2026 - All day
+Wednesday, Sep 09 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -16,7 +16,7 @@ TBD
 
 
 
-Wednesday, Aug 12 2026 - All day
+Wednesday, Aug 26 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -32,7 +32,7 @@ TBD
 
 
 
-Wednesday, Aug 12 2026 - All day
+Wednesday, Aug 12 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -48,7 +48,7 @@ TBD
 
 
 
-Wednesday, Jul 29 2026 - All day
+Wednesday, Jul 29 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -64,7 +64,7 @@ TBD
 
 
 
-Wednesday, Jul 15 2026 - All day
+Wednesday, Jul 15 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -80,7 +80,7 @@ TBD
 
 
 
-Wednesday, Jul 01 2026 - All day
+Wednesday, Jul 01 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -96,7 +96,7 @@ TBD
 
 
 
-Wednesday, Jun 17 2026 - All day
+Wednesday, Jun 17 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -112,7 +112,7 @@ TBD
 
 
 
-Wednesday, Jun 03 2026 - All day
+Wednesday, Jun 03 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
@@ -128,7 +128,7 @@ TBD
 
 
 
-Wednesday, May 20 2026 - All day
+Wednesday, May 20 2026 - 7:00 PM
 TBD
 
 Westman Naturalists - Nature Walk at TBD
