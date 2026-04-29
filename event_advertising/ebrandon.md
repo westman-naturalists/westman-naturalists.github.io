@@ -128,16 +128,34 @@ TBD
 
 
 
-Wednesday, May 20 2026 - 7:00 PM
-TBD
+Saturday, May 23 2026 - All day
+Whitewater Lake
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Shorebirding Outing at Whitewater Lake
+
+The Manitoba IBA Program will be hosting an outing to Whitewater Lake with us! West of Boissevain, Whitewater Lake is an amazing place for shorebirds and so many other birds. If you're not confident with your shorebird identification, there will be resources available and a birder or two who really know their sandpipers and plovers!
+
+This outing involves a lot of driving, with stops at different points around the lake. We'd like to minimize the number of vehicles, so please let us know if you're interested in carpooling!
+
+**Participation**: Please email Mackenzie at iba@naturemanitoba.ca to sign up for this event.
+
+Whitewater Lake
+
+
+-----------
+
+
+
+Wednesday, May 20 2026 - 7:00 PM
+Brandon - West End
+
+Westman Naturalists - Nature Walk - West End of Brandon
 
 TBD
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-TBD
+Brandon - West End
 
 
 -----------
@@ -209,13 +227,13 @@ Griswold Marsh
 
 
 Wednesday, May 06 2026 - 7:00 PM
-TBD
+Brandon - Willowdale
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Nature Walk - Willowdale Neighbourhood
 
-TBD
+Join us for a shorter walk in a Brandon neighbourhood, meeting at [Willowdale Cres and Williamson Dr](https://maps.app.goo.gl/wPpFCKrPxERGK3n36) (parking in the exact area may be limited). Most of the walk will be on a sidewalk, and there is a path through the trees that may be accessible if it isn't too muddy. The walk will only be about 1km, but we're hoping to spot a few different migratory birds in the trees!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-TBD
+Brandon - Willowdale
 
