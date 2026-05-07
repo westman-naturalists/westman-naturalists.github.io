@@ -3,7 +3,7 @@
 Wednesday, Sep 09 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -19,7 +19,7 @@ TBD
 Wednesday, Aug 26 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -35,7 +35,7 @@ TBD
 Wednesday, Aug 12 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -51,7 +51,7 @@ TBD
 Wednesday, Jul 29 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -67,7 +67,7 @@ TBD
 Wednesday, Jul 15 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -83,7 +83,7 @@ TBD
 Wednesday, Jul 01 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -99,7 +99,7 @@ TBD
 Wednesday, Jun 17 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -115,7 +115,7 @@ TBD
 Wednesday, Jun 03 2026 - 7:00 PM
 TBD
 
-Westman Naturalists - Nature Walk at TBD
+Westman Naturalists - Wednesday Walk
 
 TBD
 
@@ -128,16 +128,16 @@ TBD
 
 
 
-Saturday, May 23 2026 - All day
+Saturday, May 23 2026 - 8:00 AM
 Whitewater Lake
 
 Westman Naturalists - Shorebirding Outing at Whitewater Lake
 
-The Manitoba IBA Program will be hosting an outing to Whitewater Lake with us! West of Boissevain, Whitewater Lake is an amazing place for shorebirds and so many other birds. If you're not confident with your shorebird identification, there will be resources available and a birder or two who really know their sandpipers and plovers!
+Join the Manitoba IBA Program and Westman Naturalists for a morning of birding at Whitewater Lake IBA, west of Boissevain. We hope to see many shorebird species, as well as waterfowl, raptors, and more! There will be a few scopes for the group to use. We will finish off with a group lunch provided by the IBA Program, likely at Sexton’s Point.
 
-This outing involves a lot of driving, with stops at different points around the lake. We'd like to minimize the number of vehicles, so please let us know if you're interested in carpooling!
+The plan is to stay as one big group. We would like to minimize the number of vehicles, so carpooling is strongly encouraged. There will be a meet-up location in Brandon to facilitate carpooling (around 7am). There will also be the option to meet the group nearer to Whitewater Lake, if you aren’t passing through Brandon. We will aim to start birding around 8am.
 
-**Participation**: Please email Mackenzie at <iba@naturemanitoba.ca> to sign up for this event.
+**Participation**: 
 
 Whitewater Lake
 
@@ -147,15 +147,15 @@ Whitewater Lake
 
 
 Wednesday, May 20 2026 - 7:00 PM
-Brandon - West End
+Brandon
 
-Westman Naturalists - Nature Walk - West End of Brandon
+Westman Naturalists - Wednesday Walk - Train Track Trail
 
-TBD
+Join us for a walk along the "path by the tracks" west from the parking lot at 34th St and Pacific Ave. Most of the walk will be on a gravel trail, with some on an undulating mud trail which may have tree roots and muddy patches. The walk will be around 2.5km to 3km. This is usually a birdy walk during migration!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-Brandon - West End
+Brandon
 
 
 -----------
