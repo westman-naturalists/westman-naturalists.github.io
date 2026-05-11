@@ -128,6 +128,44 @@ TBD
 
 
 
+Sunday, May 31 2026 - 8:30 AM
+South of Brandon
+
+Westman Naturalists - Trip Along Margaret Road
+
+We will explore Margaret Road, South of the Brandon Hills. This road has a wide variety of habitats along the way. We will stop at various points to see what wildlife, plants and birds we can find. There will be little walking on this trip, mostly viewing from the side of the road.
+
+Please dress for the weather, and bring snacks, drinks, and an optional lunch. Don’t forget your binoculars, camera, and telescope if you have them. We will have scopes available if needed. Some carpooling from Brandon will be available.
+
+**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSeEHZMoBLlYO04pbOwD2ZSCupoTgYm2hUyg42smTi2P8P9zuA/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+South of Brandon
+
+
+-----------
+
+
+
+Saturday, May 30 2026 - 9:00 AM
+Delta Marsh
+
+Westman Naturalists - Spring Migration at Delta Marsh and Area
+
+Cal Cuthbert will guide us to find all that this great area north of Portage offers. This should be an excellent outing as Cal is an expert birder and guide and knows the area very well. We can expect to see many migrating birds!
+
+We will be driving to various spots in the area with short walks, mostly on trails, but some on the beach.
+
+Please dress for all possible weather, and bring a lunch. Don’t forget your binoculars, camera and telescope if you have them. We will have scopes available if needed. Some carpooling from Brandon will be available, Delta Beach is about 1.5hrs away.
+
+**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSdhr3Ds5JZ8UCY7v2Bb38fwLI42NxuJVcP6X_KxH4fBtlevvg/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+Delta Marsh
+
+
+-----------
+
+
+
 Saturday, May 23 2026 - 8:00 AM
 Whitewater Lake
 
@@ -137,7 +175,7 @@ Join the Manitoba IBA Program and Westman Naturalists for a morning of birding a
 
 The plan is to stay as one big group. We would like to minimize the number of vehicles, so carpooling is strongly encouraged. There will be a meet-up location in Brandon to facilitate carpooling (around 7am). There will also be the option to meet the group nearer to Whitewater Lake, if you aren’t passing through Brandon. We will aim to start birding around 8am.
 
-**Participation**: 
+**Participation**: Registration required! Please [register with Manitoba IBA](https://docs.google.com/forms/d/e/1FAIpQLScrBt2O3VzsVQX0m9wYcfZbIq1YU1aDFOBs9b2guQ6Dx9y9og/viewform) by Thursday May 21
 
 Whitewater Lake
 
@@ -151,7 +189,7 @@ Brandon
 
 Westman Naturalists - Wednesday Walk - Train Track Trail
 
-Join us for a walk along the "path by the tracks" west from the parking lot at 34th St and Pacific Ave. Most of the walk will be on a gravel trail, with some on an undulating mud trail which may have tree roots and muddy patches. The walk will be around 2.5km to 3km. This is usually a birdy walk during migration!
+Join us for a walk along the "path by the tracks" west from the parking lot at [34th St and Pacific Ave](https://maps.app.goo.gl/BYDYFAraf92ThMH86). Most of the walk will be on a gravel trail, with some on an undulating mud trail which may have tree roots and muddy patches. The walk will be around 2.5km to 3km. This is usually a birdy walk during migration!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
@@ -162,40 +200,16 @@ Brandon
 
 
 
-Saturday, May 16 2026 - 9:00 AM
-Around Brandon
+Sunday, May 17 2026 - 8:00 AM
+Riding Mountain National Park
 
-Westman Naturalists - Signs of Spring: Early Season Plant Identification Walk
+Westman Naturalists - Warbler Trek
 
-Ever wonder what tree that bird was in? What is that flower? What a neat leaf! Please join us for a walk in or near Brandon paired with a Plant ID talk held the previous Thursday. All experiences from novice to expert are welcome!  Can only make it to one of the events? No problem: while the two events work together well, it is not essential to do both. 
+It's time for our annual spring warbler trek up at Riding Mountain National Park! Ken Kingdon, expert on birds and RMNP, will be leading us this year. This walk usually ends up being around 6-7km and will end around noon, depending on how many times we stop for birds. Trails can be rough and muddy this time of year, so be sure to bring proper footwear; and of course clothing for all seasons.
 
-Jennifer Wasko, a Botanist and Instructor of Horticulture at Assiniboine College, will deliver an interactive talk and even more interactive walk on Plant Identification in the Westman area in spring.
+Don't forget your binoculars! The trail is in and out, so we'll take a break at the end for water/snacks before turning back around. Be aware that ticks and/or mosquitoes are likely to be out there with us.
 
-This walk will be in a location either within Brandon or within a 30 minute drive and be selected for an easy walk where a wide variety of plants can be observed and will take approximately two hours, starting at 9:00 AM. The walk will be a gentle walk with lots of stops to examine plants. The exact location will depend largely on how the plants are developing so we can guarantee a good variety and we will update you once we have this selected.
+**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSfKKdN8dW0UzILGvwaKDxfAqpxTBydE4JEc5dHVUsloB5lI1w/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
-Please dress for the weather, wear appropriate footwear for a nature walk, and bring enough water and snacks for yourselves. Weather is highly variable this time of year, hats/sunscreen, and dressing in layers are all good options. Note that ticks are expected to be active at this time and there could be poison ivy or poison oak. A hand lens, macro lens, or even a camera phone with a decent zoom/macro are useful for seeing plant details up close. Bring your curious minds, and have fun!
-
-**Participation**: Please complete this short form (https://forms.gle/AwBtBQqE4yJp7mKS9) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
-Around Brandon
-
-
------------
-
-
-
-Thursday, May 14 2026 - 7:00 PM
-Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
-
-Westman Naturalists - [Talk] Signs of Spring: Early Season Plant Identification Talk
-
-Ever wonder what tree that bird was in? What is that flower? What a neat leaf! Please join us for a talk on early season plant identification which will be paired with a Plant ID outing on Saturday. All experiences from novice to expert are welcome!  Can only make it to one of the events? No problem: while the two events work together well, it is not essential to do both. 
-
-Jennifer Wasko, a Botanist and Instructor of Horticulture at Assiniboine College, will deliver an interactive talk focusing on early season tree and shrub identification along with notable flowering plants to watch out for in spring. We will explore the key features useful in ID, resources, and tips for success.
-
-This is a hybrid event! Feel free to come in person to meet Jen and see the talk, or join us via Zoom.
-
-See [our website](https://WestmanNaturalists.ca/events.html#2026-05-14-1) to sign up for a reminder or for the Zoom details.
-
-Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
+Riding Mountain National Park
 
