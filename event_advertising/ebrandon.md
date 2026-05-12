@@ -128,44 +128,6 @@ TBD
 
 
 
-Sunday, May 31 2026 - 8:30 AM
-South of Brandon
-
-Westman Naturalists - Trip Along Margaret Road
-
-We will explore Margaret Road, South of the Brandon Hills. This road has a wide variety of habitats along the way. We will stop at various points to see what wildlife, plants and birds we can find. There will be little walking on this trip, mostly viewing from the side of the road.
-
-Please dress for the weather, and bring snacks, drinks, and an optional lunch. Don’t forget your binoculars, camera, and telescope if you have them. We will have scopes available if needed. Some carpooling from Brandon will be available.
-
-**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSeEHZMoBLlYO04pbOwD2ZSCupoTgYm2hUyg42smTi2P8P9zuA/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
-South of Brandon
-
-
------------
-
-
-
-Saturday, May 30 2026 - 9:00 AM
-Delta Marsh
-
-Westman Naturalists - Spring Migration at Delta Marsh and Area
-
-Cal Cuthbert will guide us to find all that this great area north of Portage offers. This should be an excellent outing as Cal is an expert birder and guide and knows the area very well. We can expect to see many migrating birds!
-
-We will be driving to various spots in the area with short walks, mostly on trails, but some on the beach.
-
-Please dress for all possible weather, and bring a lunch. Don’t forget your binoculars, camera and telescope if you have them. We will have scopes available if needed. Some carpooling from Brandon will be available, Delta Beach is about 1.5hrs away.
-
-**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSdhr3Ds5JZ8UCY7v2Bb38fwLI42NxuJVcP6X_KxH4fBtlevvg/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
-Delta Marsh
-
-
------------
-
-
-
 Saturday, May 23 2026 - 8:00 AM
 Whitewater Lake
 
@@ -178,38 +140,4 @@ The plan is to stay as one big group. We would like to minimize the number of ve
 **Participation**: Registration required! Please [register with Manitoba IBA](https://docs.google.com/forms/d/e/1FAIpQLScrBt2O3VzsVQX0m9wYcfZbIq1YU1aDFOBs9b2guQ6Dx9y9og/viewform) by Thursday May 21
 
 Whitewater Lake
-
-
------------
-
-
-
-Wednesday, May 20 2026 - 7:00 PM
-Brandon
-
-Westman Naturalists - Wednesday Walk - Train Track Trail
-
-Join us for a walk along the "path by the tracks" west from the parking lot at [34th St and Pacific Ave](https://maps.app.goo.gl/BYDYFAraf92ThMH86). Most of the walk will be on a gravel trail, with some on an undulating mud trail which may have tree roots and muddy patches. The walk will be around 2.5km to 3km. This is usually a birdy walk during migration!
-
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
-
-Brandon
-
-
------------
-
-
-
-Sunday, May 17 2026 - 8:00 AM
-Riding Mountain National Park
-
-Westman Naturalists - Warbler Trek
-
-It's time for our annual spring warbler trek up at Riding Mountain National Park! Ken Kingdon, expert on birds and RMNP, will be leading us this year. This walk usually ends up being around 6-7km and will end around noon, depending on how many times we stop for birds. Trails can be rough and muddy this time of year, so be sure to bring proper footwear; and of course clothing for all seasons.
-
-Don't forget your binoculars! The trail is in and out, so we'll take a break at the end for water/snacks before turning back around. Be aware that ticks and/or mosquitoes are likely to be out there with us.
-
-**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSfKKdN8dW0UzILGvwaKDxfAqpxTBydE4JEc5dHVUsloB5lI1w/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
-Riding Mountain National Park
 
