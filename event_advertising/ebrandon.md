@@ -123,21 +123,3 @@ TBD
 
 TBD
 
-
------------
-
-
-
-Saturday, May 23 2026 - 8:00 AM
-Whitewater Lake
-
-Westman Naturalists - Shorebirding Outing at Whitewater Lake
-
-Join the Manitoba IBA Program and Westman Naturalists for a morning of birding at Whitewater Lake IBA, west of Boissevain. We hope to see many shorebird species, as well as waterfowl, raptors, and more! There will be a few scopes for the group to use. We will finish off with a group lunch provided by the IBA Program, likely at Sexton’s Point.
-
-The plan is to stay as one big group. We would like to minimize the number of vehicles, so carpooling is strongly encouraged. There will be a meet-up location in Brandon to facilitate carpooling (around 7am). There will also be the option to meet the group nearer to Whitewater Lake, if you aren’t passing through Brandon. We will aim to start birding around 8am.
-
-**Participation**: Registration required! Please [register with Manitoba IBA](https://docs.google.com/forms/d/e/1FAIpQLScrBt2O3VzsVQX0m9wYcfZbIq1YU1aDFOBs9b2guQ6Dx9y9og/viewform) by Thursday May 21
-
-Whitewater Lake
-
