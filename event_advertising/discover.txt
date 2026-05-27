@@ -97,7 +97,7 @@ TBD
 
 
 Wednesday, Jun 17 2026 - 7:00 PM
-TBD
+Brandon Cemetery
 
 Westman Naturalists - Wednesday Walk
 
@@ -105,7 +105,7 @@ TBD
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-TBD
+Brandon Cemetery
 
 
 -----------
