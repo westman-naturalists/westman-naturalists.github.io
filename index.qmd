@@ -24,7 +24,7 @@ library(lubridate)
 next_event <- readRDS("events.rds") |>
   arrange(date) |>
   #filter(stringr::str_detect(title, "Duck")) |>
-  filter(date >= Sys.Date()) |>
+  filter(date >= Sys.Date() & !cancelled) |>
   slice(1) |>
   #mutate(print = if_else(image != "", glue(event, "\n\n", "![Image of event poster from facebook]({image}){{.big-figure}}"), event))
   mutate(

@@ -59,10 +59,7 @@ events <- gs4_get(
       glue("<div class = 'notice'>\n\n{extra}\n\n</div>"),
       ""
     ),
-    cancelled = str_detect(
-      tolower(description),
-      regex("cancelled", ignore_case = TRUE)
-    ),
+    cancelled = str_detect(tolower(description), "cancelled") | str_detect(tolower(extra), "cancelled"),
     cancelled = replace_na(cancelled, FALSE),
 
     status = if_else(
