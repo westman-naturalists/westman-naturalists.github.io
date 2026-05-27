@@ -101,7 +101,9 @@ Brandon Cemetery
 
 Westman Naturalists - Wednesday Walk
 
-TBD
+We’re taking a walk through the Brandon Cemetery, where we will follow the paths looking for birds (such as the usually resident hawks) and squirrels and maybe a jackrabbit or two.
+
+Meet at the [Aberdeen Ave](https://maps.app.goo.gl/1HXZgCSv4cQZrV7E7) entrance to the cemetery. Parking is limited in the cemetery, with more parking available across the street next to Canadian Tire. Don’t forget your binoculars and camera if you have them!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
@@ -113,14 +115,15 @@ Brandon Cemetery
 
 
 Wednesday, Jun 03 2026 - 7:00 PM
-Assiniboine Forest
+Assiniboine Food Forest
 
-Westman Naturalists - Wednesday Walk - Assiniboine Forest
+Westman Naturalists - Wednesday Walk - Assiniboine Food Forest
 
-Join us at the [Assiniboine Food Forest](https://www.assiniboinefoodforest.com/about) in Brandon for a walk along the river and through the trees. We will be walking up to about 2km on the trails. Don’t forget your binoculars or camera if you have them!
-We will meet at the road side entrance located at the intersection of [Rosser Ave E & 17th St E.](https://maps.app.goo.gl/tvr2kTL1dcrJicfC6), just past the Green Spot garden center. Parking is available at the Green Spot and at Crow’s General Store. Treat yourself to some ice cream after the walk!
+Join us at the [Assiniboine Food Forest](https://www.assiniboinefoodforest.com) in Brandon for a walk along the river and through the trees. We will be walking about 1.5km on the trails. Don’t forget your binoculars or camera if you have them!
+
+We will meet at the road side entrance located at the intersection of [Rosser Ave E & 17th St E](https://maps.app.goo.gl/tvr2kTL1dcrJicfC6), just past The Green Spot garden center. Parking is available at The Green Spot and at Crow’s General Store. Treat yourself to some ice cream after the walk!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-Assiniboine Forest
+Assiniboine Food Forest
 
