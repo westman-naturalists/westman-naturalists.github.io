@@ -169,6 +169,7 @@ saveRDS(events, "events.rds")
 
 # Create event advertising templates
 e <- events |>
+  arrange(date) |>
   filter(
     !cancelled,
     !advertised %in% "yes",
