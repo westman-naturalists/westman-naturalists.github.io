@@ -1,23 +1,5 @@
 
 
-Wednesday, Jun 03 2026 - 7:00 PM
-Assiniboine Food Forest
-
-Westman Naturalists - Wednesday Walk - Assiniboine Food Forest
-
-Join us at the [Assiniboine Food Forest](https://www.assiniboinefoodforest.com) in Brandon for a walk along the river and through the trees. We will be walking about 1.5km on the trails. Don’t forget your binoculars or camera if you have them!
-
-We will meet at the road side entrance located at the intersection of [Rosser Ave E & 17th St E](https://maps.app.goo.gl/tvr2kTL1dcrJicfC6), just past The Green Spot garden center. Parking is available at The Green Spot and at Crow’s General Store. Treat yourself to some ice cream after the walk!
-
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
-
-Assiniboine Food Forest
-
-
------------
-
-
-
 Sunday, Jun 07 2026 - 5:30 AM
 Melita Area
 
@@ -32,26 +14,6 @@ Before the event (once registration has closed), volunteers will be split up int
 **Participation**: Registration required! Please [register with Manitoba IBA](https://docs.google.com/forms/d/e/1FAIpQLSflTooqW2h1Bdq3N_piNlK9Fy7XI2IYN0mjFPJTgD0F_rMQlQ/viewform) by Thursday May 21
 
 Melita Area
-
-
------------
-
-
-
-Saturday, Jun 13 2026 - 8:00 AM
-Riding Mountain National Park
-
-Westman Naturalists - East Side Exploration
-
-Join us on our regular trip to spend a morning exploring lesser-known trails on the east side of Riding Mountain National Park. This area is a transition between boreal and deciduous forest and is home to many interesting plants, insects, and birds, hopefully including Indigo Bunting.
-
-No experience is needed for this event, just an interest in nature. Be aware that patience may be required as the group will stop frequently! Please bring your binoculars and camera if you have them, they are not essential but come in handy.
-
-This outing will involve short walks, giving a total of between 3-5km on trails. These can be rough with tree roots, and may be sandy or muddy. Please wear appropriate clothing and footwear and bring water and snacks/lunch. Don’t forget insect repellent as both ticks and mosquitoes will no doubt join us.
-
-**Participation**: Please complete this short form (https://docs.google.com/forms/d/e/1FAIpQLSezww9ykpbT4BmE7ne1vZ8BJQ9dKIpDyoSyyEE7pzTHvgY-0w/viewform) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
-
-Riding Mountain National Park
 
 
 -----------
