@@ -1,25 +1,5 @@
 
 
-Sunday, Jun 07 2026 - 5:30 AM
-Melita Area
-
-Westman Naturalists - Southwest Manitoba Grassland Bird Blitz
-
-The Manitoba IBA Program is looking for volunteers to help count grassland birds in the Southwestern Manitoba Mixed-Grass Prairie IBA on Sunday, June 7th. They hope to find bird species at risk such as the Chestnut-collared Longspur, Sprague's Pipit, Ferruginous Hawk, Loggerhead Shrike, and more!
-
-Registration is required! The deadline to register is Wednesday, June 3rd (so that groups and group maps can be finalized before the event). Please register at the link below.
-
-Before the event (once registration has closed), volunteers will be split up into groups and each group will be assigned an area to cover. Each group can then decide on a meeting spot for Sunday morning. Each group will spend the morning in their respective areas looking for grassland bird species at risk. Recommended start time is an early 5:30am! We will all meet up in Melita around noon to finish off with a group lunch (paid for by the Manitoba IBA Program). More details will be sent out to registered participants.
-
-**Participation**: Registration required! Please [register with Manitoba IBA](https://docs.google.com/forms/d/e/1FAIpQLSflTooqW2h1Bdq3N_piNlK9Fy7XI2IYN0mjFPJTgD0F_rMQlQ/viewform) by Thursday May 21
-
-Melita Area
-
-
------------
-
-
-
 Wednesday, Jun 17 2026 - 7:00 PM
 Brandon Cemetery
 
