@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Westman Naturalists"
+  favicon: images/favicondraft.png
   navbar:
     left:
       - text: "Events"
