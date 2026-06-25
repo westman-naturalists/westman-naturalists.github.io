@@ -17,7 +17,7 @@ events <- gs4_get(
   read_sheet() |>
   clean_names() |>
   select(-contains("calendar")) |>
-  mutate(across(c("tentative", "remote_speaker"), \(x) {
+  mutate(across(c("tentative", "remote_speaker", "tentative_date"), \(x) {
     x <- tolower(x) == "yes"
     replace_na(x, FALSE)
   })) |>
@@ -25,7 +25,7 @@ events <- gs4_get(
     month = month(date),
     year = year(date),
     date = as_date(date),
-    date_pretty = if_else(tentative, "%b %Y", "%A, %b %d %Y"),
+    date_pretty = if_else(tentative_date, "%b %Y", "%A, %b %d %Y"),
     date_pretty = format(date, date_pretty),
     time = map(time, as.character),
     speaker = if_else(is.na(speaker) | speaker == "", "the speaker", speaker)
@@ -138,7 +138,11 @@ events <- gs4_get(
       "**Location**: {location}",
       .na = ""
     ),
-    deets = if_else(.data$tentative & .data$description %in% c("", "TBD"), "Tentatively scheduled event, check back for details", deets),
+    deets = case_when(
+      .data$tentative & .data$description %in% c("", "TBD") ~ "Tentatively scheduled event, check back for details",
+      .data$tentative ~ glue("**Tentatively scheduled event**, check back for details\n\n{deets}"), 
+      TRUE ~ .data$deets
+    ),
     event = glue(
       "{extra}\n\n",
       "##### {status} {date_pretty} {{#{date}-{n}}}\n\n",
