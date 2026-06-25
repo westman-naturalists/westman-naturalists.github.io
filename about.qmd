@@ -2,12 +2,13 @@
 title: "About Us"
 ---
 
-The Westman Naturalists Inc. are incorporated as a non-profit corporation and 
+The Westman Naturalists Inc. are incorporated as a non-profit corporation and
 organized by a team of volunteers.
 
 - Interested in joining as a member? See [Membership](membership.html)
 - Check out our [bylaws](bylaws.html)
-- Interesting in getting involved in another way? Send us an [email](mailto:contact@westmannaturalists.ca)!
+- Interesting in getting involved in another way? Send us an
+  [email](mailto:contact@westmannaturalists.ca)!
 
 # Directors
 
@@ -17,21 +18,24 @@ organized by a team of volunteers.
 ![](images/alex.jpg){fig-alt="Alex Koiter" title="Alex Koiter"}
 :::
 
-[**President**]{.large}<br>
-**Committees**: Speakers
+[**President**]{.large}<br> **Committees**: Speakers
 
-Alex is an Associate Professor in Geography and Environment at Brandon University.
-Alex enjoys leading trips to explore local Westman landscapes and glacial history.
+Alex is an Associate Professor in Geography and Environment at Brandon
+University. Alex enjoys leading trips to explore local Westman landscapes and
+glacial history.
 
-## Jen Wasko 
+## Jen Wasko
 ::: {.column-margin}
 ![](images/jen.jpg){fig-alt="Jen Wasko" title="Jen Wasko"}
 :::
 
-[**Vice-President**]{.large}<br>
-**Committees**: Financial and Planning
+[**Vice-President**]{.large}<br> **Committees**: Financial and Planning
 
-Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agriculture and Environment at Assiniboine College. When not experimenting with gardening techniques, and spending time with her family, she loves exploring all aspects of nature and sharing this love of the diverse Manitoba Ecosystems with others. 
+Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of
+Agriculture and Environment at Assiniboine College. When not experimenting with
+gardening techniques, and spending time with her family, she loves exploring all
+aspects of nature and sharing this love of the diverse Manitoba Ecosystems with
+others.
 
 ## Kathryn Hyndman
 
@@ -39,10 +43,12 @@ Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of Agricultu
 ![](images/kathryn_sm.jpg){fig-alt="Kathryn Hyndman" title="Kathryn Hyndman"}
 :::
 
-[**Secretary Treasurer**]{.large}<br>
-**Committees**: Financial and Planning
+[**Secretary Treasurer**]{.large}<br> **Committees**: Financial and Planning
 
-Hello! Kathryn is a retired registered nurse and former nursing professor at Brandon University. Her passions include scuba diving and travelling. Many of her trips involve watching and photographing birds and animals as well as marine fish.
+Hello! Kathryn is a retired registered nurse and former nursing professor at
+Brandon University. Her passions include scuba diving and travelling. Many of
+her trips involve watching and photographing birds and animals as well as marine
+fish.
 
 ## Carson Kearns
 ::: {.column-margin}
@@ -51,17 +57,20 @@ Hello! Kathryn is a retired registered nurse and former nursing professor at Bra
 
 **Committees**: Communications (Social Media, Newsletter), Field Trips
 
-Carson likes birds and other things. If you notice a misidentified species or incorrect time on our social media, please let him know!
+Carson likes birds and other things. If you notice a misidentified species or
+incorrect time on our social media, please let him know!
 
 ## Gillian Richards
 ::: {.column-margin}
 <!--![](images/)-->
 :::
 
-**Committees**: Communications (Newsletter, Email), Financial and Planning<br>
-**Other**: Christmas Bird Count
+**Committees**: Communications (Newsletter, Email), Financial and Planning,
+Field Trips<br> **Other**: Christmas Bird Count
 
-Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye, Gillian also spends time brushing up on butterflies and native plants. Her passion is leading trips and sharing her knowledge of Westman nature.
+Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
+Gillian also spends time brushing up on butterflies and native plants. Her
+passion is leading trips and sharing her knowledge of Westman nature.
 
 ## Steffi LaZerte
 
@@ -71,7 +80,25 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 
 **Committees:** Speakers, Communications (Webmaster, Events Advertising)
 
-Steffi is an independent biologist and R consultant and avid gardener. Steffi enjoys getting away from her computer to explore Westman Nature, taking her cats if she can!
+Steffi is an independent biologist and R consultant and avid gardener. Steffi
+enjoys getting away from her computer to explore Westman Nature, taking her cats
+if she can!
+
+## Adrielle Parlee
+
+::: {.column-margin}
+![](images/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
+:::
+
+**Committees:** Field Trips
+
+Adrielle's grandparents on both sides were birders and fostered an early love of
+birds. Her favourite birds are probably chickadees and black terns and she is
+hoping to see 600 bird species before 60. Adrielle and her wife are already
+dreaming of a retirement spent birding and geocaching from a van all around
+Canada. Besides birding, Adrielle loves reading, walking, and learning. Adrielle
+currently works at the Westman Regional Library and is pursuing a diploma in
+Library and Information Technology.
 
 ## In Memoriam
 
@@ -81,9 +108,10 @@ Steffi is an independent biologist and R consultant and avid gardener. Steffi en
 ![](images/Glennis.jpg){fig-alt="Glennis Lewis" title="Glennis Lewis"}
 :::
 
-Glennis Lewis was a retired botanist and lawyer who taught environmental impact assessment at Brandon University. She lead numerous field trips for the Westman Naturalists. 
-Glennis was a founding member of the Westman Naturalists and was pivotal in the creation and development of our group.
-
+Glennis Lewis was a retired botanist and lawyer who taught environmental impact
+assessment at Brandon University. She lead numerous field trips for the Westman
+Naturalists. Glennis was a founding member of the Westman Naturalists and was
+pivotal in the creation and development of our group.
 
 ## Alumni
 
