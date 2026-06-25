@@ -3,7 +3,7 @@
 Saturday, Jul 04 2026 - 8:30 AM
 Oak Lak/Plum Lakes IBA
 
-Westman Naturalists - Red-headed Woodpecker Blitz
+Westman Naturalists - Red-headed Woodpecker Bird Blitz at Oak Lake
 
 The Manitoba IBA program is looking for volunteers to help count Red-headed Woodpeckers in the Oak Lake/Plum Lakes IBA on Saturday, July 4, 2026. All skill levels welcome.
 
