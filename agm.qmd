@@ -1,26 +1,35 @@
 ---
 title: Annual General Meeting
+toc: true
 ---
 
 ## 2026 Agenda
 
+### Minutes
+
+- [Draft
+  Minutes](resources/Westman%20Naturalists%20Inc.%2C%20AGM%2C%20May%202%2C%202026%20Minutes.pdf),
+  to be ratified in the 2027 AGM
+
+### Agenda
+
 1. Call to order
-    - Welcome and introduction of board of directors
-    - Overview of meeting and procedures
+   - Welcome and introduction of board of directors
+   - Overview of meeting and procedures
 2. Review and approval meeting agenda
 3. Approval of past AGM minutes
-4. President’s report
-    - Summary and highlights of past activities
-    - Goals and upcoming initiatives
+4. President's report
+   - Summary and highlights of past activities
+   - Goals and upcoming initiatives
 5. Committee reports
-    - Talks/presentations
-    - Outings
-    - Communications
-    - Organization
-    - Treasurer’s report
-    - Projected 2026 budget
+   - Talks/presentations
+   - Outings
+   - Communications
+   - Organization
+   - Treasurer's report
+   - Projected 2026 budget
 6. Other business
 7. Election of directors
-    - Members at large
+   - Members at large
 8. Adjournment
 8. Nature walk

@@ -18,6 +18,8 @@ website:
         href: resources.qmd
       - text: "Videos"
         href: videos.qmd
+      - text: "AGMs"
+        href: agm.qmd
       - text: "About"
         href: about.qmd
     right:
