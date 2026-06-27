@@ -81,7 +81,7 @@ Minnedosa
 
 
 Wednesday, Sep 09 2026 - 7:00 PM
-Assiniboine Food Forest
+Assiniboine Food Forest in Brandon
 
 Westman Naturalists - Wednesday Walk at the Assiniboine Food Forest
 
@@ -89,5 +89,5 @@ TBD
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-Assiniboine Food Forest
+Assiniboine Food Forest in Brandon
 
