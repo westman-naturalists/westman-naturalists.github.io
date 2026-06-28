@@ -21,11 +21,49 @@ Souris
 
 Westman Naturalists - Wednesday Walk at Victoria Park in Souris
 
-TBD
+On July 15th we'll be walking through Victoria Park in Souris. The park has many different paths through the trees and we're bound to see a variety of birds, and maybe even a snake or two if we're lucky! While you're in Souris, be sure to watch the sky for Chimney Swifts.
+
+Meet at the [parking lot outside the campground on Third St S](https://maps.app.goo.gl/StRKUvrqTNJuhh5f6). The walk will be about 2km long with a steep climb as we make our way to the viewing tower. Dress for the weather and bring appropriate footwear!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
 Souris
+
+
+-----------
+
+
+
+Saturday, Jul 18 2026 - 10:00 AM
+Neepawa
+
+Westman Naturalists - Family Fun at Neepawa Bird Sanctuary
+
+Bring the family out for a walk by the Neepawa Bird Sanctuary and the surrounding park! We can expect to see a variety of waterfowl at the aptly named Park Lake, songbirds and squirrels in the trees, and maybe something exotic from the sanctuary. There is also a playground for the kids!
+
+After our tour we'll sit down for a bring-your-own picnic, or feel free to explore more of the park! Be sure to dress for the summer weather and bring proper outdoor footwear.
+
+**Participation**: Please complete this short form (https://forms.gle/VWqnZLQQStrtXciM6) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
+
+Neepawa
+
+
+-----------
+
+
+
+Saturday, Jul 25 2026 - 8:00 AM
+Brandon
+
+Westman Naturalists - Marsh Watch and Walk at the Discovery Centre
+
+Join LeeAnn Latremouille from Birds Canada and Westman Naturalists for a guided walk around the wetlands at the Discovery Centre in Brandon! This walk is part of the field component of the MarshWatch webinar series; it's a great way to apply what you learned (or a great way to learn about the program itself if you haven't joined before). More details on the MarshWatch program can be found on [Birds Canada's website](https://www.birdscanada.org/bird-science/marsh-watch).
+
+We'll meet near the southeast corner of the parking lot at the Discovery Centre, and then hit the trails! Bring your binoculars if you have them, or we have a couple extra that can be shared. As always, dress for the weather!
+
+**Participation**: TBA
+
+Brandon
 
 
 -----------
@@ -37,11 +75,29 @@ South of Brandon
 
 Westman Naturalists - Wednesday Walk at Lake Clementi
 
-TBD
+Take a walk with us around Lake Clementi, a smaller but scenic lake home to many birds and insects. Last year there was an abundance of milkweed in bloom, so hopefully we'll find some butterflies!
+
+Meet at the [east end of Lake Clementi Rd](https://maps.app.goo.gl/a9UjYxFZxEgcsBLU6), about 11km south of Brandon along Hwy 10. The walk will be on a gravel road with occasional traffic, approximately 2km out and back. Dress for the weather and bring bug spray!
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
 South of Brandon
+
+
+-----------
+
+
+
+Saturday, Aug 08 2026 - TBD
+TBD
+
+Westman Naturalists - Glacial Outing
+
+TBD
+
+**Participation**: TBA
+
+TBD
 
 
 -----------
