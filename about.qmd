@@ -2,7 +2,7 @@
 title: "About Us"
 ---
 
-The Westman Naturalists Inc. are incorporated as a non-profit corporation and
+Westman Naturalists Inc. is incorporated as a non-profit corporation and
 organized by a team of volunteers.
 
 - Interested in joining as a member? See [Membership](membership.html)
@@ -43,22 +43,35 @@ others.
 ![](images/kathryn_sm.jpg){fig-alt="Kathryn Hyndman" title="Kathryn Hyndman"}
 :::
 
-[**Secretary Treasurer**]{.large}<br> **Committees**: Financial and Planning
+[**Secretary**]{.large}<br> **Committees**: Financial and Planning
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at
 Brandon University. Her passions include scuba diving and travelling. Many of
 her trips involve watching and photographing birds and animals as well as marine
 fish.
 
+## Sandy Hominick
+::: {.column-margin}
+<!--![](images/)-->
+:::
+
+[**Treasurer**]{.large}<br> **Committees**: Financial and Planning, Field Trips
+
 ## Carson Kearns
 ::: {.column-margin}
 ![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
 :::
 
-**Committees**: Communications (Social Media, Newsletter), Field Trips
+**Committees**: Communications (Social Media, Newsletter)
 
-Carson likes birds and other things. If you notice a misidentified species or
-incorrect time on our social media, please let him know!
+Carson likes birds and other things.
+
+## Duane Diehl
+::: {.column-margin}
+<!--![](images/)-->
+:::
+
+**Committees**: Field Trips
 
 ## Gillian Richards
 ::: {.column-margin}
@@ -72,6 +85,13 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
 
+## Roger Glufka
+::: {.column-margin}
+<!--![](images/)-->
+:::
+
+**Committees**: Field Trips
+
 ## Steffi LaZerte
 
 ::: {.column-margin}
@@ -81,7 +101,7 @@ passion is leading trips and sharing her knowledge of Westman nature.
 **Committees:** Speakers, Communications (Webmaster, Events Advertising)
 
 Steffi is an independent biologist and R consultant and avid gardener. Steffi
-enjoys getting away from her computer to explore Westman Nature, taking her cats
+enjoys getting away from her computer to explore Westman nature, taking her cats
 if she can!
 
 ## Adrielle Parlee
@@ -109,8 +129,8 @@ Library and Information Technology.
 :::
 
 Glennis Lewis was a retired botanist and lawyer who taught environmental impact
-assessment at Brandon University. She lead numerous field trips for the Westman
-Naturalists. Glennis was a founding member of the Westman Naturalists and was
+assessment at Brandon University. She lead numerous field trips for Westman
+Naturalists. Glennis was a founding member of Westman Naturalists and was
 pivotal in the creation and development of our group.
 
 ## Alumni
