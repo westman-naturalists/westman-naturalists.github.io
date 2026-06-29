@@ -1,47 +1,49 @@
 
 
 Saturday, Jul 04 2026 - 8:30 AM
-Oak Lak/Plum Lakes IBA
+Oak Lake/Plum Lakes IBA
 
-Westman Naturalists - Red-headed Woodpecker Blitz
+Westman Naturalists - Red-headed Woodpecker Bird Blitz at Oak Lake
 
-The Manitoba IBA program is looking for volunteers to help count Red-headed Woodpeckers in the Oak Lake/Plum Lakes IBA on Saturday, July 4, 2026. All skill levels welcome.
+The Manitoba IBA Program is looking for volunteers to help count Red-headed Woodpeckers in the Oak Lake/Plum Lakes IBA on Saturday, July 4th. All skill levels welcome!
 
 **Participation**: Registration required! Please [register with the Manitoba IBA Program](https://docs.google.com/forms/d/e/1FAIpQLSc5J2sPWUcMlUTR9wWJ42lF5QQ-H6mSr3jFGMMaLOKRF0RgNw/viewform) by Wednesday, July 1st.
 
-Oak Lak/Plum Lakes IBA
+Oak Lake/Plum Lakes IBA
 
 
 -----------
 
 
 
-Wednesday, Jul 15 2026 - 7:00 PM
-Souris
+Saturday, Jul 25 2026 - 8:00 AM
+Brandon
 
-Westman Naturalists - Wednesday Walk - Victoria Park
+Westman Naturalists - Marsh Watch and Walk at the Discovery Centre
 
-TBD
+Join LeeAnn Latremouille from Birds Canada and Westman Naturalists for a guided walk around the wetlands at the Discovery Centre in Brandon! This walk is part of the field component of the MarshWatch webinar series; it's a great way to apply what you learned (or a great way to learn about the program itself if you haven't joined before). More details on the MarshWatch program can be found on [Birds Canada's website](https://www.birdscanada.org/bird-science/marsh-watch).
 
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+We'll meet near the southeast corner of the parking lot at the Discovery Centre, and then hit the trails! Bring your binoculars if you have them, or we have a couple extra that can be shared. As always, dress for the weather!
 
-Souris
+**Participation**: TBA
+
+Brandon
 
 
 -----------
 
 
 
-Wednesday, Jul 29 2026 - 7:00 PM
-South of Brandon
+Saturday, Aug 08 2026 - TBD
+TBD
 
-Westman Naturalists - Wednesday Walk - Lake Clementi
+Westman Naturalists - Glacial Outing
 
 TBD
 
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+**Participation**: TBA
 
-South of Brandon
+TBD
 
 
 -----------
@@ -51,7 +53,7 @@ South of Brandon
 Wednesday, Aug 12 2026 - 7:00 PM
 Brandon Riverbank
 
-Westman Naturalists - Wednesday Walk - Brandon Riverbank
+Westman Naturalists - Wednesday Walk at the Discovery Centre
 
 TBD
 
@@ -67,7 +69,7 @@ Brandon Riverbank
 Wednesday, Aug 26 2026 - 7:00 PM
 Minnedosa
 
-Westman Naturalists - Wednesday Walk - Bison Park
+Westman Naturalists - Wednesday Walk at Bison Park in Minnedosa
 
 TBD
 
@@ -81,13 +83,13 @@ Minnedosa
 
 
 Wednesday, Sep 09 2026 - 7:00 PM
-Assiniboine Food Forest
+Assiniboine Food Forest in Brandon
 
-Westman Naturalists - Wednesday Walk - Assiniboine Food Forest
+Westman Naturalists - Wednesday Walk at the Assiniboine Food Forest
 
 TBD
 
 **Participation**: No sign up is required for this event, though there will be a waiver to sign.
 
-Assiniboine Food Forest
+Assiniboine Food Forest in Brandon
 
