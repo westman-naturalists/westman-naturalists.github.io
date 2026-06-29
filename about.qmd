@@ -2,7 +2,7 @@
 title: "About Us"
 ---
 
-The Westman Naturalists Inc. are incorporated as a non-profit corporation and
+Westman Naturalists Inc. is incorporated as a non-profit corporation and
 organized by a team of volunteers.
 
 - Interested in joining as a member? See [Membership](membership.html)
@@ -56,8 +56,7 @@ fish.
 <!--![](images/)-->
 :::
 
-[**Secretary**]{.large}<br> **Committees**: Financial & Planning, Outings/Field
-Trips
+[**Treasurer**]{.large}<br> **Committees**: Financial and Planning, Field Trips
 
 Sandy's mom shared her love of birds with Sandy at an early age. Sandy has been
 feeding birds for many years, and now that she's retired, is able to spend more
@@ -69,10 +68,16 @@ sloughs of Manitoba and North Dakota!
 ![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
 :::
 
-**Committees**: Communications (Social Media, Newsletter), Field Trips
+**Committees**: Communications (Social Media, Newsletter)
 
-Carson likes birds and other things. If you notice a misidentified species or
-incorrect time on our social media, please let him know!
+Carson likes birds and other things.
+
+## Duane Diehl
+::: {.column-margin}
+<!--![](images/)-->
+:::
+
+**Committees**: Field Trips
 
 ## Gillian Richards
 ::: {.column-margin}
@@ -86,6 +91,13 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
 
+## Roger Glufka
+::: {.column-margin}
+<!--![](images/)-->
+:::
+
+**Committees**: Field Trips
+
 ## Steffi LaZerte
 
 ::: {.column-margin}
@@ -95,7 +107,7 @@ passion is leading trips and sharing her knowledge of Westman nature.
 **Committees:** Speakers, Communications (Webmaster, Events Advertising)
 
 Steffi is an independent biologist and R consultant and avid gardener. Steffi
-enjoys getting away from her computer to explore Westman Nature, taking her cats
+enjoys getting away from her computer to explore Westman nature, taking her cats
 if she can!
 
 ## Adrielle Parlee
@@ -137,8 +149,8 @@ partners, his dogs, and his wife.
 :::
 
 Glennis Lewis was a retired botanist and lawyer who taught environmental impact
-assessment at Brandon University. She lead numerous field trips for the Westman
-Naturalists. Glennis was a founding member of the Westman Naturalists and was
+assessment at Brandon University. She lead numerous field trips for Westman
+Naturalists. Glennis was a founding member of Westman Naturalists and was
 pivotal in the creation and development of our group.
 
 ## Alumni
@@ -150,14 +162,3 @@ pivotal in the creation and development of our group.
 - Megan Hamill
 - Colin Blyth
 - Bill Gallaway
-
-<!--
-### Erica Alex
-::: {.column-margin}
-![](images/erica.JPG){fig-alt="Erica Alex" title="Erica Alex"}
-:::
-
-**Committees**: Communications (Social media), Speakers
-
-Erica studies environmental biology as an undergraduate student at the University of Saskatchewan. She spends her summers as a technician surveying birds, her primary passion, but is always excited to see new and interesting plants and butterflies!
--->

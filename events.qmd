@@ -7,15 +7,9 @@ title: "Events"
 
 There is so much to see and do in this corner of Manitoba!
 
-Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts.
+Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts. Everyone is welcome to join in on any and every event!
 
-Enjoy!
-
-# Upcoming Events
-
-Everyone is welcome to join in on any and every event!
-
-Please remember to dress for the weather, bring water and bug spray, and food for outings.
+Please remember to dress for the weather, and bring appropriate footwear for the great outdoors! And it never hurts to bring water and snacks (or lunch on our longer outings). If you take any photos on a trip, send them to us and we'll share them on social media!
 
 :::
 
@@ -70,6 +64,9 @@ if (nrow(upcoming) == 0) {
 --------
 
 # Previous Events
+
+Take a look back at everything we've done over the years!
+
 ```{r}
 #| echo = FALSE,
 #| results = "asis"
