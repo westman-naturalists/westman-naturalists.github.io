@@ -2,33 +2,33 @@
 title: "Events"
 ---
 
-::::{.columns}
-:::{.column width=60%}
-
+::: {.columns}
+::::: {.column width=60%}
 There is so much to see and do in this corner of Manitoba!
 
-Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts. Everyone is welcome to join in on any and every event!
+Events range from casual walks through city parks, to bird watching along rivers
+and wetlands, to public talks by local experts. Everyone is welcome to join in
+on any and every event!
 
-Please remember to dress for the weather, and bring appropriate footwear for the great outdoors! And it never hurts to bring water and snacks (or lunch on our longer outings). If you take any photos on a trip, send them to us and we'll share them on social media!
+Please remember to dress for the weather and bring appropriate footwear for the
+great outdoors! And it never hurts to bring water and snacks (or lunch on our
+longer outings). If you take any photos on a trip, send them to us and we'll
+share them on social media!
+:::::
 
-:::
-
-:::{.column width=40%}
+::::: {.column width=40%}
 ![](images/DSC_5760 (2).JPG){fig-alt="Pink cactus blooming"}
+:::::
 :::
-::::
-
 
 ::: {.column-margin}
 <div style="float: center; clear: right">
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FWinnipeg&bgcolor=%23ffffff&showTitle=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20&color=%230B8043" style="border:solid 1px #777" width="250" height="250" frameborder="0" scrolling="no"></iframe></div>
 :::
 
-
 ```{r}
 #| echo = FALSE,
 #| results = "asis"
-
 library(dplyr)
 library(tidyr)
 library(glue)
@@ -60,8 +60,7 @@ if (nrow(upcoming) == 0) {
 }
 ```
 
-
---------
+--------------------------------------------------------------------------------
 
 # Previous Events
 
@@ -99,4 +98,3 @@ for (y in unique(past$year)) {
 }
 cat("\n\n:::\n\n")
 ```
-
