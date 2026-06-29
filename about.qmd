@@ -43,12 +43,26 @@ others.
 ![](images/kathryn_sm.jpg){fig-alt="Kathryn Hyndman" title="Kathryn Hyndman"}
 :::
 
-[**Secretary Treasurer**]{.large}<br> **Committees**: Financial and Planning
+[**Secretary**]{.large}<br> **Committees**: Financial and Planning
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at
 Brandon University. Her passions include scuba diving and travelling. Many of
 her trips involve watching and photographing birds and animals as well as marine
 fish.
+
+## Sandy Hominick
+
+::: {.column-margin}
+<!--![](images/)-->
+:::
+
+[**Secretary**]{.large}<br> **Committees**: Financial & Planning, Outings/Field
+Trips
+
+Sandy's mom shared her love of birds with Sandy at an early age. Sandy has been
+feeding birds for many years, and now that she's retired, is able to spend more
+time birdwatching. You can find Sandy out and about in both the prairies and
+sloughs of Manitoba and North Dakota!
 
 ## Carson Kearns
 ::: {.column-margin}
@@ -99,6 +113,20 @@ dreaming of a retirement spent birding and geocaching from a van all around
 Canada. Besides birding, Adrielle loves reading, walking, and learning. Adrielle
 currently works at the Westman Regional Library and is pursuing a diploma in
 Library and Information Technology.
+
+## Rodger Glufka
+
+::: {.column-margin}
+![](images/roger_sm.jpg){fig-alt="" title="Rodger Glufka"}
+:::
+
+Roger fostered a love of birding and native plants, especially wild
+strawberries, hanging out on the family farm with his grandma. A naturalist
+position with Parks Canada in the 1990's and early 2000's encouraged him to
+deepen his knowledge of Manitoba plants, animals, geography, and human history.
+Roger enjoys hiking, camping, and canoeing in the summer, and cross-country
+skiing and snowshoeing in the winter with his 3 grown children and their
+partners, his dogs, and his wife.
 
 ## In Memoriam
 
