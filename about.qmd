@@ -63,6 +63,22 @@ feeding birds for many years, and now that she's retired, is able to spend more
 time birdwatching. You can find Sandy out and about in both the prairies and
 sloughs of Manitoba and North Dakota!
 
+## Adrielle Parlee
+
+::: {.column-margin}
+![](images/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
+:::
+
+**Committees:** Field Trips
+
+Adrielle's grandparents on both sides were birders and fostered an early love of
+birds. Her favourite birds are probably chickadees and black terns and she is
+hoping to see 600 bird species before 60. Adrielle and her wife are already
+dreaming of a retirement spent birding and geocaching from a van all around
+Canada. Besides birding, Adrielle loves reading, walking, and learning. Adrielle
+currently works at the Westman Regional Library and is pursuing a diploma in
+Library and Information Technology.
+
 ## Carson Kearns
 ::: {.column-margin}
 ![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
@@ -91,41 +107,6 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
 
-## Roger Glufka
-::: {.column-margin}
-<!--![](images/)-->
-:::
-
-**Committees**: Field Trips
-
-## Steffi LaZerte
-
-::: {.column-margin}
-![](images/steffi.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
-:::
-
-**Committees:** Speakers, Communications (Webmaster, Events Advertising)
-
-Steffi is an independent biologist and R consultant and avid gardener. Steffi
-enjoys getting away from her computer to explore Westman nature, taking her cats
-if she can!
-
-## Adrielle Parlee
-
-::: {.column-margin}
-![](images/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
-:::
-
-**Committees:** Field Trips
-
-Adrielle's grandparents on both sides were birders and fostered an early love of
-birds. Her favourite birds are probably chickadees and black terns and she is
-hoping to see 600 bird species before 60. Adrielle and her wife are already
-dreaming of a retirement spent birding and geocaching from a van all around
-Canada. Besides birding, Adrielle loves reading, walking, and learning. Adrielle
-currently works at the Westman Regional Library and is pursuing a diploma in
-Library and Information Technology.
-
 ## Rodger Glufka
 
 ::: {.column-margin}
@@ -139,6 +120,18 @@ deepen his knowledge of Manitoba plants, animals, geography, and human history.
 Roger enjoys hiking, camping, and canoeing in the summer, and cross-country
 skiing and snowshoeing in the winter with his 3 grown children and their
 partners, his dogs, and his wife.
+
+## Steffi LaZerte
+
+::: {.column-margin}
+![](images/steffi.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
+:::
+
+**Committees:** Speakers, Communications (Webmaster, Events Advertising)
+
+Steffi is an independent biologist and R consultant and avid gardener. Steffi
+enjoys getting away from her computer to explore Westman nature, taking her cats
+if she can!
 
 ## In Memoriam
 
