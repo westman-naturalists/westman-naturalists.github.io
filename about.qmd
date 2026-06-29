@@ -110,7 +110,7 @@ passion is leading trips and sharing her knowledge of Westman nature.
 ## Rodger Glufka
 
 ::: {.column-margin}
-![](images/roger_sm.jpg){fig-alt="" title="Rodger Glufka"}
+![](images/roger_sm.png){fig-alt="" title="Rodger Glufka"}
 :::
 
 Roger fostered a love of birding and native plants, especially wild
