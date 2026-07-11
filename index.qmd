@@ -8,6 +8,8 @@ title: "Westman Naturalists Inc."
 
 We are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and history of southwestern Manitoba. From wildlife to wildflowers and everything in between. Come experience what Westman has to offer!
 
+We host outings throughout the year, usually on weekends. In the spring and summer months we have evening walks every second Wednesday. And through autumn and winter, we host talks at Brandon University on topics ranging from identification tips to trip reports and fun facts about bugs!
+
 ## Checkout Our Next Event!
 
 
@@ -36,4 +38,3 @@ print(next_event$print)
 
 
 See more upcoming and past events on our [events page](events.html).
-::::
