@@ -5,9 +5,11 @@ Brandon
 
 Westman Naturalists - Marsh Watch and Walk with Birds Canada
 
-Join LeeAnn Latremouille from Birds Canada for a guided walk at some wetlands around Brandon! We were aiming to host the walk at the Discovery Centre, but with recent flooding we may switch locations. This walk is part of the field component of the MarshWatch webinar series; it’s a great way to apply what you learned (or a great way to learn about the program itself if you haven’t joined before). More details on the MarshWatch program can be found on [Birds Canada's website](https://www.birdscanada.org/bird-science/marsh-watch).
+Join LeeAnn Latremouille from Birds Canada for a guided driving tour of some wetlands outside Brandon! This is part of the field component of the MarshWatch webinar series; it’s a great way to apply what you learned (or a great way to learn about the program itself if you haven’t joined before).
 
-Updates for the outing location will be posted on our website and social media when exact details are figured out. Bring your binoculars if you have them, or we have a couple extra that can be shared. As always, dress for the weather!
+We'll meet at the northeast corner of the Victoria Inn parking lot, before heading out for at least a couple hours. Bring your binoculars if you have them, or we have a couple extra that can be shared. As always, dress for the weather!
+
+Birds Canada is also hosting walks at Oak Hammock Marsh on July 26th and Spruce Woods Provincial Park on July 26th and 27th. More details on the MarshWatch program can be found on [their website](https://www.birdscanada.org/bird-science/marshwatch/prairiecanada-marshwatch).
 
 **Participation**: 
 
