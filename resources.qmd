@@ -3,12 +3,6 @@ title: "Resources"
 toc: true
 ---
 
-## Waiver
-
-- View a digital copy of our standard [outings
-  waiver](resources/waiver_2026_07_08.pdf). A physical copy will be present at
-  most of our outings for participants to sign.
-
 ## Checklists
 
 - [Westman Naturalists Bird Checklist for Riverbank

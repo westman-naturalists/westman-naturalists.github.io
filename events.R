@@ -129,7 +129,7 @@ events <- gs4_get(
       "Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))",
       location
     ),
-    form = glue("**Participation**: {form}"),
+    form = glue("Participation: {form}"),
     form = if_else(past, "", form),
     deets = glue(
       "{description}\n\n",
@@ -139,8 +139,8 @@ events <- gs4_get(
       .na = ""
     ),
     deets = case_when(
-      .data$tentative & .data$description %in% c("", "TBD") ~ "Tentatively scheduled event, check back for details",
-      .data$tentative ~ glue("**Tentatively scheduled event**, check back for details\n\n{deets}"), 
+      .data$tentative & .data$description %in% c("", "TBD") ~ "Tentatively scheduled event, check back for details.",
+      .data$tentative ~ glue("**Tentatively scheduled event**, check back for details.\n\n{deets}"), 
       TRUE ~ .data$deets
     ),
     event = glue(

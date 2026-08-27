@@ -84,7 +84,7 @@ Library and Information Technology.
 ![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
 :::
 
-**Committees**: Communications (Social Media, Newsletter)
+**Committees**: Communications
 
 Carson likes birds and other things. Such as squirrels.
 
@@ -107,7 +107,7 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
 
-## Rodger Glufka
+## Roger Glufka
 
 ::: {.column-margin}
 ![](images/roger_sm.png){fig-alt="" title="Rodger Glufka"}
