@@ -12,6 +12,10 @@ toc: true
   Brandon Riverbank Inc highlights birds that are likely to be seen around the
   Discovery Centre. The checklist can be downloaded here.
 
+## Waiver
+
+View our [outings waiver here](waiver).
+
 ## Guidelines
 
 ### Guidelines for Field Trip Participants

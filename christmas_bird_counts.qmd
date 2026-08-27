@@ -1,12 +1,15 @@
 ---
 title: "Christmas Bird Counts"
+subtitle: "Results and stories from our annual counts!"
+title-block-banner: images/christmas.jpg
+title-block: center
 ---
 
 The Christmas Bird Count (CBC) is a citizen science project that started in the year 1900. December 2024 marked the 125th Christmas Bird Count season. Results for the our Brandon and Rivers counts can be found below.
 
 Westman Naturalists has been organizing the Brandon Christmas Bird Count since 2019. There are two ways you can participate in the count, either as a field counter or as a feeder watcher. Field counters are placed in groups and are assigned an area around the city, such as the north hill or downtown, and then walk or drive around counting any birds they spot. Feeder watchers keep an eye out for birds visiting their feeders or backyard, marking down any unique birds or flocks. There is also always a chance of encountering something besides birds, such as two families of North American River Otters that were found along the river in 2023.
 
-Interested in participating in 2026? Sign up for the next [Brandon CBC](https://forms.gle/tZV46k9FXnpy9RFq7) or [Rivers CBC](https://forms.gle/7FoK9X9K6V2cQBBcA)!
+Interested in participating in 2026? Sign up for the next [Brandon count](https://forms.gle/tZV46k9FXnpy9RFq7) and [Rivers count](https://forms.gle/7FoK9X9K6V2cQBBcA)!
 
 ### 2025 Christmas Bird Counts
 
