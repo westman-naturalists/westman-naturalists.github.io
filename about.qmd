@@ -2,10 +2,9 @@
 title: "About Us"
 ---
 
-Westman Naturalists Inc. is incorporated as a non-profit corporation and
-organized by a team of volunteers.
+Westman Naturalists Inc. is incorporated as a non-profit corporation and organized by a team of volunteers.
 
-- Interested in joining as a member? See [Membership](membership)
+- Interested in joining as a member? See [membership](membership)
 - Check out our [bylaws](bylaws)
 - Interesting in getting involved in another way? Send us an
   [email](mailto:contact@westmannaturalists.ca)!
@@ -101,7 +100,7 @@ Carson likes birds and other things. Such as squirrels.
 :::
 
 **Committees**: Communications (Newsletter, Email), Financial and Planning,
-Field Trips<br> **Other**: Christmas Bird Count
+Field Trips<br> **Other**: [Christmas Bird Count](christmas_bird_counts)
 
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
