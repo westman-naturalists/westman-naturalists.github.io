@@ -5,7 +5,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] TBD
 
-TBA Buzz Crowston
+Join Buzz Crowston for another talk about the wonderful hobby of birding! Buzz has been a lister (one who lists birds) for 1.6 billion seconds now and will be sharing knowledge and techniques on how to improve your birding. Technology and the big increase in birders since the pandemic have resulted in many new opportunities in birding. Bring your experience and be prepared to share. Buzz will also have a background program of many avian images from around the world!
 
 This is a hybrid event! Feel free to come in person to meet Buzz and see the talk, or join us via Zoom.
 
