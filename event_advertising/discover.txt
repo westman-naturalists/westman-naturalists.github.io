@@ -95,9 +95,9 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] TBD
 
-TBD
+TBD - With Melanie Dubois
 
-This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
+This is a hybrid event! Feel free to come in person to meet Melanie and see the talk, or join us via Zoom.
 
 See [our website](https://WestmanNaturalists.ca/events.html#2027-03-11-1) to sign up for a reminder or for the Zoom details.
 
@@ -111,7 +111,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Apr 08 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD - ID
+Westman Naturalists - [Talk] TBD
 
 TBD
 
@@ -129,7 +129,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, May 13 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD
+Westman Naturalists - [Talk] TBD - ID
 
 TBD
 
