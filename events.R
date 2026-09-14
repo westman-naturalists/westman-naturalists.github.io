@@ -176,8 +176,8 @@ e <- events |>
   arrange(date) |>
   filter(
     !cancelled,
-    #!advertised %in% "yes",
-    #date >= Sys.Date(),
+    !advertised %in% "yes",
+    date >= Sys.Date(),
     !tentative,
     !(type == "talk" & stringr::str_detect(form, "coming soon")),
     description != "TBA"
