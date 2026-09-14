@@ -129,7 +129,7 @@ events <- gs4_get(
       "Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))",
       location
     ),
-    form = glue("Participation: {form}"),
+    form = glue("**Participation**: {form}"),
     form = if_else(past, "", form),
     deets = glue(
       "{description}\n\n",
@@ -176,8 +176,8 @@ e <- events |>
   arrange(date) |>
   filter(
     !cancelled,
-    !advertised %in% "yes",
-    date >= Sys.Date(),
+    #!advertised %in% "yes",
+    #date >= Sys.Date(),
     !tentative,
     !(type == "talk" & stringr::str_detect(form, "coming soon")),
     description != "TBA"
@@ -229,7 +229,7 @@ e <- events |>
       "{location}\n\n",
       .na = ""
     ),
-    form = str_remove_all(form, "\\*"),
+    form_facebook = str_remove_all(form_facebook, "\\*"),
     event_facebook = glue(
       "{extra}\n\n",
       "{status}{date_pretty} - {time}\n\n",
