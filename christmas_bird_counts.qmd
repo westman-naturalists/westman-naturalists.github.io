@@ -1,8 +1,6 @@
 ---
-title: "Christmas Bird Counts"
-subtitle: "Results and stories from our annual counts!"
-title-block-banner: images/headers/snowyowl.jpg
-title-block: center
+title: "CHRISTMAS BIRD COUNTS"
+title-block-banner: images/headers/snowy.jpg
 ---
 
 The Christmas Bird Count (CBC) is a citizen science project that started in the year 1900. December 2024 marked the 125th Christmas Bird Count season. Results for the our Brandon and Rivers counts can be found below.

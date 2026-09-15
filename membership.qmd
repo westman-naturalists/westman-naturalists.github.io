@@ -1,5 +1,6 @@
 ---
 title: "Membership"
+title-block-banner: images/headers/marmot.jpg
 ---
 ```{r}
 #| label = "setup",
@@ -8,7 +9,7 @@ title: "Membership"
 source("import.R")
 ```
 
-![](images/img-20190525-110127073_1.jpg){.img-right fig-alt="Two people with backpacks walking down a grassy path among trees just leafing out"}
+<!--![](images/img-20190525-110127073_1.jpg){.img-right fig-alt="Two people with backpacks walking down a grassy path among trees just leafing out"}-->
 
 Westman Naturalists Inc. membership is open to everyone who is interested in nature and the environment, and who support the club objectives. The objectives are to offer nature-related educational opportunities, encourage study and protection of the natural world, collect nature-related data for statistical and educational purposes, and act as environmental stewards.
 

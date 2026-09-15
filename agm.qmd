@@ -3,13 +3,17 @@ title: Annual General Meetings
 toc: true
 ---
 
-## May 2 2026
+## May 2nd, 2026
+
+Thank you to everyone who came for the cake and stayed for the riveting discussion of our projected earnings and spendings!
+Our very first annual general meeting was a great success with more than thirty members in attendance, and plenty of cookies to go around.
+Most importantly, we welcomed three new members to [our board](about), and we're looking forward to all the planning and
+volunteering that will go into this next year of Westman Naturalists events and outings!
 
 ### Minutes
 
-- [Draft
-  Minutes](resources/Westman%20Naturalists%20Inc.%2C%20AGM%2C%20May%202%2C%202026%20Minutes.pdf),
-  to be ratified at the 2027 AGM
+View our [draft minutes here](resources/Westman%20Naturalists%20Inc.%2C%20AGM%2C%20May%202%2C%202026%20Minutes.pdf)
+, to be ratified at our next AGM in 2027.
 
 ### Agenda
 
@@ -22,7 +26,7 @@ toc: true
    - Summary and highlights of past activities
    - Goals and upcoming initiatives
 5. Committee reports
-   - Talks/presentations
+   - Talks/Presentations
    - Outings
    - Communications
    - Organization

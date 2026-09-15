@@ -1,5 +1,6 @@
 ---
 title: "Events"
+title-block-banner: images/headers/ruffed.jpg
 ---
 
 ::: {.columns}
@@ -15,10 +16,12 @@ If you take any photos on a trip, send them to us and we'll share them on social
 Add our events calendar to your [Google calendar](https://calendar.google.com/calendar/u/0?cid=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20)!
 :::::
 
+<!--
 ::::: {.column width=40%}
 ![](images/DSC_5760 (2).JPG){fig-alt="Pink cactus blooming"}
 :::::
 :::
+-->
 
 ```{r}
 #| echo = FALSE,

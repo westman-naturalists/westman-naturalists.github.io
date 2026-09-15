@@ -1,13 +1,13 @@
 ---
 title: "About Us"
+title-block-banner: images/headers/gentian.jpg
 ---
 
 Westman Naturalists Inc. is incorporated as a non-profit corporation and organized by a team of volunteers.
 
-- Interested in joining as a member? See [membership](membership)
-- Check out our [bylaws](bylaws)
-- Interesting in getting involved in another way? Send us an
-  [email](mailto:contact@westmannaturalists.ca)!
+Everyone is welcome to our events, but you'll have to be [a member](membership) if you want to join the board!
+Check out [our bylaws](bylaws) to see what we're all about, and feel free to send
+us an [email](mailto:contact@westmannaturalists.ca) with any questions.
 
 # Directors
 
