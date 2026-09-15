@@ -21,6 +21,11 @@ website:
         href: https://www.youtube.com/@westmannaturalists
       - icon: instagram
         href: https://www.instagram.com/westmannaturalists
+  page-footer:
+    left:
+      - text: "Westman Naturalists Inc."
+        href: index.qmd
+    background: dark
 
 format:
   html:

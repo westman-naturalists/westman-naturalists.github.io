@@ -13,20 +13,20 @@ Discovery Centre. The checklist can be [downloaded here](resources/Brandon River
 
 ## Waiver
 
-View our [outings waiver here](waiver). We'll have one for you to sign at each of our outings!
+View our [outings waiver here](waiver.html). We'll have one for you to sign at each of our outings!
 
 ## Annual General Meeting
 
 Our next annual general meeting will (likely) be in May 2027!
 
-A big thank you to everyone who came to our first AGM at the Riverbank Discovery Centre
-on May 2nd, 2026. You can view the meeting minutes and other details on our [AGM page](agm).
+A big thank you to everyone who came to our first annual general meeting at the Riverbank Discovery Centre
+on May 2nd, 2026. You can view the meeting minutes and other details on our [AGM page](agm.html).
 
 ## Helping Out & Articles
 
-Interested in helping out nature around Manitoba? Check out this [list of projects](helping_out)!
+Interested in helping out nature around Manitoba? Check out this [list of projects](helping_out.html)!
 
-Here are a few [older articles](articles) published by Westman Naturalists members.
+Here are a few [older articles](articles.html) published by Westman Naturalists members.
 
 ## Guidelines
 

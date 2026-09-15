@@ -1,10 +1,8 @@
 /*-- scss:defaults --*/
-$navbar-bg: #1e2330;
+$navbar-bg: #1E2330;
 $navbar-fg: white;
-$navbar-hl: #007C44;
-/*-- $navbar-hl: #f8c91c; --*/
-$link-color: #007C44;
-/*-- $link-color: #4A92F0; --*/
+$navbar-hl: #007C44; /*-- #f8c91c; --*/
+$link-color: #007C44; /*-- #4A92F0; --*/
 $h3-font-size: 1.75em;
 $h5-font-size: 1em;
 
@@ -13,12 +11,6 @@ $h5-font-size: 1em;
 .large {
   font-size: 150%;
   font-weight: bold;
-}
-
-.img-right {
-  float: right;
-  max-width: 40%;
-  padding: 15px;
 }
 
 @media (max-width: 400px) {
@@ -44,13 +36,23 @@ $h5-font-size: 1em;
     padding-left: 0;
     padding-right: 0;
 	
+	font-family: Cambria;
+	
 	text-align: center;
 	align-content: center;
 	text-shadow: 1px 1px 2px #000000;
 }
 
 #quarto-content > * {
+	margin: 0px;
 	padding: 5px;
+}
+
+.img-center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px;
 }
 
 .img-left {
@@ -59,10 +61,9 @@ $h5-font-size: 1em;
   padding: 15px;
 }
 
-.img-center {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
+.img-right {
+  float: right;
+  max-width: 40%;
   padding: 15px;
 }
 
@@ -81,7 +82,6 @@ h3 {
 h4 {
   font-weight: bold;
 }
-
 
 h5 {
   font-weight: bold;
@@ -136,7 +136,6 @@ p {
   padding-left: 5px;
 }
 
-
 .title {
   color: #1e2330;
   font-weight: bold;
@@ -144,7 +143,7 @@ p {
 
 body {
   font-size: 15px;
-  padding: 10px;
+  padding: 0px; /* removed padding for footer's sake */
   color: #000000;
   line-height: 1.5;
 }
@@ -170,15 +169,15 @@ a:visited {
   /*color: #007C44; newsletter green*/
 }
 
+/* Footer */
+
 figcaption {
   text-align: center;
 }
 
-
 .big-figure {
   width: 50%;
 }
-
 
 @media (max-width: 600px) {
   .big-figure {
@@ -186,11 +185,9 @@ figcaption {
   }
 }
 
-
 .med-figure {
   width: 30%;
 }
-
 
 @media (max-width: 400px) {
   .med-figure {
