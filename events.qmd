@@ -1,10 +1,12 @@
 ---
-title: "Events"
+title: "EVENTS"
 title-block-banner: images/headers/ruffed.jpg
 ---
 
+<!--
 ::: {.columns}
 ::::: {.column width=60%}
+-->
 There is so much to see and do in this corner of Manitoba!
 
 Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts. Everyone is welcome to join in on any event!

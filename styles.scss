@@ -40,12 +40,17 @@ $h5-font-size: 1em;
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
+	margin-bottom: 0;
     padding-left: 0;
     padding-right: 0;
 	
 	text-align: center;
 	align-content: center;
 	text-shadow: 1px 1px 2px #000000;
+}
+
+#quarto-content > * {
+	padding: 5px;
 }
 
 .img-left {

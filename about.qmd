@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "ABOUT US"
 title-block-banner: images/headers/gentian.jpg
 ---
 
