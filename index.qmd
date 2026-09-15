@@ -1,8 +1,9 @@
 ---
 title: "Westman Naturalists Inc."
+title-block-banner: images/headers/rudbeckia.jpg
 ---
 
-<img src = "images/banner.jpg" width = "100%">
+<!-- <img src = "images/banner.jpg" width = "100%"> -->
 
 ## Welcome!
 
