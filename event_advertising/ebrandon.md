@@ -3,9 +3,11 @@
 Thursday, Oct 08 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD
+Westman Naturalists - [Talk] Zombies, Ghosts, and Vampires; Myths? Or Just Bugs
 
-Spooky Insects with Denice Geverink (TBD)
+Learn about the spooky side of the insect world as we take a look at vampire moths, zombie ants and ghostly flies, plus more creepy crawlies to get into the Halloween season! 
+
+Denice Geverink is a graduate from the University of Manitoba with a degree in Environmental Science and Entomology. While studying she worked for the U of M Department of Entomology, and spent much of her time making sure her lab bugs were happy, healthy and multiplying. Denice holds a love for nature, but her true interest lies in the world of insects. She hopes people will look beyond the creepy crawly side of bugs, and come to appreciate the diverse and intricate lives of the most abundant group of animals on the planet.
 
 This is a hybrid event! Feel free to come in person to meet Denice and see the talk, or join us via Zoom.
 
