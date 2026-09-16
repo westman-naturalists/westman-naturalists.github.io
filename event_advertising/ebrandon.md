@@ -5,7 +5,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] Zombies, Ghosts, and Vampires; Myths? Or Just Bugs
 
-Learn about the spooky side of the insect world as we take a look at vampire moths, zombie ants and ghostly flies, plus more creepy crawlies to get into the Halloween season! 
+Learn about the spooky side of the insect world as we take a look at vampire moths, zombie ants, and ghostly flies, plus more creepy crawlies to get into the Halloween season! 
 
 Denice Geverink is a graduate from the University of Manitoba with a degree in Environmental Science and Entomology. While studying she worked for the U of M Department of Entomology, and spent much of her time making sure her lab bugs were happy, healthy and multiplying. Denice holds a love for nature, but her true interest lies in the world of insects. She hopes people will look beyond the creepy crawly side of bugs, and come to appreciate the diverse and intricate lives of the most abundant group of animals on the planet.
 
@@ -25,7 +25,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] TBD Fossils
 
-TBD Mark MacDougal on Fossils
+With Mark MacDougal on fossils. More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet Mark and see the talk, or join us via Zoom.
 
@@ -43,7 +43,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] Sharing Stories and Photos
 
-TBD
+Our fourth annual photo and story share!
 
 This is a hybrid event! Feel free to come in person to meet us all and see the talk, or join us via Zoom.
 
@@ -59,7 +59,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, Jan 14 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD - Naturalist Adventures
+Westman Naturalists - [Talk] TBD Naturalist Adventures
 
 Kathryn Hyndman will share photos from her naturalist adventures! More details to follow.
 
@@ -97,7 +97,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] TBD
 
-TBD - With Melanie Dubois
+With Melanie Dubois. More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet Melanie and see the talk, or join us via Zoom.
 
@@ -131,9 +131,9 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](talks.html))
 Thursday, May 13 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD - ID
+Westman Naturalists - [Talk] TBD Identification Tips
 
-TBD
+Learn how to identify... something! More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
 
