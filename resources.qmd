@@ -1,20 +1,32 @@
 ---
-title: "Resources"
-toc: true
+title: "RESOURCES"
+title-block-banner: images/headers/wapiti.jpg
+toc: false
 ---
 
 ## Checklists
 
-[Westman Naturalists Bird Checklist for Riverbank
-Centre](resources/Brandon Riverbank Bird Checklist.pdf). Westman Naturalists
-have produced a bird checklist for Brandon and area, using eBird data and
+Westman Naturalists have produced a bird checklist for Brandon and area, using eBird data and
 expertise from a number of Westman Naturalists members. This version for
-Brandon Riverbank Inc highlights birds that are likely to be seen around the
-Discovery Centre. The checklist can be downloaded here.
+Brandon Riverbank Inc. highlights birds that are likely to be seen around the
+Discovery Centre. The checklist can be [downloaded here](resources/Brandon Riverbank Bird Checklist.pdf).
 
 ## Waiver
 
-View our [outings waiver here](waiver).
+View our [outings waiver here](waiver.html). We'll have one for you to sign at each of our outings!
+
+## Annual General Meeting
+
+Our next annual general meeting will (likely) be in May 2027!
+
+A big thank you to everyone who came to our first annual general meeting at the Riverbank Discovery Centre
+on May 2nd, 2026. You can view the meeting minutes and other details on our [AGM page](agm.html).
+
+## Helping Out & Articles
+
+Interested in helping out nature around Manitoba? Check out this [list of projects](helping_out.html)!
+
+Here are a few [older articles](articles.html) published by Westman Naturalists members.
 
 ## Guidelines
 

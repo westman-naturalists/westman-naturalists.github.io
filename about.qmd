@@ -1,21 +1,22 @@
 ---
-title: "About Us"
+title: "ABOUT US"
+title-block-banner: images/headers/gentian.jpg
 ---
 
 Westman Naturalists Inc. is incorporated as a non-profit corporation and
 organized by a team of volunteers.
 
-- Interested in joining as a member? See [membership](membership)
-- Check out our [bylaws](bylaws)
-- Interesting in getting involved in another way? Send us an
-  [email](mailto:contact@westmannaturalists.ca)!
+Everyone is welcome to our events, but you'll have to be [a
+member](membership.html) if you want to join the board! Check out [our
+bylaws](bylaws.html) to see what we're all about, and feel free to send us [an
+email](mailto:contact@westmannaturalists.ca) with any questions.
 
 # Directors
 
 ## Alex Koiter
 
 ::: {.column-margin}
-![](images/alex.jpg){fig-alt="" title="Alex Koiter"}
+![](images/board/alex.jpg){fig-alt="" title="Alex Koiter"}
 :::
 
 [**President**]{.large}<br> **Committees**: Speakers
@@ -26,7 +27,7 @@ glacial history.
 
 ## Jen Wasko
 ::: {.column-margin}
-![](images/jen.jpg){fig-alt="" title="Jen Wasko"}
+![](images/board/jen.jpg){fig-alt="" title="Jen Wasko"}
 :::
 
 [**Vice-President**]{.large}<br> **Committees**: Financial and Planning
@@ -40,7 +41,7 @@ others.
 ## Kathryn Hyndman
 
 ::: {.column-margin}
-![](images/kathryn_sm.jpg){fig-alt="" title="Kathryn Hyndman"}
+![](images/board/kathryn.jpg){fig-alt="" title="Kathryn Hyndman"}
 :::
 
 [**Secretary**]{.large}<br> **Committees**: Financial and Planning
@@ -56,7 +57,7 @@ fish.
 <!--![](images/)-->
 :::
 
-[**Treasurer**]{.large}<br> **Committees**: Financial and Planning, Field Trips
+[**Treasurer**]{.large}<br> **Committees**: Financial and Planning, Outings
 
 Sandy's mom shared her love of birds with Sandy at an early age. Sandy has been
 feeding birds for many years, and now that she's retired, is able to spend more
@@ -66,10 +67,10 @@ sloughs of Manitoba and North Dakota!
 ## Adrielle Parlee
 
 ::: {.column-margin}
-![](images/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
+![](images/board/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
 :::
 
-**Committees:** Field Trips
+**Committees:** Outings
 
 Adrielle's grandparents on both sides were birders and fostered an early love of
 birds. Her favourite birds are probably chickadees and black terns and she is
@@ -81,7 +82,7 @@ Library and Information Technology.
 
 ## Carson Kearns
 ::: {.column-margin}
-![](images/carson.jpg){fig-alt="" title="Carson Kearns"}
+![](images/board/carson.jpg){fig-alt="" title="Carson Kearns"}
 :::
 
 **Committees**: Communications
@@ -90,10 +91,10 @@ Carson likes birds and other things. Such as squirrels.
 
 ## Duane Diehl
 ::: {.column-margin}
-![](images/carson.jpg){fig-alt="" title="Duane Diehl"}
+![](images/board/duane.jpg){fig-alt="" title="Duane Diehl"}
 :::
 
-**Committees**: Speakers, Field Trips
+**Committees**: Speakers, Outings
 
 Duane was raised in south-western Manitoba and has always had an interest in
 nature. After a BSc in Information Technology, he worked in the field for a
@@ -108,7 +109,7 @@ birding.
 :::
 
 **Committees**: Communications (Newsletter, Email), Financial and Planning,
-Field Trips<br> **Other**: [Christmas Bird Count](christmas_bird_counts)
+Outings<br> **Other**: [Christmas Bird Counts](christmas_bird_counts.html)
 
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
@@ -117,23 +118,23 @@ passion is leading trips and sharing her knowledge of Westman nature.
 ## Roger Glufka
 
 ::: {.column-margin}
-![](images/roger_sm.png){fig-alt="" title="Rodger Glufka"}
+![](images/board/roger.jpg){fig-alt="" title="Roger Glufka"}
 :::
 
-**Committees**: Field Trips
+**Committees**: Outings
 
 Roger fostered a love of birding and native plants, especially wild
 strawberries, hanging out on the family farm with his grandma. A naturalist
-position with Parks Canada in the 1990's and early 2000's encouraged him to
-deepen his knowledge of Manitoba plants, animals, geography, and human history.
-Roger enjoys hiking, camping, and canoeing in the summer, and cross-country
-skiing and snowshoeing in the winter with his 3 grown children and their
-partners, his dogs, and his wife.
+position with Parks Canada in the 1990s and early 2000s encouraged him to deepen
+his knowledge of Manitoba plants, animals, geography, and human history. Roger
+enjoys hiking, camping, and canoeing in the summer, and cross-country skiing and
+snowshoeing in the winter with his three grown children and their partners, his
+dogs, and his wife.
 
 ## Steffi LaZerte
 
 ::: {.column-margin}
-![](images/steffi.jpg){fig-alt="" title="Steffi LaZerte"}
+![](images/board/steffi.jpg){fig-alt="" title="Steffi LaZerte"}
 :::
 
 **Committees:** Speakers, Communications (Webmaster, Events Advertising)
@@ -147,7 +148,7 @@ if she can!
 #### Glennis Lewis
 
 ::: {.column-margin}
-![](images/Glennis.jpg){fig-alt="" title="Glennis Lewis"}
+![](images/board/glennis.jpg){fig-alt="" title="Glennis Lewis"}
 :::
 
 Glennis Lewis was a retired botanist and lawyer who taught environmental impact

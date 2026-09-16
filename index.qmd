@@ -1,17 +1,19 @@
 ---
-title: "Westman Naturalists Inc."
+title: "WESTMAN NATURALISTS"
+title-block-banner: images/headers/browneye.jpg
 ---
-
-<img src = "images/banner.jpg" width = "100%">
 
 ## Welcome!
 
-We are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and history of southwestern Manitoba. From wildlife to wildflowers and everything in between. Come experience what Westman has to offer!
+We are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and
+history of southwestern Manitoba. From wildlife to wildflowers and everything in between.
+Come experience what Westman has to offer!
 
-We host outings throughout the year, usually on weekends. In the spring and summer months we have evening walks every second Wednesday. And through autumn and winter, we host talks at Brandon University on topics ranging from identification tips to trip reports and fun facts about bugs!
+We host outings throughout the year, usually on weekends. In the spring and summer months we have
+evening walks every second Wednesday. And through autumn and winter, we host talks at
+Brandon University on topics ranging from identification tips to trip reports and fun facts about bugs!
 
 ## Checkout Our Next Event!
-
 
 ```{r}
 #| results: asis
