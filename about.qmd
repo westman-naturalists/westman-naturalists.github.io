@@ -2,7 +2,8 @@
 title: "About Us"
 ---
 
-Westman Naturalists Inc. is incorporated as a non-profit corporation and organized by a team of volunteers.
+Westman Naturalists Inc. is incorporated as a non-profit corporation and
+organized by a team of volunteers.
 
 - Interested in joining as a member? See [membership](membership)
 - Check out our [bylaws](bylaws)
@@ -14,7 +15,7 @@ Westman Naturalists Inc. is incorporated as a non-profit corporation and organiz
 ## Alex Koiter
 
 ::: {.column-margin}
-![](images/alex.jpg){fig-alt="Alex Koiter" title="Alex Koiter"}
+![](images/alex.jpg){fig-alt="" title="Alex Koiter"}
 :::
 
 [**President**]{.large}<br> **Committees**: Speakers
@@ -25,7 +26,7 @@ glacial history.
 
 ## Jen Wasko
 ::: {.column-margin}
-![](images/jen.jpg){fig-alt="Jen Wasko" title="Jen Wasko"}
+![](images/jen.jpg){fig-alt="" title="Jen Wasko"}
 :::
 
 [**Vice-President**]{.large}<br> **Committees**: Financial and Planning
@@ -39,7 +40,7 @@ others.
 ## Kathryn Hyndman
 
 ::: {.column-margin}
-![](images/kathryn_sm.jpg){fig-alt="Kathryn Hyndman" title="Kathryn Hyndman"}
+![](images/kathryn_sm.jpg){fig-alt="" title="Kathryn Hyndman"}
 :::
 
 [**Secretary**]{.large}<br> **Committees**: Financial and Planning
@@ -80,7 +81,7 @@ Library and Information Technology.
 
 ## Carson Kearns
 ::: {.column-margin}
-![](images/carson.jpg){fig-alt="Carson Kearns" title="Carson Kearns"}
+![](images/carson.jpg){fig-alt="" title="Carson Kearns"}
 :::
 
 **Committees**: Communications
@@ -89,10 +90,17 @@ Carson likes birds and other things. Such as squirrels.
 
 ## Duane Diehl
 ::: {.column-margin}
-<!--![](images/)-->
+![](images/carson.jpg){fig-alt="" title="Duane Diehl"}
 :::
 
 **Committees**: Speakers, Field Trips
+
+Duane was raised in south-western Manitoba and has always had an interest in
+nature. After a BSc in Information Technology, he worked in the field for a
+number of years in Winnipeg before taking the Manager of Computer Services
+position at Assiniboine College. Since his retirement, he has spent much more
+time in nature pursuing knowledge about our ecosystem, but with some emphasis on
+birding.
 
 ## Gillian Richards
 ::: {.column-margin}
@@ -125,7 +133,7 @@ partners, his dogs, and his wife.
 ## Steffi LaZerte
 
 ::: {.column-margin}
-![](images/steffi.jpg){fig-alt="Steffi LaZerte" title="Steffi LaZerte"}
+![](images/steffi.jpg){fig-alt="" title="Steffi LaZerte"}
 :::
 
 **Committees:** Speakers, Communications (Webmaster, Events Advertising)
@@ -139,7 +147,7 @@ if she can!
 #### Glennis Lewis
 
 ::: {.column-margin}
-![](images/Glennis.jpg){fig-alt="Glennis Lewis" title="Glennis Lewis"}
+![](images/Glennis.jpg){fig-alt="" title="Glennis Lewis"}
 :::
 
 Glennis Lewis was a retired botanist and lawyer who taught environmental impact
