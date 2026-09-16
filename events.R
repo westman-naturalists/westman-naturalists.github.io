@@ -119,7 +119,7 @@ events <- gs4_get(
     title = if_else(type == "talk", glue("[Talk] {title}"), glue("{title}")),
     footer = if_else(
       str_detect(hosted, "Westman Naturalists"),
-      "[Contact Westman Naturalists for more information](mailto:contact@westmannaturalists.ca)",
+      "",
       "Note that this event is not hosted by Westman Naturalists"
     ),
     footer = if_else(past, "", footer),
