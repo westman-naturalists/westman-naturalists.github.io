@@ -171,7 +171,7 @@ if (any(is.na(events$time))) {
 
 saveRDS(events, "events.rds")
 
-# Create event advertising templates
+# Create event advertising templates -------------------------------------
 e <- events |>
   arrange(date) |>
   filter(
