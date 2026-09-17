@@ -34,8 +34,10 @@ format:
      - styles.scss
     page-layout: full
     grid:
-      body-width: 700px
+      body-width: 800px
       margin-width: 250px
+      sidebar-width: 0px
+      gutter-width: 0px
 
 
 execute:

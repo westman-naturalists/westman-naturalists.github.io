@@ -1,11 +1,15 @@
 ---
 title: "MEMBERSHIP"
 title-block-banner: images/headers/marmot.jpg
+grid:
+  body-width: 650px
 ---
+
 ```{r}
-#| label = "setup",
-#| echo = FALSE,
-#| message = FALSE
+#| label: "setup"
+#| echo: false
+#| message: false
+
 source("import.R")
 ```
 

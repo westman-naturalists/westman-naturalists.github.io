@@ -194,3 +194,9 @@ figcaption {
     width: 100%;
   }
 }
+
+/* Allow hiding headers from body but not from TOC */
+h2.hide,
+h3.hide {
+  display: none;
+}

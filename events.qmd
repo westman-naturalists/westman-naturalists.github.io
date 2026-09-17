@@ -1,6 +1,8 @@
 ---
 title: "EVENTS"
 title-block-banner: images/headers/ruffed.jpg
+toc: true
+toc-depth: 4
 ---
 
 There is so much to see and do in this corner of Manitoba! Events range from casual walks through city parks, to bird watching along rivers and wetlands, to public talks by local experts. Everyone is welcome to join in on any event!
@@ -9,11 +11,13 @@ Please remember to dress for the weather and bring appropriate footwear for the 
 
 If you take any photos on a trip, send them to us and we'll share them on social media!
 
-Add our events to your [Google calendar](https://calendar.google.com/calendar/u/0?cid=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20)!
+
+## Current Events {.hide}
 
 ```{r}
-#| echo = FALSE,
-#| results = "asis"
+#| echo: false
+#| results: "asis"
+
 library(dplyr)
 library(tidyr)
 library(glue)
@@ -30,7 +34,7 @@ if (nrow(upcoming) == 0) {
 } else {
   for (m in upcoming$month) {
     print(glue(
-      "\n\n## ",
+      "\n\n### ",
       as.character(month(m, label = TRUE, abbr = FALSE)),
       "\n\n"
     ))
@@ -47,13 +51,14 @@ if (nrow(upcoming) == 0) {
 
 ![](images/fritillary.jpg){fig-alt="Fritillary Butterfly"}
 
-# Previous Events
+## Previous Events
 
 Take a look back at everything we've done over the years!
 
 ```{r}
-#| echo = FALSE,
-#| results = "asis"
+#| echo: false
+#| results: "asis"
+
 past <- filter(events, .data$past) |>
   arrange(desc(.data$date)) |>
   nest(data = c(-"year", -"month"))
@@ -69,7 +74,7 @@ for (y in unique(past$year)) {
       m <- p$month[i]
 
       print(glue(
-        "\n\n## {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"
+        "\n\n### {as.character(month(m, label = TRUE, abbr = FALSE))} {y}\n\n"
       ))
 
       p[i, ] |>
