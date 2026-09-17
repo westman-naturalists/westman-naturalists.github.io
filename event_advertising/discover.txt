@@ -43,7 +43,11 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://Westm
 
 Westman Naturalists - [Talk] Sharing Stories and Photos
 
-Our fourth annual photo and story share!
+Time for our fourth annual photo and story share evening! Join us for a night of nature-related stories alongside some great photos/videos from your fellow naturalists.
+
+**If you're interested in sharing your photos, please sign up with [this form](https://forms.gle/poncK4ePZNtsWBYk9)**. We will get your photos/videos from you closer to the date. We'll put the presentation together on our end, all you have to do is show up!
+
+Everyone will be able to share up to four photos/videos within four minutes. The photos don't have to be taken in Manitoba! We'll have a mix of in-person and online presenters, so if you normally join via Zoom, you can participate too!
 
 This is a hybrid event! Feel free to come in person to meet us all and see the talk, or join us via Zoom.
 
