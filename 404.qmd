@@ -1,0 +1,9 @@
+---
+title: "PAGE NOT FOUND"
+title-block-banner: images/headers/beaver.jpg
+---
+
+## Dam. I Mean Oops.
+
+The link you tried doesn't seem to be working anymore.
+[Shoot us an email](mailto:contact@westmannaturalists.ca) if it seems important, please?

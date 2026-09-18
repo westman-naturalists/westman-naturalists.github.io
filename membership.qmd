@@ -1,8 +1,7 @@
 ---
 title: "MEMBERSHIP"
 title-block-banner: images/headers/marmot.jpg
-grid:
-  body-width: 650px
+toc: true
 ---
 
 ```{r}
@@ -13,7 +12,7 @@ grid:
 source("import.R")
 ```
 
-<!--![](images/img-20190525-110127073_1.jpg){.img-right fig-alt="Two people with backpacks walking down a grassy path among trees just leafing out"}-->
+## Membership Information
 
 Westman Naturalists Inc. membership is open to everyone who is interested in nature and the environment, and
 who support the club objectives. The objectives are to offer nature-related educational opportunities, encourage
@@ -38,8 +37,7 @@ All youth under the age of eighteen years need parental or guardian consent to o
 **Honorary Life**  
 Persons may be named honorary life Members by the Board in recognition of outstanding service or significant in-kind or financial contributions to the Club. They are not required to pay membership dues and are entitled to vote and hold office.
 
-
-# Join!
+## Become a Member!
 
 **The annual membership fee is $10 per person**. Membership runs until December 31st each year.
 
@@ -56,9 +54,7 @@ Interested in finding out more? Want to organize an outing/activity? Get in touc
 
 See our [Helping Out](helping_out.html) page for more ways to get involved.
 
--------
-
-#### e-Transfer instructions
+### e-Transfer instructions
 
 - Choose "Send an Interac e-Transfer" from your bank account (the wording could be different depending on the bank)
 - Enter the amount for your e-transfer (membership is $10 per person)
@@ -75,3 +71,10 @@ You will get a confirmation number confirming your payment as well as an email w
 Thank you!
 
 *Note*: Westman Naturalists Inc. will gratefully accept donations, however we are not able to provide charitable tax receipts as we are not a registered charity.
+
+## Annual General Meeting
+
+Our next annual general meeting will (likely) be in May 2027!
+
+A big thank you to everyone who came to our first annual general meeting at the Riverbank Discovery Centre
+on May 2nd, 2026. You can view the meeting minutes and other details on our [AGM page](agm.html).

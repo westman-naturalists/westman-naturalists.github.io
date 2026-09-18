@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 $navbar-bg: #1E2330;
 $navbar-fg: white;
-$navbar-hl: #007C44; /*-- #f8c91c; --*/
+$navbar-hl: #007C44; /*-- #f8C91c; --*/
 $link-color: #007C44; /*-- #4A92F0; --*/
 $h3-font-size: 1.75em;
 $h5-font-size: 1em;
@@ -35,9 +35,9 @@ $h5-font-size: 1em;
 	margin-bottom: 0;
     padding-left: 0;
     padding-right: 0;
-	
+
 	font-family: Cambria;
-	
+
 	text-align: center;
 	align-content: center;
 	text-shadow: 1px 1px 2px #000000;
@@ -67,9 +67,15 @@ $h5-font-size: 1em;
   padding: 15px;
 }
 
+h1 {
+	margin-top: 5px;
+}
+
 h2 {
+	margin-top: 5px;
   font-weight: bold;
-  
+  font-size: 2em;
+
   /*color: #c49a00; original yellow*/
   /*color: #26A576; newsletter green*/
 }
@@ -164,12 +170,15 @@ a:visited {
 .navbar-title {
   font-weight: bold;
   font-family: Cambria, Arial;
-  
+
   /*color: #f8c91c; original yellow*/
   /*color: #007C44; newsletter green*/
 }
 
 /* Footer */
+.nav-footer {
+  font-weight: bold;
+}
 
 figcaption {
   text-align: center;

@@ -11,9 +11,9 @@ member](membership.html) if you want to join the board! Check out [our
 bylaws](bylaws.html) to see what we're all about, and feel free to send us [an
 email](mailto:contact@westmannaturalists.ca) with any questions.
 
-# Directors
+## Board of Directors
 
-## Alex Koiter
+### Alex Koiter
 
 ::: {.column-margin}
 ![](images/board/alex.jpg){fig-alt="" title="Alex Koiter"}
@@ -25,7 +25,7 @@ Alex is an Associate Professor in Geography and Environment at Brandon
 University. Alex enjoys leading trips to explore local Westman landscapes and
 glacial history.
 
-## Jen Wasko
+### Jen Wasko
 ::: {.column-margin}
 ![](images/board/jen.jpg){fig-alt="" title="Jen Wasko"}
 :::
@@ -35,10 +35,10 @@ glacial history.
 Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of
 Agriculture and Environment at Assiniboine College. When not experimenting with
 gardening techniques, and spending time with her family, she loves exploring all
-aspects of nature and sharing this love of the diverse Manitoba Ecosystems with
+aspects of nature and sharing this love of the diverse Manitoba ecosystems with
 others.
 
-## Kathryn Hyndman
+### Kathryn Hyndman
 
 ::: {.column-margin}
 ![](images/board/kathryn.jpg){fig-alt="" title="Kathryn Hyndman"}
@@ -51,7 +51,7 @@ Brandon University. Her passions include scuba diving and travelling. Many of
 her trips involve watching and photographing birds and animals as well as marine
 fish.
 
-## Sandy Hominick
+### Sandy Hominick
 
 ::: {.column-margin}
 <!--![](images/)-->
@@ -64,7 +64,7 @@ feeding birds for many years, and now that she's retired, is able to spend more
 time birdwatching. You can find Sandy out and about in both the prairies and
 sloughs of Manitoba and North Dakota!
 
-## Adrielle Parlee
+### Adrielle Parlee
 
 ::: {.column-margin}
 ![](images/board/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
@@ -80,7 +80,7 @@ Canada. Besides birding, Adrielle loves reading, walking, and learning. Adrielle
 currently works at the Westman Regional Library and is pursuing a diploma in
 Library and Information Technology.
 
-## Carson Kearns
+### Carson Kearns
 ::: {.column-margin}
 ![](images/board/carson.jpg){fig-alt="" title="Carson Kearns"}
 :::
@@ -89,21 +89,21 @@ Library and Information Technology.
 
 Carson likes birds and other things. Such as squirrels.
 
-## Duane Diehl
+### Duane Diehl
 ::: {.column-margin}
 ![](images/board/duane.jpg){fig-alt="" title="Duane Diehl"}
 :::
 
 **Committees**: Speakers, Outings
 
-Duane was raised in south-western Manitoba and has always had an interest in
+Duane was raised in southwestern Manitoba and has always had an interest in
 nature. After a BSc in Information Technology, he worked in the field for a
 number of years in Winnipeg before taking the Manager of Computer Services
 position at Assiniboine College. Since his retirement, he has spent much more
 time in nature pursuing knowledge about our ecosystem, but with some emphasis on
 birding.
 
-## Gillian Richards
+### Gillian Richards
 ::: {.column-margin}
 <!--![](images/)-->
 :::
@@ -115,7 +115,7 @@ Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
 
-## Roger Glufka
+### Roger Glufka
 
 ::: {.column-margin}
 ![](images/board/roger.jpg){fig-alt="" title="Roger Glufka"}
@@ -131,7 +131,7 @@ enjoys hiking, camping, and canoeing in the summer, and cross-country skiing and
 snowshoeing in the winter with his three grown children and their partners, his
 dogs, and his wife.
 
-## Steffi LaZerte
+### Steffi LaZerte
 
 ::: {.column-margin}
 ![](images/board/steffi.jpg){fig-alt="" title="Steffi LaZerte"}

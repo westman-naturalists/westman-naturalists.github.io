@@ -9,9 +9,9 @@ Westman Naturalists has been organizing the Brandon Christmas Bird Count since 2
 
 Interested in participating in 2026? Sign up for the next [Brandon count](https://forms.gle/tZV46k9FXnpy9RFq7) and [Rivers count](https://forms.gle/7FoK9X9K6V2cQBBcA)!
 
-### 2025 Christmas Bird Counts
+## 2025 Christmas Bird Counts
 
-## Brandon CBC Results {#brandon25}
+### Brandon CBC Results {#brandon25}
 
 ::::{.columns}
 :::{.column width=60%}
@@ -63,7 +63,7 @@ Along with the 35 species listed below (a decent amount of raptors were spotted)
 | Common Redpoll | 40 |
 | House Sparrow | 651 |
 
-## Rivers CBC Results {#rivers25}
+### Rivers CBC Results {#rivers25}
 
 ::::{.columns}
 :::{.column width=60%}
@@ -106,9 +106,9 @@ It was also a good day for mammals, with a group of North American River Otters 
 | Common Redpoll | 110 |
 | House sparrow | 188 |
 
-### 2024 Christmas Bird Counts
+## 2024 Christmas Bird Counts
 
-## Brandon CBC Results {#brandon24}
+### Brandon CBC Results {#brandon24}
 
 ::::{.columns}
 :::{.column width=60%}
@@ -163,7 +163,7 @@ We hosted a potluck supper for participants after everyone was done counting for
 | Pine Siskin | 9 |
 | House Sparrow | 1111 |
 
-## Rivers CBC Results {#rivers24}
+### Rivers CBC Results {#rivers24}
 
 ::::{.columns}
 :::{.column width=60%}

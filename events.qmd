@@ -11,8 +11,9 @@ Please remember to dress for the weather and bring appropriate footwear for the 
 
 If you take any photos on a trip, send them to us and we'll share them on social media!
 
+Add our events to your [Google calendar](https://calendar.google.com/calendar/u/0?cid=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20)!
 
-## Current Events {.hide}
+## Upcoming Events {.hide}
 
 ```{r}
 #| echo: false
@@ -49,7 +50,9 @@ if (nrow(upcoming) == 0) {
 }
 ```
 
+::: {.column-screen}
 ![](images/fritillary.jpg){fig-alt="Fritillary Butterfly"}
+:::
 
 ## Previous Events
 

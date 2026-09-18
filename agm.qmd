@@ -1,18 +1,20 @@
 ---
-title: Annual General Meetings
-toc: true
+title: "ANNUAL GENERAL MEETINGS"
+title-block-banner: images/headers/berries.jpg
+toc: false
 ---
 
-## May 2nd, 2026
+## Inaugural Annual General Meeting - May 2nd, 2026
 
 Thank you to everyone who came for the cake and stayed for the riveting discussion of our projected earnings and spendings!
 Our very first annual general meeting was a great success with more than thirty members in attendance, and plenty of cookies to go around.
 Most importantly, we welcomed three new members to [our board](about.html), and we're looking forward to all the planning and
 volunteering that will go into this next year of Westman Naturalists events and outings!
 
-### Minutes
+### Meeting Minutes
 
 View our [draft minutes here](resources/WNAGM260502MINUTES.pdf), to be ratified at our next AGM in 2027.
+Thank you to Kathryn for the meticulous notes!
 
 ### Agenda
 
@@ -25,10 +27,10 @@ View our [draft minutes here](resources/WNAGM260502MINUTES.pdf), to be ratified 
    - Summary and highlights of past activities
    - Goals and upcoming initiatives
 5. Committee reports
-   - Speakers
+   - Talks/presentations
    - Outings
    - Communications
-   - Financial and Planning
+   - Organization
    - Treasurer's report
    - Projected 2026 budget
 6. Other business

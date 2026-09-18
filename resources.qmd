@@ -1,7 +1,7 @@
 ---
 title: "RESOURCES"
 title-block-banner: images/headers/wapiti.jpg
-toc: false
+toc: true
 ---
 
 ## Checklists
@@ -14,13 +14,6 @@ Discovery Centre. The checklist can be [downloaded here](resources/Brandon River
 ## Waiver
 
 View our [outings waiver here](waiver.html). We'll have one for you to sign at each of our outings!
-
-## Annual General Meeting
-
-Our next annual general meeting will (likely) be in May 2027!
-
-A big thank you to everyone who came to our first annual general meeting at the Riverbank Discovery Centre
-on May 2nd, 2026. You can view the meeting minutes and other details on our [AGM page](agm.html).
 
 ## Helping Out & Articles
 

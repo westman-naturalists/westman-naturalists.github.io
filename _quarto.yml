@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Westman Naturalists Inc."
+  title: "Westman Naturalists"
   favicon: images/favicondraft.png
   navbar:
     left:
@@ -25,6 +25,10 @@ website:
     left:
       - text: "Westman Naturalists Inc."
         href: index.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "Event Waiver"
+        href: waiver.qmd
     background: dark
 
 format:
