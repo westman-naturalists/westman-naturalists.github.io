@@ -188,10 +188,25 @@ e <- events |>
     description != "TBA"
   ) |>
   mutate(
+    location = if_else(
+      type == 'talk',
+      str_replace(
+        location,
+        "talks\\.html",
+        "https://westmannaturalists.ca/talks.html"
+      ),
+      ""
+    ),
     title = if_else(
       title == "Nature Walk",
       paste(title, "at", location),
       title
+    ),
+    loc_facebook = if_else(
+      type == "talk",
+      str_replace(location, "\\[directions\\]\\(", "directions: ") |>
+        str_replace("\\)\\)", ")"),
+      ""
     ),
     form_discovery = if_else(
       type == "talk",
@@ -241,7 +256,7 @@ e <- events |>
       "{title}\n\n",
       "{description}\n\n",
       "{form_facebook}\n\n",
-      "{if_else(type == 'talk', str_replace(location, '& Online \\\\(\\\\[directions\\\\]\\\\(talks\\\\.html\\\\)\\\\)', '(directions: https://WestmanNaturalists.ca/talks.html)'), '')}\n\n",
+      "{loc_facebook}\n\n",
       .na = ""
     )
   )
