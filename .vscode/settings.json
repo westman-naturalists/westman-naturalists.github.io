@@ -12,8 +12,11 @@
         "Wasko",
         "Westman"
     ],
-    "[scss]": {
-        "editor.defaultFormatter": null,
+
+    "[r]": {
+        "editor.formatOnSave": true
+    },
+    "[scss]": {  
         "editor.formatOnSave": false
     }
 }

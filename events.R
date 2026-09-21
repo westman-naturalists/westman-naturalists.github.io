@@ -59,7 +59,8 @@ events <- gs4_get(
       glue("<div class = 'notice'>\n\n{extra}\n\n</div>"),
       ""
     ),
-    cancelled = str_detect(tolower(description), "cancelled") | str_detect(tolower(extra), "cancelled"),
+    cancelled = str_detect(tolower(description), "cancelled") |
+      str_detect(tolower(extra), "cancelled"),
     cancelled = replace_na(cancelled, FALSE),
 
     status = if_else(
@@ -139,8 +140,12 @@ events <- gs4_get(
       .na = ""
     ),
     deets = case_when(
-      .data$tentative & .data$description %in% c("", "TBD") ~ "Tentatively scheduled event, check back for details.",
-      .data$tentative ~ glue("**Tentatively scheduled event**, check back for details.\n\n{deets}"), 
+      .data$tentative &
+        .data$description %in%
+          c("", "TBD") ~ "Tentatively scheduled event, check back for details.",
+      .data$tentative ~ glue(
+        "**Tentatively scheduled event**, check back for details.\n\n{deets}"
+      ),
       TRUE ~ .data$deets
     ),
     event = glue(
