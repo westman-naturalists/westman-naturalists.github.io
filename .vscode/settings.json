@@ -11,5 +11,9 @@
         "Memoriam",
         "Wasko",
         "Westman"
-    ]
+    ],
+    "[scss]": {
+        "editor.defaultFormatter": null,
+        "editor.formatOnSave": false
+    }
 }

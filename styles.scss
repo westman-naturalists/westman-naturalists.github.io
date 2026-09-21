@@ -21,26 +21,26 @@ $h5-font-size: 1em;
 }
 
 .quarto-title-banner {
-	// Code from mcanouil at https://github.com/orgs/quarto-dev/discussions/1986
-	position: relative;
-    min-height: 50vh;
-    background-color: transparent !important;
-    background-size: cover !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-attachment: scroll !important;
-    width: 100vw;
-    margin-left: calc(-50vw + 50%);
-    margin-right: calc(-50vw + 50%);
-	margin-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
+  // Code from mcanouil at https://github.com/orgs/quarto-dev/discussions/1986
+  position: relative;
+  min-height: 50vh;
+  background-color: transparent !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  margin-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 
-	font-family: Cambria;
+  font-family: Cambria;
 
-	text-align: center;
-	align-content: center;
-	text-shadow: 1px 1px 2px #000000;
+  text-align: center;
+  align-content: center;
+  text-shadow: 1px 1px 2px #000000;
 }
 
 #quarto-content > * {
@@ -68,11 +68,11 @@ $h5-font-size: 1em;
 }
 
 h1 {
-	margin-top: 5px;
+  margin-top: 5px;
 }
 
 h2 {
-	margin-top: 5px;
+  margin-top: 5px;
   font-weight: bold;
   font-size: 2em;
 

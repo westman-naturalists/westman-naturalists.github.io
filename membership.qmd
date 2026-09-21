@@ -14,67 +14,100 @@ source("import.R")
 
 ## Membership Information
 
-Westman Naturalists Inc. membership is open to everyone who is interested in nature and the environment, and
-who support the club objectives. The objectives are to offer nature-related educational opportunities, encourage
-study and protection of the natural world, collect nature-related data for statistical and
+Westman Naturalists Inc. membership is open to everyone who is interested in
+nature and the environment, and who support the club objectives. The objectives
+are to offer nature-related educational opportunities, encourage study and
+protection of the natural world, collect nature-related data for statistical and
 educational purposes, and act as environmental stewards.
 
-Please note that membership is **NOT REQUIRED** to participate in outings or presentations, or to receive WN newsletters.
+Please note that membership is **NOT REQUIRED** to participate in outings or
+presentations, or to receive WN newsletters.
 
-Your membership will support the activities of Westman Naturalists Inc. and allow you to
-have direct input into the programs and activities of the club. You will be able to serve to be a
-member of the board, or one of our sub-committees and vote at annual general
-meetings (see [our bylaws](bylaws.html) for more details).
+Your membership will support the activities of Westman Naturalists Inc. and
+allow you to have direct input into the programs and activities of the club. You
+will be able to serve to be a member of the board, or one of our sub-committees
+and vote at annual general meetings (see [our bylaws](bylaws.html) for more
+details).
 
-There are three categories of membership: 
+There are three categories of membership:
 
-**Individual**  
-Persons eighteen years or older who pay annual dues are eligible to vote, serve on a committee, and hold office.
+**Individual**\
+Persons eighteen years or older who pay annual dues are eligible to vote, serve
+on a committee, and hold office.
 
-**Youth**  
-All youth under the age of eighteen years need parental or guardian consent to obtain membership or join a committee. Youth sixteen years of age or older may obtain individual membership, pay annual fees, serve on a committee and can vote at a General Meeting. Youth younger than sixteen years can serve on a committee without being a paying Member and are not entitled to vote.
+**Youth**\
+All youth under the age of eighteen years need parental or guardian consent to
+obtain membership or join a committee. Youth sixteen years of age or older may
+obtain individual membership, pay annual fees, serve on a committee and can vote
+at a General Meeting. Youth younger than sixteen years can serve on a committee
+without being a paying Member and are not entitled to vote.
 
-**Honorary Life**  
-Persons may be named honorary life Members by the Board in recognition of outstanding service or significant in-kind or financial contributions to the Club. They are not required to pay membership dues and are entitled to vote and hold office.
+**Honorary Life**\
+Persons may be named honorary life Members by the Board in recognition of
+outstanding service or significant in-kind or financial contributions to the
+Club. They are not required to pay membership dues and are entitled to vote and
+hold office.
 
 ## Become a Member!
 
-**The annual membership fee is $10 per person**. Membership runs until December 31st each year.
+**The annual membership fee is $10 per person**. Membership runs until December
+31st each year.
 
-- **In-person** at events – Complete a form and pay by cash or cheque
-- **Online** – Complete this [online form](https://docs.google.com/forms/d/e/1FAIpQLScTc3mwU3_TWAA0g6Zngc-1-k0QIVJNVoO7PPuvPTaJrmVxUw/viewform) and pay by Interac e-transfer (see [e-transfer instructions])
+- **In-person** at events -- Complete a form and pay by cash or cheque
+- **Online** -- Complete this [online
+  form](https://docs.google.com/forms/d/e/1FAIpQLScTc3mwU3_TWAA0g6Zngc-1-k0QIVJNVoO7PPuvPTaJrmVxUw/viewform)
+  and pay by Interac e-transfer (see [e-transfer instructions])
 
-Interested in finding out more? Want to organize an outing/activity? Get in touch with us below.
+Interested in finding out more? Want to organize an outing/activity? Get in
+touch with us below.
 
-- Send us a email at [contact@westmannaturalists.ca](mailto:contact@westmannaturalists.ca)
-- Sign up for our [mailing list](https://zcmp.ca/2Jq5f). Newsletters are generally sent out twice a month with links to outing sign ups and info on events from other organizations
-- Follow us on [Facebook](https://www.facebook.com/westman.naturalists) and [Instagram](https://www.instagram.com/westmannaturalists/) to see photos from our outings submitted by members!
-- Subscribe to our new [YouTube channel](https://www.youtube.com/@westmannaturalists) to see videos from our outings
-- Check out our [eBird](https://ebird.org/profile/MzE4NDA1Mw/CA-MB) and [iNaturalist](https://inaturalist.ca/projects/westman-naturalists-outings) pages to see what we've found out and about!
+- Send us a email at
+  [contact@westmannaturalists.ca](mailto:contact@westmannaturalists.ca)
+- Sign up for our [mailing list](https://zcmp.ca/2Jq5f). Newsletters are
+  generally sent out twice a month with links to outing sign ups and info on
+  events from other organizations
+- Follow us on [Facebook](https://www.facebook.com/westman.naturalists) and
+  [Instagram](https://www.instagram.com/westmannaturalists/) to see photos from
+  our outings submitted by members!
+- Subscribe to our new [YouTube
+  channel](https://www.youtube.com/@westmannaturalists) to see videos from our
+  outings
+- Check out our [eBird](https://ebird.org/profile/MzE4NDA1Mw/CA-MB) and
+  [iNaturalist](https://inaturalist.ca/projects/westman-naturalists-outings)
+  pages to see what we've found out and about!
 
 See our [Helping Out](helping_out.html) page for more ways to get involved.
 
 ### e-Transfer instructions
 
-- Choose "Send an Interac e-Transfer" from your bank account (the wording could be different depending on the bank)
+- Choose "Send an Interac e-Transfer" from your bank account (the wording could
+  be different depending on the bank)
 - Enter the amount for your e-transfer (membership is $10 per person)
 - Create a new payee
-    - Name: Westman Naturalists Inc.
-    - Interac e-transfer recipient: [contact@westmannaturalists.ca](mailto:contact@westmannaturalists.ca)
-    - Add to payee list and hit continue
-- Westman Naturalist Inc. has set up autodeposit, meaning that there is no question/answer required to send the e-Transfer - the payment will be made automatically and cannot be reversed
-- Add details in the Memo/Message box (e.g. whom the membership is for, or whether this is a donation)
+  - Name: Westman Naturalists Inc.
+  - Interac e-transfer recipient:
+    [contact@westmannaturalists.ca](mailto:contact@westmannaturalists.ca)
+  - Add to payee list and hit continue
+- Westman Naturalist Inc. has set up autodeposit, meaning that there is no
+  question/answer required to send the e-Transfer - the payment will be made
+  automatically and cannot be reversed
+- Add details in the Memo/Message box (e.g. whom the membership is for, or
+  whether this is a donation)
 - SEND the transfer... done!
 
-You will get a confirmation number confirming your payment as well as an email with e-Transfer details which can be your receipt.
+You will get a confirmation number confirming your payment as well as an email
+with e-Transfer details which can be your receipt.
 
 Thank you!
 
-*Note*: Westman Naturalists Inc. will gratefully accept donations, however we are not able to provide charitable tax receipts as we are not a registered charity.
+*Note*: Westman Naturalists Inc. will gratefully accept donations, however we
+are not able to provide charitable tax receipts as we are not a registered
+charity.
 
 ## Annual General Meeting
 
 Our next annual general meeting will (likely) be in May 2027!
 
-A big thank you to everyone who came to our first annual general meeting at the Riverbank Discovery Centre
-on May 2nd, 2026. You can view the meeting minutes and other details on our [AGM page](agm.html).
+A big thank you to everyone who came to our first annual general meeting at the
+Riverbank Discovery Centre on May 2nd, 2026. You can view the meeting minutes
+and other details on our [AGM page](agm.html).
