@@ -25,6 +25,10 @@ Alex is an Associate Professor in Geography and Environment at Brandon
 University. Alex enjoys leading trips to explore local Westman landscapes and
 glacial history.
 
+::: {style="margin-bottom: 30px"}
+<!-- Add a spacer to create space below the image -->
+:::
+
 ### Jen Wasko
 ::: {.column-margin}
 ![](images/board/jen.jpg){fig-alt="" title="Jen Wasko"}
@@ -54,7 +58,7 @@ fish.
 ### Sandy Hominick
 
 ::: {.column-margin}
-<!--![](images/)-->
+![](images/board/sandy.jpg){fig-alt="" title="Sandy Hominick"}
 :::
 
 [**Treasurer**]{.large}<br> **Committees**: Financial and Planning, Outings
@@ -89,6 +93,10 @@ Library and Information Technology.
 
 Carson likes birds and other things. Such as squirrels.
 
+::: {style="margin-bottom: 70px"}
+<!-- Add a spacer to create space below the image -->
+:::
+
 ### Duane Diehl
 ::: {.column-margin}
 ![](images/board/duane.jpg){fig-alt="" title="Duane Diehl"}
@@ -105,7 +113,7 @@ birding.
 
 ### Gillian Richards
 ::: {.column-margin}
-<!--![](images/)-->
+![](images/board/gillian.jpg){fig-alt="" title="Gillian Richards"}
 :::
 
 **Committees**: Communications (Newsletter, Email), Financial and Planning,
@@ -114,6 +122,10 @@ Outings<br> **Other**: [Christmas Bird Counts](christmas_bird_counts.html)
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
+
+::: {style="margin-bottom: 30px"}
+<!-- Add a spacer to create space below the image -->
+:::
 
 ### Roger Glufka
 
