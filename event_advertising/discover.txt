@@ -39,9 +39,9 @@ Minimizing the number of vehicles is always a good goal, if you're up for carpoo
 Thursday, Nov 12 2026 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD Fossils
+Westman Naturalists - [Talk] The early evolution of vertebrate life on land: how the world we know today came to be
 
-With Mark MacDougal on fossils. More details to follow.
+Join Dr. Mark MacDougal of Brandon University for an engaging look at life's first steps onto land. Exploring early tetrapods, four-limbed vertebrates from roughly 290 million years ago, Mark will discuss how their evolution shaped vertebrate diversity and the ecosystems we know today. The talk highlights key German fossils from past research, plus current work on Canadian fossils expanding our understanding of vertebrate evolution.
 
 This is a hybrid event! Feel free to come in person to meet Mark and see the talk, or join us via Zoom.
 
