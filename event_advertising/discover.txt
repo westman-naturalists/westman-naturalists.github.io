@@ -87,9 +87,9 @@ Details to follow!
 Thursday, Jan 14 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD Naturalist Adventures
+Westman Naturalists - [Talk] Birding in Ecuador
 
-Kathryn Hyndman will share photos from her naturalist adventures! More details to follow.
+Kathryn Hyndman will share photos from her naturalist adventures in Ecuador! More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet Kathryn and see the talk, or join us via Zoom.
 
@@ -105,9 +105,9 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 Thursday, Feb 11 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD
+Westman Naturalists - [Talk] TBD - Friends of the Bluebirds
 
-TBD
+Dan Chranowski will introduce us to the "Friends of the Bluebirds" organization. More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
 
@@ -123,9 +123,11 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 Thursday, Mar 11 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD
+Westman Naturalists - [Talk] What Lies Beneath: Badgers, Burrowing Mammals, and the Ties That Bind Them
 
-With Melanie Dubois. More details to follow.
+There’s much more to a prairie than meets the eye. Beneath the grasses, badgers, ground squirrels, and pocket gophers are busy digging, hunting, and shaping the world around them. Their lives are closely connected to the soil, vegetation, prey, predators, and one another. Their burrows can create opportunities for wildlife far beyond their own species, influencing soil structure, nutrient cycling, vegetation patterns, and the availability of shelter and habitat for other wildlife. Join us to explore the surprisingly important roles these often-overlooked mammals play in prairie ecosystems, how their relationships help keep grasslands functioning, and what changes in their presence can tell us about the health of these landscapes. You may never look at a hole in the ground quite the same way again.
+
+Melanie Dubois is a federal wildlife researcher who has been looking at the interactions between wildlife and agricultural systems for over 25 years and is a long serving member of the executive board of the Manitoba Chapter of the Wildlife Society.
 
 This is a hybrid event! Feel free to come in person to meet Melanie and see the talk, or join us via Zoom.
 
