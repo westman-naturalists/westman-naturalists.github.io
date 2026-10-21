@@ -87,9 +87,9 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 Thursday, Feb 11 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD - Friends of the Bluebirds
+Westman Naturalists - [Talk] Friends of the Bluebirds - What we do & why
 
-Dan Chranowski will introduce us to the "Friends of the Bluebirds" organization. More details to follow.
+Dan Chranowski will introduce us to the "Friends of the Bluebirds" organization and share with us what the organization is all about. More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
 
@@ -143,9 +143,11 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 Thursday, May 13 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] TBD Identification Tips
+Westman Naturalists - [Talk] Signs of Spring: Early Season Plant Identification Talk
 
-Learn how to identify... something! More details to follow.
+Ever wonder what tree that bird was in? What is that flower? What a neat leaf! Please join us for a talk on early season plant identification. Details to follow!
+
+Jennifer Wasko, a Botanist and Instructor of Horticulture at Assiniboine College, will deliver an interactive talk focusing on early season tree and shrub identification along with notable flowering plants to watch out for in spring. We will explore the key features useful in ID, resources, and tips for success.
 
 This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
 
