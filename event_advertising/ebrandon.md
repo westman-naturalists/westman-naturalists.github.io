@@ -69,7 +69,7 @@ Details to follow!
 Thursday, Jan 14 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] Birding in Ecuador
+Westman Naturalists - [Talk] Birding in Ecuador - Trip Report
 
 Kathryn Hyndman will share photos from her naturalist adventures in Ecuador! More details to follow.
 
@@ -87,9 +87,9 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 Thursday, Feb 11 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] Friends of the Bluebirds - What we do & why
+Westman Naturalists - [Talk] Friends of the Bluebirds: What We Do & Why
 
-Dan Chranowski will introduce us to the "Friends of the Bluebirds" organization and share with us what the organization is all about. More details to follow.
+Dan Chranowski will introduce us to the Friends of the Bluebirds organization and share with us what the organization is all about. More details to follow.
 
 This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
 
