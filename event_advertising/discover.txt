@@ -21,7 +21,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 Sunday, Nov 15 2026 - 9:00 AM
 
 
-Westman Naturalists - Brandon Hills Walk
+Westman Naturalists - Winter Hike at Brandon Hills
 
 Take a walk with us at Brandon Hills!
 
@@ -69,7 +69,7 @@ Details to follow!
 Thursday, Jan 14 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
-Westman Naturalists - [Talk] Birding in Ecuador - Trip Report
+Westman Naturalists - [Talk] Birding in Ecuador Trip Report
 
 Kathryn Hyndman will share photos from her naturalist adventures in Ecuador! More details to follow.
 
@@ -127,7 +127,7 @@ Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westm
 
 Westman Naturalists - [Talk] Soil: A Hard Friend To Read… for Now - Exploring the Formation, Diversity and Roles of Western Manitoba Soils
 
-Please join Megan Westphal a Soil Health Specialist with Manitoba Agriculture for an exploration of the soils of western Manitoba. This talk looks at how these soils formed, the diversity they hold, and the roles they play in our landscape and daily lives. Come ready to get your hands dirty, as the session includes hands-on demonstrations for the audience. Additional details coming soon.
+Please join Megan Westphal, a Soil Health Specialist with Manitoba Agriculture, for an exploration of the soils of western Manitoba. This talk looks at how these soils formed, the diversity they hold, and the roles they play in our landscape and daily lives. Come ready to get your hands dirty, as the session includes hands-on demonstrations for the audience. Additional details coming soon.
 
 This is a hybrid event! Feel free to come in person to meet the speaker and see the talk, or join us via Zoom.
 
