@@ -23,9 +23,11 @@ Sunday, Nov 15 2026 - 9:00 AM
 
 Westman Naturalists - Winter Hike at Brandon Hills
 
-Take a walk with us at Brandon Hills!
+Bring your hiking boots and an appropriate-for-the-temperature jacket to the Brandon Hills on November 15th! It's a great (and expansive) trail system, and we can expect to see chickadees, nuthatches, squirrels, and deer.
 
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+We'll aim for a 2-4km hike, but it depends on the weather and how the group feels. The best part of Brandon Hills is all the interconnected paths, so you can find a way back whenever you need!
+
+**Participation**: Please complete this short form (https://forms.gle/rDaZXqd6aDaJNnMv8) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
 
 
