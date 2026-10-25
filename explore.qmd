@@ -1,0 +1,20 @@
+---
+title: "EXPLORE WESTMAN"
+title-block-banner: images/headers/greathorned.jpg
+toc: true
+toc-title: Explore Westman
+---
+
+## Finding Hikes and Birds
+
+We'll be adding resources to help you find great birding and hiking spots around the Westman region!
+
+If you know of a trail or birding hotspot that we've missed, send us an email and we'll look into adding it.
+
+## Trails Around Westman
+
+Trails!
+
+## Birding Hotspots
+
+Birds!

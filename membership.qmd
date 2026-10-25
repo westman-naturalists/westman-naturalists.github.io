@@ -2,6 +2,7 @@
 title: "MEMBERSHIP"
 title-block-banner: images/headers/marmot.jpg
 toc: true
+toc-title: Membership
 ---
 
 ```{r}
@@ -78,7 +79,7 @@ touch with us below.
 
 See our [Helping Out](helping_out.html) page for more ways to get involved.
 
-### e-Transfer instructions
+### e-Transfer Instructions
 
 - Choose "Send an Interac e-Transfer" from your bank account (the wording could
   be different depending on the bank)
@@ -100,10 +101,6 @@ with e-Transfer details which can be your receipt.
 
 Thank you!
 
-*Note*: Westman Naturalists Inc. will gratefully accept donations, however we
-are not able to provide charitable tax receipts as we are not a registered
-charity.
-
 ## Annual General Meeting
 
 Our next annual general meeting will (likely) be in May 2027!
@@ -111,3 +108,11 @@ Our next annual general meeting will (likely) be in May 2027!
 A big thank you to everyone who came to our first annual general meeting at the
 Riverbank Discovery Centre on May 2nd, 2026. You can view the meeting minutes
 and other details on our [AGM page](agm.html).
+
+## Other Ways to Support Us
+
+Consider buying yourself a [Westman Naturalists calendar](calendars.html)! And
+maybe some for your friends and family. And coworkers.
+
+Westman Naturalists Inc. will gratefully accept donations, however we are not
+able to provide charitable tax receipts as we are not a registered charity.

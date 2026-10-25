@@ -1,0 +1,155 @@
+---
+title: "CHRISTMAS BIRD COUNTS"
+title-block-banner: images/headers/snowy.jpg
+toc: true
+toc-title: Christmas Bird Counts
+---
+
+## How to Participate {#participate}
+
+There are two ways you can participate in a Christmas Bird Count, as a field counter or as a feeder watcher (or both!). Field Counters are grouped/partnered up and are assigned an area around the city, such as the north hill or downtown, and then walk or drive around counting any birds they spot. Feeder Watchers keep an eye out for birds visiting their feeders or backyard, marking down unique birds and counting flocks.
+
+Interested in participating in 2026? Sign up for the upcoming [Brandon count](https://forms.gle/tZV46k9FXnpy9RFq7) on December 20th and the [Rivers count](https://forms.gle/7FoK9X9K6V2cQBBcA) on December 28th!
+
+### Feeder Watchers
+
+Watch your feeders! Whether you have half an hour to spare or can count birds all day, documenting the birds that show up in your backyard on count day is a big help! Feeders are an important resource to a lot of species over winter, and with a reliable food source some birds that usually migrate south are known to stick around.
+
+There are a few things we need you to keep track of while counting.
+
+- How long you counted for.
+- How many other people counted with you, if any.
+- How many birds you saw, of course!
+
+Keeping an accurate count of birds in your backyard can be tricky, especially if you're counting throughout the day and the birds are coming and going. There are some tips to keep in mind. If you see a group of 17 Pine Siskins at 11am, and then 14 Pine Siskins at 12:30pm, odds are it's the same group with a few members missing. If you see a less common species (such as an overwintering American Robin) multiple times throughout the day, you should probably only count it as one unless you actually see it with another robin.
+
+After compiling your results from the day, you can either call/email them in or wait for one of our volunteers to contact you.
+
+### Field Counters
+
+Count in fields! On our sign up forms, we have some questions about your preferences to help us determine what area you'll count in and who you'll count with. For the Brandon count we have a few large rural areas surrounding the city, and the city itself is split into many smaller areas. The Rivers count is primarily rural, driving gravel roads, with a few streets to count along in town depending on your assigned area.
+
+This is what we need you to keep track of while you're out in the field.
+
+- How many hours and kilometers you spent *driving* around your area.
+- How many hours and kilometers you spent *walking* around your area.
+- How many birds you counted!
+
+If you are entering any rural or urban properties in your count area, **please ensure that you have permission from the landowner.**
+
+After compiling your results from the day, you can either call/email them in or wait for one of our volunteers to contact you.
+
+## Count Results
+
+### Brandon Results - 2025 {#brandon25}
+
+The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. This year there were 43 field counters (who put in 41km of walking and 713km of driving) and 38 feeder watchers in the count circle!
+
+Along with the 35 species listed below (a decent amount of raptors were spotted), there were also Pine Siskins and a Brown Creeper reported during the count week.
+
+{{< video https://www.youtube.com/embed/d5oRWSEt71Y >}}
+
+| Species | Count |
+|---------|------:|
+| Canada Goose | 14 |
+| Common Merganser | 1 |
+| Grey Partridge | 32 |
+| Ring-necked Pheasant | 2 |
+| Sharp-tailed Grouse | 100 |
+| Wild Turkey | 5 |
+| Bald Eagle | 6 |
+| Rough-legged Hawk | 1 |
+| Rock Pigeon | 1001 |
+| Eurasian Collared Dove | 1 |
+| Great Horned Owl | 1 |
+| Snowy Owl | 4 |
+| Short-eared Owl | 1 |
+| Downy Woodpecker | 43 |
+| Hairy Woodpecker | 39 |
+| Northern Flicker | 1 |
+| Merlin | 1 |
+| Northern Shrike | 1 |
+| Blue Jay | 80 |
+| Black-billed Magpie | 72 |
+| American Crow | 78 |
+| Common Raven | 77 |
+| Horned Lark | 4 |
+| Black-capped Chickadee | 331 |
+| Red-breasted Nuthatch | 29 |
+| White-breasted Nuthatch | 83 |
+| American Robin | 2 |
+| European Starling | 23 |
+| Bohemian Waxwing | 25 |
+| Snow Bunting | 138 |
+| White-throated Sparrow | 1 |
+| Dark-eyed Junco | 25 |
+| Purple Finch | 1 |
+| House Finch | 96 |
+| Common Redpoll | 40 |
+| House Sparrow | 651 |
+
+### Rivers Results - 2025 {#rivers25}
+
+The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. We had 16 field counters out and about in the blowing snow, and 8 feeder watchers keeping an eye out for birds in their yards!
+
+It was also a good day for mammals, with a group of North American River Otters spotted by the dam, Moose and White-tailed Deer out on the grid roads, and at least one American Red Squirrel!
+
+{{< video https://www.youtube.com/embed/A4sZGq8ghtE >}}
+
+| Species | Count |
+|---------|------:|
+| Grey Partridge | 91 |
+| Sharp-tailed Grouse | 171 |
+| Wild Turkey | 25 |
+| Rock Pigeon | 146 |
+| Eurasian Collared Dove | 5 |
+| Great Horned Owl | 1 |
+| Snowy Owl | 1 |
+| Downy Woodpecker | 16 |
+| Hairy Woodpecker | 20 |
+| Pileated Woodpecker | 4 |
+| Northern Shrike | 1 |
+| Blue Jay | 85 |
+| Black-billed Magpie | 37 |
+| American Crow | 14 |
+| Common Raven | 44 |
+| Horned Lark | 39 |
+| Black-capped Chickadee | 90 |
+| Boreal Chickadee | 1 |
+| Red-breasted Nuthatch | 1 |
+| White-breasted Nuthatch | 19 |
+| American Robin | 7 |
+| Bohemian Waxwing | 306 |
+| Snow Bunting | 303 |
+| Dark-eyed Junco | 6 |
+| Pine Grosbeak | 12 |
+| Common Redpoll | 110 |
+| House sparrow | 188 |
+
+## Past Count Results {#pastcounts}
+
+Visit [this page](cbc/past.html) to check out previous records. Results from past counts will be added over time.
+
+## Other Counts Around Westman {#othercounts}
+
+The Riding Mountain National Park CBC is organized by Friends of Riding Mountain National Park.
+
+The Minnedosa CBC is organized by Erica Alex.
+
+Results for counts across Canada will be available from [Birds Canada](https://www.birdscanada.org/bird-science/christmas-bird-count) when they are completed.
+
+<!--
+## Christmas Bird Count
+
+- [Car Sign](resources/CBCVehicleSign_EN.pdf)  
+  A sign to print out and keep in/on your car to let others know what we're up to.
+  
+- [Participants Guide](resources/Participants_Guide_to_CBC_Cheat_Sheet.01.pdf)  
+  Details about the CBC
+
+- [Top 3 ways to support Christmas Bird Count](resources/Top3WaysToSupportCBC_EN.pdf)  
+  How to support the CBC
+
+- [Christmas Bird Count Safety](resources/Xmas Count Safety.pdf)  
+  How to be safe during the CBC
+-->

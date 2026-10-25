@@ -2,8 +2,11 @@
 title: "EVENTS"
 title-block-banner: images/headers/ruffed.jpg
 toc: true
+toc-title: Westman Naturalists Events
 toc-depth: 4
 ---
+
+## Upcoming Events
 
 There is so much to see and do in this corner of Manitoba! Events range from
 casual walks through city parks, to bird watching along rivers and wetlands, to
@@ -17,9 +20,6 @@ If you take any photos on a trip, send them to us and we'll share them on social
 media!
 
 Add our events to your [Google calendar](https://calendar.google.com/calendar/u/0?cid=d2VzdG1hbi5uYXR1cmFsaXN0c0BnbWFpbC5jb20)!
-
-
-## Upcoming Events {.hide}
 
 ```{r}
 #| echo: false

@@ -1,6 +1,9 @@
 ---
 title: "ABOUT US"
 title-block-banner: images/headers/gentian.jpg
+toc: true
+toc-title: About Us
+toc-depth: 2
 ---
 
 Westman Naturalists Inc. is incorporated as a non-profit corporation and
@@ -14,12 +17,13 @@ email](mailto:contact@westmannaturalists.ca) with any questions.
 ## Board of Directors
 
 ### Alex Koiter
+[**President**]{.large}
 
 ::: {.column-margin}
 ![](images/board/alex.jpg){fig-alt="" title="Alex Koiter"}
 :::
 
-[**President**]{.large}<br> **Committees**: Speakers
+**Committees**: Speakers
 
 Alex is an Associate Professor in Geography and Environment at Brandon
 University. Alex enjoys leading trips to explore local Westman landscapes and
@@ -30,11 +34,13 @@ glacial history.
 :::
 
 ### Jen Wasko
+[**Vice-President**]{.large}
+
 ::: {.column-margin}
 ![](images/board/jen.jpg){fig-alt="" title="Jen Wasko"}
 :::
 
-[**Vice-President**]{.large}<br> **Committees**: Financial and Planning
+**Committees**: Financial and Planning
 
 Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of
 Agriculture and Environment at Assiniboine College. When not experimenting with
@@ -43,12 +49,13 @@ aspects of nature and sharing this love of the diverse Manitoba ecosystems with
 others.
 
 ### Kathryn Hyndman
+[**Secretary**]{.large}
 
 ::: {.column-margin}
 ![](images/board/kathryn.jpg){fig-alt="" title="Kathryn Hyndman"}
 :::
 
-[**Secretary**]{.large}<br> **Committees**: Financial and Planning
+**Committees**: Financial and Planning
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at
 Brandon University. Her passions include scuba diving and travelling. Many of
@@ -56,12 +63,13 @@ her trips involve watching and photographing birds and animals as well as marine
 fish.
 
 ### Sandy Hominick
+[**Treasurer**]{.large}
 
 ::: {.column-margin}
 ![](images/board/sandy.jpg){fig-alt="" title="Sandy Hominick"}
 :::
 
-[**Treasurer**]{.large}<br> **Committees**: Financial and Planning, Outings
+**Committees**: Financial and Planning, Outings
 
 Sandy's mom shared her love of birds with Sandy at an early age. Sandy has been
 feeding birds for many years, and now that she's retired, is able to spend more
@@ -117,7 +125,7 @@ birding.
 :::
 
 **Committees**: Communications (Newsletter, Email), Financial and Planning,
-Outings<br> **Other**: [Christmas Bird Counts](christmas_bird_counts.html)
+Outings<br> **Other**: [Christmas Bird Counts](cbc.html)
 
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
@@ -157,7 +165,7 @@ if she can!
 
 ## In Memoriam
 
-#### Glennis Lewis
+### Glennis Lewis
 
 ::: {.column-margin}
 ![](images/board/glennis.jpg){fig-alt="" title="Glennis Lewis"}
@@ -165,15 +173,19 @@ if she can!
 
 Glennis Lewis was a retired botanist and lawyer who taught environmental impact
 assessment at Brandon University. She lead numerous field trips for Westman
-Naturalists. Glennis was a founding member of Westman Naturalists and was
+Naturalists. A founding member of Westman Naturalists, Glennis was
 pivotal in the creation and development of our group.
 
 ## Alumni
 
-[**Many thanks!**]{.large}
+Many thanks to these former members!
 
 - Erica Alex
 - Carson Rogers
 - Megan Hamill
 - Colin Blyth
 - Bill Gallaway
+
+## History of Brandon Naturalists
+
+The Brandon Naturalists group was founded in...

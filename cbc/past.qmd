@@ -1,0 +1,101 @@
+---
+title: "Past Count Results"
+title-block-banner: images/headers/snowy.jpg
+toc: true
+toc-title: Past Count Results
+---
+
+## CBC 2024 Results
+
+### Brandon Results {#brandon24}
+
+The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the count circle. 39 different species were counted for a grand total of 4869 birds.
+
+We hosted a potluck supper for participants after everyone was done counting for the day. 16 members shared stories of what they saw during the count, such as a flock of Cedar Waxwings eating berries, a lone Common Merganser on the river, and White-winged Crossbills showing up right as they were being discussed.
+
+{{< video https://www.youtube.com/embed/yFgX_L4y518 >}}
+
+| Species | Count |
+|---------|------:|
+| Common Merganser | 1 |
+| Grey Partridge | 316 |
+| Ruffed Grouse | 1 |
+| Sharp-tailed Grouse | 141 |
+| Wild Turkey | 35 |
+| Bald Eagle | 3 |
+| Sharp-shinned Hawk | 3 |
+| Cooper's Hawk | 1 |
+| Rock Pigeon | 1863 |
+| Eurasian Collared Dove | 12 |
+| Mourning Dove | 1 |
+| Great Horned Owl | 1 |
+| Snowy Owl | 2 |
+| Downy Woodpecker | 48 |
+| Hairy Woodpecker | 32 |
+| Northern Flicker | 3 |
+| Pileated Woodpecker | 2 |
+| Merlin | 4 |
+| Northern Shrike | 2 |
+| Blue Jay | 78 |
+| Black-billed Magpie | 63 |
+| American Crow | 67 |
+| Common Raven | 76 |
+| Black-capped Chickadee | 378 |
+| Red-breasted Nuthatch | 28 |
+| White-breasted Nuthatch | 105 |
+| Brown Creeper | 3 |
+| American Robin | 35 |
+| European Starling | 45 |
+| Cedar Waxwing | 30 |
+| Snow Bunting | 148 |
+| Dark-eyed Junco | 35 |
+| Red-winged Blackbird | 1 |
+| Purple Finch | 1 |
+| House Finch | 140 |
+| Red Crossbill | 4 |
+| White-winged Crossbill | 40 |
+| Pine Siskin | 9 |
+| House Sparrow | 1111 |
+
+### Rivers Results {#rivers24}
+
+The 2024 Rivers Christmas Bird Count took place on Sunday, December 29th. We had a record number of 31 field counters spread out over eight sectors of the count circle, and 9 feeder watchers around the Rivers area. 32 different species were counted for a grand total of 1251 birds.
+
+A lot of owls were spotted this year, with 8 individuals representing 4 species! It seems to be an irruption year for Great Greys. There were many large black birds, American Crows and Common Ravens, and even a few small blackbirds, a Common Grackle and two Rusty Blackbirds.
+
+{{< video https://www.youtube.com/embed/ZD8ZGBVdao4 >}}
+
+| Species | Count |
+|---------|------:|
+| Mallard | 1 |
+| Grey Partridge | 66 |
+| Sharp-tailed Grouse | 89 |
+| Wild Turkey | 15 |
+| Bald Eagle | 7 |
+| Rock Pigeon | 159 |
+| Eurasian Collared Dove | 20 |
+| Mourning Dove | 4 |
+| Great Grey Owl | 4 |
+| Great Horned Owl | 2 |
+| Snowy Owl | 1 |
+| Northern Saw-whet Owl | 1 |
+| Downy Woodpecker | 23 |
+| Hairy Woodpecker | 16 |
+| Pileated Woodpecker | 3 |
+| Merlin | 2 |
+| Northern Shrike | 5 |
+| Blue Jay | 43 |
+| Black-billed Magpie | 66 |
+| American Crow | 78 |
+| Common Raven | 148 |
+| Black-capped Chickadee | 136 |
+| Red-breasted Nuthatch | 1 |
+| White-breasted Nuthatch | 32 |
+| Brown Creeper | 1 |
+| Snow Bunting | 200 |
+| Dark-eyed Junco | 6 |
+| Rusty Blackbird | 2 |
+| Common Grackle | 1 |
+| Pine Grosbeak | 3 |
+| House Finch | 6 |
+| House Sparrow | 110 |
