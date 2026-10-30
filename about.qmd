@@ -10,36 +10,34 @@ Westman Naturalists Inc. is incorporated as a non-profit corporation and
 organized by a team of volunteers.
 
 Everyone is welcome to our events, but you'll have to be [a
-member](membership.html) if you want to join the board! Check out [our
-bylaws](bylaws.html) to see what we're all about, and feel free to send us [an
+member](membership.html) if you want to join the board! Check out our [group
+by-laws](bylaws.html) to see what we're all about, and feel free to send us [an
 email](mailto:contact@westmannaturalists.ca) with any questions.
 
 ## Board of Directors
 
-### Alex Koiter
+### Alex Koiter {.linkafter}
 [**President**]{.large}
 
-::: {.column-margin}
-![](images/board/alex.jpg){fig-alt="" title="Alex Koiter"}
-:::
-
+::: {.flexcontainer}
+::: {.flextext}
 **Committees**: Speakers
 
 Alex is an Associate Professor in Geography and Environment at Brandon
 University. Alex enjoys leading trips to explore local Westman landscapes and
 glacial history.
-
-::: {style="margin-bottom: 30px"}
-<!-- Add a spacer to create space below the image -->
 :::
 
-### Jen Wasko
+::: {.flexphoto}
+![](images/board/alex.jpg){fig-alt="" title="Alex Koiter"}
+:::
+:::
+
+### Jen Wasko {.linkafter}
 [**Vice-President**]{.large}
 
-::: {.column-margin}
-![](images/board/jen.jpg){fig-alt="" title="Jen Wasko"}
-:::
-
+::: {.flexcontainer}
+::: {.flextext}
 **Committees**: Financial and Planning
 
 Jennifer Wasko is an Horticulture Instructor at Russ Edwards School of
@@ -47,41 +45,53 @@ Agriculture and Environment at Assiniboine College. When not experimenting with
 gardening techniques, and spending time with her family, she loves exploring all
 aspects of nature and sharing this love of the diverse Manitoba ecosystems with
 others.
-
-### Kathryn Hyndman
-[**Secretary**]{.large}
-
-::: {.column-margin}
-![](images/board/kathryn.jpg){fig-alt="" title="Kathryn Hyndman"}
 :::
 
+::: {.flexphoto}
+![](images/board/jen.jpg){fig-alt="" title="Jen Wasko"}
+:::
+:::
+
+### Kathryn Hyndman {.linkafter}
+[**Secretary**]{.large}
+
+::: {.flexcontainer}
+::: {.flextext}
 **Committees**: Financial and Planning
 
 Hello! Kathryn is a retired registered nurse and former nursing professor at
 Brandon University. Her passions include scuba diving and travelling. Many of
 her trips involve watching and photographing birds and animals as well as marine
 fish.
-
-### Sandy Hominick
-[**Treasurer**]{.large}
-
-::: {.column-margin}
-![](images/board/sandy.jpg){fig-alt="" title="Sandy Hominick"}
 :::
 
+::: {.flexphoto}
+![](images/board/kathryn.jpg){fig-alt="" title="Kathryn Hyndman"}
+:::
+:::
+
+### Sandy Hominick {.linkafter}
+[**Treasurer**]{.large}
+
+:::{.flexcontainer}
+:::{.flextext}
 **Committees**: Financial and Planning, Outings
 
 Sandy's mom shared her love of birds with Sandy at an early age. Sandy has been
 feeding birds for many years, and now that she's retired, is able to spend more
 time birdwatching. You can find Sandy out and about in both the prairies and
 sloughs of Manitoba and North Dakota!
+:::
+
+::: {.flexphoto}
+![](images/board/sandy.jpg){fig-alt="" title="Sandy Hominick"}
+:::
+:::
 
 ### Adrielle Parlee
 
-::: {.column-margin}
-![](images/board/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
-:::
-
+:::{.flexcontainer}
+:::{.flextext}
 **Committees:** Outings
 
 Adrielle's grandparents on both sides were birders and fostered an early love of
@@ -91,25 +101,31 @@ dreaming of a retirement spent birding and geocaching from a van all around
 Canada. Besides birding, Adrielle loves reading, walking, and learning. Adrielle
 currently works at the Westman Regional Library and is pursuing a diploma in
 Library and Information Technology.
-
-### Carson Kearns
-::: {.column-margin}
-![](images/board/carson.jpg){fig-alt="" title="Carson Kearns"}
 :::
 
+::: {.flexphoto}
+![](images/board/adrielle.jpg){fig-alt="" title="Adrielle Parlee"}
+:::
+:::
+
+### Carson Kearns
+
+:::{.flexcontainer}
+:::{.flextext}
 **Committees**: Communications
 
 Carson likes birds and other things. Such as squirrels.
+:::
 
-::: {style="margin-bottom: 70px"}
-<!-- Add a spacer to create space below the image -->
+::: {.flexphoto}
+![](images/board/carson.jpg){fig-alt="" title="Carson Kearns"}
+:::
 :::
 
 ### Duane Diehl
-::: {.column-margin}
-![](images/board/duane.jpg){fig-alt="" title="Duane Diehl"}
-:::
 
+:::{.flexcontainer}
+:::{.flextext}
 **Committees**: Speakers, Outings
 
 Duane was raised in southwestern Manitoba and has always had an interest in
@@ -118,29 +134,34 @@ number of years in Winnipeg before taking the Manager of Computer Services
 position at Assiniboine College. Since his retirement, he has spent much more
 time in nature pursuing knowledge about our ecosystem, but with some emphasis on
 birding.
-
-### Gillian Richards
-::: {.column-margin}
-![](images/board/gillian.jpg){fig-alt="" title="Gillian Richards"}
 :::
 
+::: {.flexphoto}
+![](images/board/duane.jpg){fig-alt="" title="Duane Diehl"}
+:::
+:::
+
+### Gillian Richards
+
+:::{.flexcontainer}
+:::{.flextext}
 **Committees**: Communications (Newsletter, Email), Financial and Planning,
 Outings<br> **Other**: [Christmas Bird Counts](cbc.html)
 
 Gillian is an avid birder and an eBird enthusiast. Although birds catch her eye,
 Gillian also spends time brushing up on butterflies and native plants. Her
 passion is leading trips and sharing her knowledge of Westman nature.
+:::
 
-::: {style="margin-bottom: 30px"}
-<!-- Add a spacer to create space below the image -->
+::: {.flexphoto}
+![](images/board/gillian.jpg){fig-alt="" title="Gillian Richards"}
+:::
 :::
 
 ### Roger Glufka
 
-::: {.column-margin}
-![](images/board/roger.jpg){fig-alt="" title="Roger Glufka"}
-:::
-
+:::{.flexcontainer}
+:::{.flextext}
 **Committees**: Outings
 
 Roger fostered a love of birding and native plants, especially wild
@@ -150,31 +171,44 @@ his knowledge of Manitoba plants, animals, geography, and human history. Roger
 enjoys hiking, camping, and canoeing in the summer, and cross-country skiing and
 snowshoeing in the winter with his three grown children and their partners, his
 dogs, and his wife.
+:::
+
+::: {.flexphoto}
+![](images/board/roger.jpg){fig-alt="" title="Roger Glufka"}
+:::
+:::
 
 ### Steffi LaZerte
 
-::: {.column-margin}
-![](images/board/steffi.jpg){fig-alt="" title="Steffi LaZerte"}
-:::
-
+:::{.flexcontainer}
+:::{.flextext}
 **Committees:** Speakers, Communications (Webmaster, Events Advertising)
 
 Steffi is an independent biologist and R consultant and avid gardener. Steffi
 enjoys getting away from her computer to explore Westman nature, taking her cats
 if she can!
+:::
+
+::: {.flexphoto}
+![](images/board/steffi.jpg){fig-alt="" title="Steffi LaZerte"}
+:::
+:::
 
 ## In Memoriam
 
 ### Glennis Lewis
 
-::: {.column-margin}
-![](images/board/glennis.jpg){fig-alt="" title="Glennis Lewis"}
+:::{.flexcontainer}
+:::{.flextext}
+Glennis Lewis was a retired botanist and lawyer who taught environmental impact
+assessment at Brandon University. A founding member of Westman Naturalists, Glennis
+lead numerous field trips and was pivotal in the creation and development of our group.
 :::
 
-Glennis Lewis was a retired botanist and lawyer who taught environmental impact
-assessment at Brandon University. She lead numerous field trips for Westman
-Naturalists. A founding member of Westman Naturalists, Glennis was
-pivotal in the creation and development of our group.
+::: {.flexphoto}
+![](images/board/glennis.jpg){fig-alt="" title="Glennis Lewis"}
+:::
+:::
 
 ## Alumni
 

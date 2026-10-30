@@ -56,9 +56,7 @@ if (nrow(upcoming) == 0) {
 }
 ```
 
-::: {.column-screen}
-![](images/fritillary.jpg){fig-alt="Fritillary Butterfly"}
-:::
+![](images/dividers/crane.jpg){.divimage fig-alt="Sandhill Crane"}
 
 ## Previous Events
 

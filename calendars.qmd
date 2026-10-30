@@ -26,11 +26,9 @@ summer months, but last year we only had one photo submitted for November!
 
 ## Buy a Westman Naturalists Calendar
 
-Buying our calendar is a great way to support us (and makes for an ~~easy~~ great gift in December). Send us an email or ask a board member at a talk/outing about getting your hands on a neat little desk calendar.
+Buying our calendar is a great way to support us (and makes for a ~~easy~~ great gift in December). Send us an email or ask a board member at a talk/outing about getting your hands on a neat little desk calendar.
 
-::: {.column-screen}
-![](images/dragonfly.jpg){fig-alt="Meadowhawk Dragonfly"}
-:::
+![](images/dividers/dragonfly.jpg){.divimage fig-alt="Meadowhawk Dragonfly"}
 
 ## Our First Calendar!
 

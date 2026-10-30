@@ -2,7 +2,7 @@
 title: "MEMBERSHIP"
 title-block-banner: images/headers/marmot.jpg
 toc: true
-toc-title: Membership
+toc-title: Westman Naturalists Membership
 ---
 
 ```{r}

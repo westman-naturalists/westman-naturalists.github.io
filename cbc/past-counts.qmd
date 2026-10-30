@@ -1,19 +1,26 @@
 ---
 title: "Past Count Results"
-title-block-banner: images/headers/snowy.jpg
 toc: true
 toc-title: Past Count Results
 ---
+
+Results from past counts will be added here! Eventually.
 
 ## CBC 2024 Results
 
 ### Brandon Results {#brandon24}
 
+:::{.flexcontainer}
+:::{.flextext}
 The 2024 Brandon Christmas Bird Count took place on Sunday, December 15th. This year we had 35 field counters and 24 feeder watchers in the count circle. 39 different species were counted for a grand total of 4869 birds.
 
 We hosted a potluck supper for participants after everyone was done counting for the day. 16 members shared stories of what they saw during the count, such as a flock of Cedar Waxwings eating berries, a lone Common Merganser on the river, and White-winged Crossbills showing up right as they were being discussed.
+:::
 
+::: {.flexvideo}
 {{< video https://www.youtube.com/embed/yFgX_L4y518 >}}
+:::
+:::
 
 | Species | Count |
 |---------|------:|
@@ -59,11 +66,17 @@ We hosted a potluck supper for participants after everyone was done counting for
 
 ### Rivers Results {#rivers24}
 
+:::{.flexcontainer}
+:::{.flextext}
 The 2024 Rivers Christmas Bird Count took place on Sunday, December 29th. We had a record number of 31 field counters spread out over eight sectors of the count circle, and 9 feeder watchers around the Rivers area. 32 different species were counted for a grand total of 1251 birds.
 
 A lot of owls were spotted this year, with 8 individuals representing 4 species! It seems to be an irruption year for Great Greys. There were many large black birds, American Crows and Common Ravens, and even a few small blackbirds, a Common Grackle and two Rusty Blackbirds.
+:::
 
+::: {.flexvideo}
 {{< video https://www.youtube.com/embed/ZD8ZGBVdao4 >}}
+:::
+:::
 
 | Species | Count |
 |---------|------:|

@@ -1,13 +1,13 @@
 ---
 title: "CHRISTMAS BIRD COUNTS"
-title-block-banner: images/headers/snowy.jpg
+title-block-banner: images/headers/grosbeak.jpg
 toc: true
 toc-title: Christmas Bird Counts
 ---
 
 ## How to Participate {#participate}
 
-There are two ways you can participate in a Christmas Bird Count, as a field counter or as a feeder watcher (or both!). Field Counters are grouped/partnered up and are assigned an area around the city, such as the north hill or downtown, and then walk or drive around counting any birds they spot. Feeder Watchers keep an eye out for birds visiting their feeders or backyard, marking down unique birds and counting flocks.
+There are two ways you can participate in a Christmas Bird Count, as a Field Counter or a Feeder Watcher (or both). Field Counters are grouped/partnered up and are assigned an area in or around the city and then walk or drive around counting any birds they spot. Feeder Watchers keep an eye out for birds visiting their feeders or backyard, marking down unique birds and counting flocks.
 
 Interested in participating in 2026? Sign up for the upcoming [Brandon count](https://forms.gle/tZV46k9FXnpy9RFq7) on December 20th and the [Rivers count](https://forms.gle/7FoK9X9K6V2cQBBcA) on December 28th!
 
@@ -39,15 +39,21 @@ If you are entering any rural or urban properties in your count area, **please e
 
 After compiling your results from the day, you can either call/email them in or wait for one of our volunteers to contact you.
 
-## Count Results
+## Latest Count Results
 
-### Brandon Results - 2025 {#brandon25}
+### Brandon - 2025 {#brandon25}
 
+:::{.flexcontainer}
+:::{.flextext}
 The 2025 Brandon Christmas Bird Count took place on Sunday, December 14th. This year there were 43 field counters (who put in 41km of walking and 713km of driving) and 38 feeder watchers in the count circle!
 
 Along with the 35 species listed below (a decent amount of raptors were spotted), there were also Pine Siskins and a Brown Creeper reported during the count week.
+:::
 
+::: {.flexvideo}
 {{< video https://www.youtube.com/embed/d5oRWSEt71Y >}}
+:::
+:::
 
 | Species | Count |
 |---------|------:|
@@ -88,13 +94,19 @@ Along with the 35 species listed below (a decent amount of raptors were spotted)
 | Common Redpoll | 40 |
 | House Sparrow | 651 |
 
-### Rivers Results - 2025 {#rivers25}
+### Rivers - 2025 {#rivers25}
 
+:::{.flexcontainer}
+:::{.flextext}
 The 2025 Rivers Christmas Bird Count took place on Sunday, December 28th. We had 16 field counters out and about in the blowing snow, and 8 feeder watchers keeping an eye out for birds in their yards!
 
 It was also a good day for mammals, with a group of North American River Otters spotted by the dam, Moose and White-tailed Deer out on the grid roads, and at least one American Red Squirrel!
+:::
 
+::: {.flexvideo}
 {{< video https://www.youtube.com/embed/A4sZGq8ghtE >}}
+:::
+:::
 
 | Species | Count |
 |---------|------:|
@@ -126,9 +138,13 @@ It was also a good day for mammals, with a group of North American River Otters 
 | Common Redpoll | 110 |
 | House sparrow | 188 |
 
-## Past Count Results {#pastcounts}
+![](images/dividers/bunting.jpg){.divimage fig-alt="Snow Bunting"}
 
-Visit [this page](cbc/past.html) to check out previous records. Results from past counts will be added over time.
+## Past Counts {#pastcounts}
+
+Visit [this page](cbc/past-counts.html) to check out previous records. Results from past counts will be added over time.
+
+Westman Naturalists has been organizing the Brandon count since 2019.
 
 ## Other Counts Around Westman {#othercounts}
 

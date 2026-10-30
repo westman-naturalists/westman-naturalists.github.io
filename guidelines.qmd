@@ -1,6 +1,7 @@
 ---
 title: "Guidelines & Waiver"
 toc: true
+toc-title: Guidelines & Waiver
 ---
 
 Check out our guidelines and waiver before joining us on an outing! If you have
@@ -51,7 +52,7 @@ outing.
 
 - Sign the waiver form, and for your children as necessary.
 - Parents or guardians are responsible for supervising their children at all
-  times. 😊
+  times.
 - Introduce yourself and include brief information about yourself, as you feel
   comfortable.
 - Watch for common dangers such as poison ivy, tree roots, or other tripping
@@ -186,7 +187,7 @@ Updated May 1st, 2026. Download a [printable copy here](resources/Westman%20Natu
 
 View our [outings waiver here](waiver.html). We'll have one for you to sign at each of our outings!
 
-## Our By-laws
+## Group By-laws
 
-With our incorporation we introduced [our by-laws](bylaws.html). The purpose of
+With our incorporation we introduced our [group by-laws](bylaws.html). The purpose of
 these by-laws is to make our goals as a nature-oriented group clear.
