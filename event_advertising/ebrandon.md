@@ -23,7 +23,9 @@ Sunday, Dec 20 2026 - All Day
 
 Westman Naturalists - Brandon Christmas Bird Count
 
-Details to follow!
+Bird count season is around the corner! We're looking for volunteers (returning and new) to help cover a 15km circle around Brandon, either out in the field or from the comfort of your backyard!
+
+Check out our [Christmas Bird Count](https://westmannaturalists.ca/cbc) page for more information on how to participate, and let us know if you have any questions!
 
 **Participation**: Please complete this short form (https://forms.gle/tZV46k9FXnpy9RFq7) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
@@ -39,7 +41,9 @@ Monday, Dec 28 2026 - All Day
 
 Westman Naturalists - Rivers Christmas Bird Count
 
-Details to follow!
+Bird count season is around the corner! We're looking for volunteers (returning and new) to help cover a 15km circle around Rivers, either out in the field or from the comfort of your backyard. **This year the count is on a Monday.**
+
+Check out our [Christmas Bird Count](https://westmannaturalists.ca/cbc) page for more information on how to participate, and let us know if you have any questions!
 
 **Participation**: Please complete this short form (https://forms.gle/7FoK9X9K6V2cQBBcA) to sign-up for this event. We will email you with specific details a day or so before the event. Car pooling might be available.
 
