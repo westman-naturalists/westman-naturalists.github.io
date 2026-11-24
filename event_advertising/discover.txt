@@ -1,5 +1,27 @@
 
 
+Sunday, Dec 20 2026 - 5:00 PM
+
+
+Westman Naturalists - Pot Luck
+
+We will be having a potluck supper following the Christmas Bird count at the Riverbank Discovery Centre from 5pm to about 8pm. Setup will begin at 4:30pm with the supper commencing at about 5:30pm. 
+
+**Everyone is welcome to attend!**
+
+Please bring a dish to share and plates/bowl/utensils/mug if you can (we'll have some for those who can't or forget). 
+
+Also we'll be having a silent auction fundraiser so if you have anything to donate to this, that'd be great! Consider old nature guides, bird seed, little pieces of art you may have made, a nature-related gift you may have spotted somewhere, etc.
+
+**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+
+
+
+
+-----------
+
+
+
 Thursday, Feb 11 2027 - 7:00 PM
 Brodie Building Rm 4-34, Brandon University & Online ([directions](https://westmannaturalists.ca/https://WestmanNaturalists.ca/talks.html))
 
