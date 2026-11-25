@@ -113,7 +113,7 @@ events <- gs4_get(
     ),
     form = case_when(
       !is.na(form) & !str_detect(form, "^http") ~ form,
-      hosted != "Westman Naturalists" ~ "",
+      hosted != "Westman Naturalists" | form == "none" ~ "",
       type == "talk" ~ talk,
       type == "outing" ~ outing
     ),
