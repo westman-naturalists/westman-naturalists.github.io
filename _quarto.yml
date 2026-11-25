@@ -10,8 +10,16 @@ website:
         href: events.qmd
       - text: "Membership"
         href: membership.qmd
-      - text: "Resources"
-        href: resources.qmd
+      - text: "Explore"
+        menu:
+          - text: Explore Westman
+            href: explore.qmd
+          - text: Other Nature Organizations
+            href: nature-orgs.qmd
+          - text: Guidelines & Waiver
+            href: guidelines.qmd
+          - text: Christmas Bird Counts
+            href: cbc.qmd
       - text: "About"
         href: about.qmd
     right:
@@ -22,13 +30,15 @@ website:
       - icon: instagram
         href: https://www.instagram.com/westmannaturalists
   page-footer:
-    left:
+    center:
       - text: "Westman Naturalists Inc."
         href: index.qmd
       - text: "Contact"
         href: contact.qmd
       - text: "Event Waiver"
         href: waiver.qmd
+      - text: "Newsletter"
+        href: https://zcmp.ca/2Jq5f
     background: dark
 
 format:

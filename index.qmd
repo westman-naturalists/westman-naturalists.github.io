@@ -5,13 +5,14 @@ title-block-banner: images/headers/browneye.jpg
 
 ## Welcome!
 
-We are a group of amateur naturalists with the goal of exploring and enjoying the natural beauty and
-history of southwestern Manitoba. From wildlife to wildflowers and everything in between.
-Come experience what Westman has to offer!
+We are a group of amateur naturalists with the goal of exploring and enjoying the
+natural beauty and history of southwestern Manitoba. From wildlife to wildflowers
+and everything in between. Come experience what Westman has to offer!
 
-We host outings throughout the year, usually on weekends. In the spring and summer months we have
-evening walks every second Wednesday. And through autumn and winter, we host talks at
-Brandon University on topics ranging from identification tips to trip reports and fun facts about bugs!
+We host outings throughout the year, usually on weekends. In the spring and summer
+months we have evening walks every second Wednesday. And through autumn and winter,
+we host talks at Brandon University on topics ranging from identification tips to
+trip reports and fun facts about bugs!
 
 ## Checkout Our Next Event!
 
@@ -38,5 +39,20 @@ next_event <- readRDS("events.rds") |>
 print(next_event$print)
 ```
 
-
 See more upcoming and past events on our [events page](events.html).
+
+## Christmas Bird Counts
+
+Bird count season is around the corner! The [Brandon CBC](https://forms.gle/tZV46k9FXnpy9RFq7) is on Sunday, December 20th and the [Rivers CBC](https://forms.gle/7FoK9X9K6V2cQBBcA) will follow on December 28th. If you're interested in signing up or looking for more information, visit our [Christmas Bird Count page](cbc.html).
+
+<!--
+## Annual General Meeting
+
+Our Annual General Meeting is coming up on May 00th! For more information, visit our [AGM page](agm.html). Everyone is welcome, it's a great opportunity to see what we've accomplished in the last year and learn what we're planning for the year ahead!
+-->
+
+## Explore Westman
+
+Looking for a place to hike this weekend? Check our [trails page](explore.html) for details on great spots to hike, walk, and enjoy nature across the Westman region. And let us know if we're missing a spot that should be added to the list!
+
+Specifically looking for birds? You'll want to browse our [birding hotspots page](explore.html) for a list of superb birding destinations around Manitoba.
