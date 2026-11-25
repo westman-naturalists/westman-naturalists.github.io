@@ -1,19 +1,35 @@
 
 
+Saturday, Dec 19 2026 - All Day
+
+
+Westman Naturalists - Glenboro Christmas Bird Count
+
+Bird count season is around the corner! If you're intersted in the Glenboro Christmas bird count, contact [Carson Rogers](mailto:Rogers.carson5@gmail.com)
+
+**Participation**: 
+
+
+
+
+-----------
+
+
+
 Sunday, Dec 20 2026 - 5:00 PM
 
 
 Westman Naturalists - Pot Luck
 
-We will be having a potluck supper following the Christmas Bird count at the Riverbank Discovery Centre from 5pm to about 8pm. Setup will begin at 4:30pm with the supper commencing at about 5:30pm. 
+We will be having a potluck supper following the Brandon Christmas Bird count at the Riverbank Discovery Centre from 5pm to about 8pm. Setup will begin at 4:30pm with the supper commencing at about 5:30pm. 
 
 **Everyone is welcome to attend!**
 
 Please bring a dish to share and plates/bowl/utensils/mug if you can (we'll have some for those who can't or forget). 
 
-Also we'll be having a silent auction fundraiser so if you have anything to donate to this, that'd be great! Consider old nature guides, bird seed, little pieces of art you may have made, a nature-related gift you may have spotted somewhere, etc.
+Also we'll be having a **silent auction fundraiser** so if you have anything to donate to this, that'd be great! Consider old nature guides, bird seed, little pieces of art you may have made, a nature-related gift you may have spotted somewhere, etc.
 
-**Participation**: No sign up is required for this event, though there will be a waiver to sign.
+**Participation**: none
 
 
 
